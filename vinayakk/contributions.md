@@ -1,4 +1,6 @@
 ## Contributors
-- **Vinayak Khare:** - Datapreprocessing, model building(Llama 3) and evaluation
-- **Medha Sinha** - Datapreprocessing, model building(Llama 3) and evaluation
-- **Jai Dalvi** - Datapreprocessing, model building(Mistral AI) and evaluation
+Vinayak Khare: Vinayak led the data preprocessing efforts, ensuring that raw data was cleaned, standardized, and transformed appropriately for model consumption. He was instrumental in designing and building the Llama 3 model architecture, and he implemented LlamaIndex and LangChain to streamline document indexing and query processing. Vinayak fine-tuned the model for our specific tasks and conducted extensive evaluations to gauge its performance and robustness across various metrics.
+
+Medha Sinha: Medha played a key role in preparing the dataset by spearheading data scraping from various sources, followed by rigorous preprocessing that involved normalization, tokenization, and data augmentation. She collaborated on constructing the Llama 3 model and further fine-tuned it using few-shot prompting techniques, which optimized its performance on our specific problem set. Medha also led the evaluation process by comparing model outputs with ground-truth data to identify areas for improvement.
+
+Jai Dalvi: Jai focused on the preprocessing of data required for the Mistral AI model, ensuring compatibility and high-quality input for model training. He built and fine-tuned the Mistral AI model, adapting it to meet the challenges of our application. Jai also led the evaluation phase for the Mistral model, assessing its effectiveness and comparing its performance against the Llama 3 model to inform further refinements.

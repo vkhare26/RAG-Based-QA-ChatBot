@@ -36,4 +36,5 @@ Workflow:
       iii. We evaluated the system’s performance by testing it on a set of question-answer pairs, analyzing its accuracy and relevance in retrieving correct information.
       
 Conclusion:
+
 This pipeline successfully integrated web scraping, text processing, semantic retrieval, and LLM inference to create a robust RAG-based QA system. The combination of efficient retrieval methods and advanced language models ensured accurate and contextually relevant responses.

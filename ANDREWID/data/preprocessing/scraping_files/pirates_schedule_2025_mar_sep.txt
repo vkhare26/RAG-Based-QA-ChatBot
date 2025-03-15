@@ -1,0 +1,1754 @@
+Title: 3
+date: , 2025
+weekday: nan
+opponent: Tigers
+home_or_away: Home
+time: 6:05 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgid=20375&pid=9479858&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 15, 2025
+weekday: Sat
+opponent: Orioles
+home_or_away: Home
+time: 1:05 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgid=20375&pid=9479859&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 16, 2025
+weekday: Sun
+opponent: Yankees
+home_or_away: Away
+time: 1:05 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://www.mlb.com/app/ballpark/yankees/tickets/spring-training/single-game/home-game-12?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 17, 2025
+weekday: Mon
+opponent: Twins
+home_or_away: Home
+time: 1:05 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgid=20375&pid=9479860&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: , 2025
+weekday: nan
+opponent: Tigers
+home_or_away: Away
+time: 1:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgId=25241&pid=9495353&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 18, 2025
+weekday: Tue
+opponent: Phillies
+home_or_away: Home
+time: 1:05 pm EDT
+tv_broadcast: SportsNet-PIT, MLBN (out-of-market only)
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgid=20375&pid=9479861&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 19, 2025
+weekday: Wed
+opponent: Rays
+home_or_away: Away
+time: 1:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=48869&agency=MLBST_MPV&pid=9489449&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 21, 2025
+weekday: Fri
+opponent: Red Sox
+home_or_away: Away
+time: 6:05 pm EDT
+tv_broadcast: SportsNet-PIT+
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgid=21665&pid=9509591&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 22, 2025
+weekday: Sat
+opponent: Orioles
+home_or_away: Home
+time: 1:05 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://mlb.tickets.com/?agency=MLBST_MPV&orgid=20375&pid=9479862&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 23, 2025
+weekday: Sun
+opponent: Blue Jays
+home_or_away: Away
+time: 1:07 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://www.ticketmaster.com/event/0D00615DDF742D7B?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984773
+
+Title: 3
+date: Mar 24, 2025
+weekday: Mon
+opponent: Twins
+home_or_away: Away
+time: 1:05 pm EDT
+tv_broadcast: SportsNet-PIT
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=9&pid=9483726&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 27, 2025
+weekday: Thu
+opponent: Marlins
+home_or_away: Away
+time: 4:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=20&agency=MLB_MPV&pid=9497845&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 28, 2025
+weekday: Fri
+opponent: Marlins
+home_or_away: Away
+time: 7:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=20&agency=MLB_MPV&pid=9497846&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 29, 2025
+weekday: Sat
+opponent: Marlins
+home_or_away: Away
+time: 4:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=20&agency=MLB_MPV&pid=9497847&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 30, 2025
+weekday: Sun
+opponent: Marlins
+home_or_away: Away
+time: 1:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=20&agency=MLB_MPV&pid=9497848&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 31, 2025
+weekday: Mon
+opponent: Rays
+home_or_away: Away
+time: 7:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=25&agency=MLB_MPV&pid=9528163&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 3
+date: Mar 1, 2025
+weekday: Sat
+opponent: Orioles
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 2, 2025
+weekday: Sun
+opponent: Tigers
+home_or_away: Home
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 3, 2025
+weekday: Mon
+opponent: Yankees
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 4, 2025
+weekday: Tue
+opponent: Red Sox
+home_or_away: Home
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 5, 2025
+weekday: Wed
+opponent: Blue Jays
+home_or_away: Home
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 6, 2025
+weekday: Thu
+opponent: Orioles
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 7, 2025
+weekday: Fri
+opponent: Phillies
+home_or_away: Home
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 8, 2025
+weekday: Sat
+opponent: Braves
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 9, 2025
+weekday: Sun
+opponent: Tigers
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 10, 2025
+weekday: Mon
+opponent: Orioles
+home_or_away: Home
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 11, 2025
+weekday: Tue
+opponent: Yankees
+home_or_away: Home
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 13, 2025
+weekday: Thu
+opponent: Twins
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: Mar 14, 2025
+weekday: Fri
+opponent: Phillies Prospects
+home_or_away: Away
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 3
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-03/BUYTIX
+
+Title: 4
+date: Apr 1, 2025
+weekday: Tue
+opponent: Rays
+home_or_away: Away
+time: 7:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=25&agency=MLB_MPV&pid=9528164&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 2, 2025
+weekday: Wed
+opponent: Rays
+home_or_away: Away
+time: 1:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=25&agency=MLB_MPV&pid=9528165&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 4, 2025
+weekday: Fri
+opponent: Yankees
+home_or_away: Home
+time: 4:12 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488770&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 5, 2025
+weekday: Sat
+opponent: Yankees
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488771&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 6, 2025
+weekday: Sun
+opponent: Yankees
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488772&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 7, 2025
+weekday: Mon
+opponent: Cardinals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488773&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 8, 2025
+weekday: Tue
+opponent: Cardinals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488774&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 9, 2025
+weekday: Wed
+opponent: Cardinals
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488775&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 11, 2025
+weekday: Fri
+opponent: Reds
+home_or_away: Away
+time: 6:40 pm EDT
+tv_broadcast: Apple TV+
+Description: http://mlb.tickets.com/?orgid=6&agency=MLB_MPV&pid=9427556&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 12, 2025
+weekday: Sat
+opponent: Reds
+home_or_away: Away
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: http://mlb.tickets.com/?orgid=6&agency=MLB_MPV&pid=9427557&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 13, 2025
+weekday: Sun
+opponent: Reds
+home_or_away: Away
+time: 1:40 pm EDT
+tv_broadcast: nan
+Description: http://mlb.tickets.com/?orgid=6&agency=MLB_MPV&pid=9427558&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 14, 2025
+weekday: Mon
+opponent: Nationals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488776&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 15, 2025
+weekday: Tue
+opponent: Nationals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488777&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 16, 2025
+weekday: Wed
+opponent: Nationals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488778&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 17, 2025
+weekday: Thu
+opponent: Nationals
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488779&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 18, 2025
+weekday: Fri
+opponent: Guardians
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488780&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 19, 2025
+weekday: Sat
+opponent: Guardians
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488781&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 20, 2025
+weekday: Sun
+opponent: Guardians
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488782&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 22, 2025
+weekday: Tue
+opponent: Angels
+home_or_away: Away
+time: 9:38 pm EDT
+tv_broadcast: nan
+Description: https://www.mlb.com/app/ballpark/angels/tickets/single-game-tickets/home-game-10/public?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 23, 2025
+weekday: Wed
+opponent: Angels
+home_or_away: Away
+time: 9:38 pm EDT
+tv_broadcast: nan
+Description: https://www.mlb.com/app/ballpark/angels/tickets/single-game-tickets/home-game-11/public?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 24, 2025
+weekday: Thu
+opponent: Angels
+home_or_away: Away
+time: 9:29 pm EDT
+tv_broadcast: nan
+Description: https://www.mlb.com/app/ballpark/angels/tickets/single-game-tickets/home-game-12/public?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 25, 2025
+weekday: Fri
+opponent: Dodgers
+home_or_away: Away
+time: 10:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=8&pid=9527647&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 26, 2025
+weekday: Sat
+opponent: Dodgers
+home_or_away: Away
+time: 9:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=8&pid=9527648&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 27, 2025
+weekday: Sun
+opponent: Dodgers
+home_or_away: Away
+time: 4:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=8&pid=9527649&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 29, 2025
+weekday: Tue
+opponent: Cubs
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488783&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: Apr 30, 2025
+weekday: Wed
+opponent: Cubs
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488784&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 4
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-04/BUYTIX
+
+Title: 5
+date: May 1, 2025
+weekday: Thu
+opponent: Cubs
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488785&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 2, 2025
+weekday: Fri
+opponent: Padres
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: Apple TV+
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488786&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 3, 2025
+weekday: Sat
+opponent: Padres
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488787&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 4, 2025
+weekday: Sun
+opponent: Padres
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488788&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 5, 2025
+weekday: Mon
+opponent: Cardinals
+home_or_away: Away
+time: 7:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9484956&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 6, 2025
+weekday: Tue
+opponent: Cardinals
+home_or_away: Away
+time: 7:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9484957&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 7, 2025
+weekday: Wed
+opponent: Cardinals
+home_or_away: Away
+time: 1:15 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9484958&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 9, 2025
+weekday: Fri
+opponent: Braves
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488789&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 10, 2025
+weekday: Sat
+opponent: Braves
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488790&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 11, 2025
+weekday: Sun
+opponent: Braves
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488791&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 12, 2025
+weekday: Mon
+opponent: Mets
+home_or_away: Away
+time: 7:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=38129&pid=9492079&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 13, 2025
+weekday: Tue
+opponent: Mets
+home_or_away: Away
+time: 7:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=38129&pid=9492080&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 14, 2025
+weekday: Wed
+opponent: Mets
+home_or_away: Away
+time: 7:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=38129&pid=9492081&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 16, 2025
+weekday: Fri
+opponent: Phillies
+home_or_away: Away
+time: 6:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=21&pid=9481490&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 17, 2025
+weekday: Sat
+opponent: Phillies
+home_or_away: Away
+time: 6:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=21&pid=9481510&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 18, 2025
+weekday: Sun
+opponent: Phillies
+home_or_away: Away
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=21&pid=9481567&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 19, 2025
+weekday: Mon
+opponent: Reds
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: FS1
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488792&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 20, 2025
+weekday: Tue
+opponent: Reds
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488793&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 21, 2025
+weekday: Wed
+opponent: Reds
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488794&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 22, 2025
+weekday: Thu
+opponent: Brewers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488795&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 23, 2025
+weekday: Fri
+opponent: Brewers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488796&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 24, 2025
+weekday: Sat
+opponent: Brewers
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488797&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 25, 2025
+weekday: Sun
+opponent: Brewers
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488798&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 5
+date: May 26, 2025
+weekday: Mon
+opponent: D-backs
+home_or_away: Away
+time: 8:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/1900622D7ECB0D11?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984787
+
+Title: 5
+date: May 27, 2025
+weekday: Tue
+opponent: D-backs
+home_or_away: Away
+time: 9:40 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/1900622D7ECF0D27?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984787
+
+Title: 5
+date: May 28, 2025
+weekday: Wed
+opponent: D-backs
+home_or_away: Away
+time: 3:40 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/1900622D7ED30D3E?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984787
+
+Title: 5
+date: May 30, 2025
+weekday: Fri
+opponent: Padres
+home_or_away: Away
+time: 9:40 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/0A0061648F38117F?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984787
+
+Title: 5
+date: May 31, 2025
+weekday: Sat
+opponent: Padres
+home_or_away: Away
+time: 9:40 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/0A0061648F3C1186?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984787
+
+Title: 5
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-05/BUYTIX
+
+Title: 6
+date: Jun 1, 2025
+weekday: Sun
+opponent: Padres
+home_or_away: Away
+time: 5:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/0A0061648F40118B?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984799
+
+Title: 6
+date: Jun 3, 2025
+weekday: Tue
+opponent: Astros
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488799&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 4, 2025
+weekday: Wed
+opponent: Astros
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488800&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 5, 2025
+weekday: Thu
+opponent: Astros
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488801&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 6, 2025
+weekday: Fri
+opponent: Phillies
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488802&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 7, 2025
+weekday: Sat
+opponent: Phillies
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488803&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 8, 2025
+weekday: Sun
+opponent: Phillies
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488804&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 9, 2025
+weekday: Mon
+opponent: Marlins
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: FS1
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488805&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 10, 2025
+weekday: Tue
+opponent: Marlins
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488806&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 11, 2025
+weekday: Wed
+opponent: Marlins
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488807&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 12, 2025
+weekday: Thu
+opponent: Cubs
+home_or_away: Away
+time: 8:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476624&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 13, 2025
+weekday: Fri
+opponent: Cubs
+home_or_away: Away
+time: 2:20 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476625&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 14, 2025
+weekday: Sat
+opponent: Cubs
+home_or_away: Away
+time: 2:20 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476626&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 15, 2025
+weekday: Sun
+opponent: Cubs
+home_or_away: Away
+time: 2:20 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476627&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 17, 2025
+weekday: Tue
+opponent: Tigers
+home_or_away: Away
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=28&pid=9498087&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 18, 2025
+weekday: Wed
+opponent: Tigers
+home_or_away: Away
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=28&pid=9498088&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 19, 2025
+weekday: Thu
+opponent: Tigers
+home_or_away: Away
+time: 1:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=28&pid=9498089&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 20, 2025
+weekday: Fri
+opponent: Rangers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488808&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 21, 2025
+weekday: Sat
+opponent: Rangers
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: FS1
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488809&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 22, 2025
+weekday: Sun
+opponent: Rangers
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488810&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 23, 2025
+weekday: Mon
+opponent: Brewers
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=4&pid=9482196&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 24, 2025
+weekday: Tue
+opponent: Brewers
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=4&pid=9482197&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 25, 2025
+weekday: Wed
+opponent: Brewers
+home_or_away: Away
+time: 2:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=4&pid=9482198&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 27, 2025
+weekday: Fri
+opponent: Mets
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488811&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 28, 2025
+weekday: Sat
+opponent: Mets
+home_or_away: Home
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488812&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 29, 2025
+weekday: Sun
+opponent: Mets
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488813&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: Jun 30, 2025
+weekday: Mon
+opponent: Cardinals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488814&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 6
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-06/BUYTIX
+
+Title: 7
+date: Jul 1, 2025
+weekday: Tue
+opponent: Cardinals
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488815&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 2, 2025
+weekday: Wed
+opponent: Cardinals
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488816&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 4, 2025
+weekday: Fri
+opponent: Mariners
+home_or_away: Away
+time: 4:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/seattle-mariners-vs-pittsburgh-pirates-seattle-washington-07-04-2025/event/0F00615011A35429?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984815
+
+Title: 7
+date: Jul 5, 2025
+weekday: Sat
+opponent: Mariners
+home_or_away: Away
+time: 10:10 pm EDT
+tv_broadcast: FS1
+Description: https://www.ticketmaster.com/seattle-mariners-vs-pittsburgh-pirates-seattle-washington-07-05-2025/event/0F00615011A8542B?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984815
+
+Title: 7
+date: Jul 6, 2025
+weekday: Sun
+opponent: Mariners
+home_or_away: Away
+time: 4:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/seattle-mariners-vs-pittsburgh-pirates-seattle-washington-07-06-2025/event/0F00615011AD5430?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984815
+
+Title: 7
+date: Jul 7, 2025
+weekday: Mon
+opponent: Royals
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=11&pid=9438655&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 8, 2025
+weekday: Tue
+opponent: Royals
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=11&pid=9438656&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 9, 2025
+weekday: Wed
+opponent: Royals
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=11&pid=9438657&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 11, 2025
+weekday: Fri
+opponent: Twins
+home_or_away: Away
+time: 8:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=9&pid=9486311&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 12, 2025
+weekday: Sat
+opponent: Twins
+home_or_away: Away
+time: 2:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=9&pid=9486312&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 13, 2025
+weekday: Sun
+opponent: Twins
+home_or_away: Away
+time: 2:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=9&pid=9486313&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 14, 2025
+weekday: Mon
+opponent: nan
+home_or_away: nan
+time: 8:00 pm EDT
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-07/BUYTIX
+
+Title: 7
+date: Jul 15, 2025
+weekday: Tue
+opponent: NL All-Stars
+home_or_away: Away
+time: 8:00 pm EDT
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-07/BUYTIX
+
+Title: 7
+date: Jul 18, 2025
+weekday: Fri
+opponent: White Sox
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488817&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 19, 2025
+weekday: Sat
+opponent: White Sox
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488818&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 20, 2025
+weekday: Sun
+opponent: White Sox
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488819&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 21, 2025
+weekday: Mon
+opponent: Tigers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488820&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 22, 2025
+weekday: Tue
+opponent: Tigers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488821&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 23, 2025
+weekday: Wed
+opponent: Tigers
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488822&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 25, 2025
+weekday: Fri
+opponent: D-backs
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488823&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 26, 2025
+weekday: Sat
+opponent: D-backs
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488824&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 27, 2025
+weekday: Sun
+opponent: D-backs
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488825&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 28, 2025
+weekday: Mon
+opponent: Giants
+home_or_away: Away
+time: 9:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=2139&pid=9478320&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 29, 2025
+weekday: Tue
+opponent: Giants
+home_or_away: Away
+time: 9:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=2139&pid=9478321&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: Jul 30, 2025
+weekday: Wed
+opponent: Giants
+home_or_away: Away
+time: 3:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=2139&pid=9478322&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 7
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-07/BUYTIX
+
+Title: 8
+date: Aug 1, 2025
+weekday: Fri
+opponent: Rockies
+home_or_away: Away
+time: 8:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/1E006150C829A1A7?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984822
+
+Title: 8
+date: Aug 2, 2025
+weekday: Sat
+opponent: Rockies
+home_or_away: Away
+time: 3:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/1E006150C82DA1A9?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984822
+
+Title: 8
+date: Aug 3, 2025
+weekday: Sun
+opponent: Rockies
+home_or_away: Away
+time: 3:10 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/1E006150C832A1AB?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984822
+
+Title: 8
+date: Aug 4, 2025
+weekday: Mon
+opponent: Giants
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488826&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 5, 2025
+weekday: Tue
+opponent: Giants
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488827&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 6, 2025
+weekday: Wed
+opponent: Giants
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488828&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 7, 2025
+weekday: Thu
+opponent: Reds
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488829&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 8, 2025
+weekday: Fri
+opponent: Reds
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488830&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 9, 2025
+weekday: Sat
+opponent: Reds
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488831&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 10, 2025
+weekday: Sun
+opponent: Reds
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488832&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 11, 2025
+weekday: Mon
+opponent: Brewers
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=4&pid=9482217&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 12, 2025
+weekday: Tue
+opponent: Brewers
+home_or_away: Away
+time: 7:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=4&pid=9482218&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 13, 2025
+weekday: Wed
+opponent: Brewers
+home_or_away: Away
+time: 2:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=4&pid=9482219&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 15, 2025
+weekday: Fri
+opponent: Cubs
+home_or_away: Away
+time: 2:20 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476652&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 16, 2025
+weekday: Sat
+opponent: Cubs
+home_or_away: Away
+time: 2:20 pm EDT
+tv_broadcast: FS1
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476653&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 17, 2025
+weekday: Sun
+opponent: Cubs
+home_or_away: Away
+time: 2:20 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=5&agency=MLB_MPV&pid=9476654&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 18, 2025
+weekday: Mon
+opponent: Blue Jays
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488833&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 19, 2025
+weekday: Tue
+opponent: Blue Jays
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488834&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 20, 2025
+weekday: Wed
+opponent: Blue Jays
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488835&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 22, 2025
+weekday: Fri
+opponent: Rockies
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488836&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 23, 2025
+weekday: Sat
+opponent: Rockies
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488837&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 24, 2025
+weekday: Sun
+opponent: Rockies
+home_or_away: Home
+time: 12:05 pm EDT
+tv_broadcast: Roku
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488838&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 25, 2025
+weekday: Mon
+opponent: Cardinals
+home_or_away: Away
+time: 7:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9485003&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 26, 2025
+weekday: Tue
+opponent: Cardinals
+home_or_away: Away
+time: 7:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9485004&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 27, 2025
+weekday: Wed
+opponent: Cardinals
+home_or_away: Away
+time: 7:45 pm EDT
+tv_broadcast: FS1
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9485005&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 28, 2025
+weekday: Thu
+opponent: Cardinals
+home_or_away: Away
+time: 2:15 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=10&agency=MLB_MPV&pid=9485006&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 29, 2025
+weekday: Fri
+opponent: Red Sox
+home_or_away: Away
+time: 7:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=23&pid=9518937&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 30, 2025
+weekday: Sat
+opponent: Red Sox
+home_or_away: Away
+time: 4:10 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=23&pid=9518938&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: Aug 31, 2025
+weekday: Sun
+opponent: Red Sox
+home_or_away: Away
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=23&pid=9518939&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 8
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-08/BUYTIX
+
+Title: 9
+date: Sep 2, 2025
+weekday: Tue
+opponent: Dodgers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488839&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 3, 2025
+weekday: Wed
+opponent: Dodgers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488840&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 4, 2025
+weekday: Thu
+opponent: Dodgers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488841&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 5, 2025
+weekday: Fri
+opponent: Brewers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488842&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 6, 2025
+weekday: Sat
+opponent: Brewers
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488843&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 7, 2025
+weekday: Sun
+opponent: Brewers
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488844&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 9, 2025
+weekday: Tue
+opponent: Orioles
+home_or_away: Away
+time: 6:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=56069&pid=9479511&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 10, 2025
+weekday: Wed
+opponent: Orioles
+home_or_away: Away
+time: 6:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=56069&pid=9479512&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 11, 2025
+weekday: Thu
+opponent: Orioles
+home_or_away: Away
+time: 1:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=56069&pid=9479513&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 12, 2025
+weekday: Fri
+opponent: Nationals
+home_or_away: Away
+time: 6:45 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=17&agency=MLB_MPV&pid=9489802&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 13, 2025
+weekday: Sat
+opponent: Nationals
+home_or_away: Away
+time: 4:05 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=17&agency=MLB_MPV&pid=9476381&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 14, 2025
+weekday: Sun
+opponent: Nationals
+home_or_away: Away
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?orgid=17&agency=MLB_MPV&pid=9476407&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 15, 2025
+weekday: Mon
+opponent: Cubs
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488845&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 16, 2025
+weekday: Tue
+opponent: Cubs
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488846&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 17, 2025
+weekday: Wed
+opponent: Cubs
+home_or_away: Home
+time: 12:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488847&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 19, 2025
+weekday: Fri
+opponent: Athletics
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488848&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 20, 2025
+weekday: Sat
+opponent: Athletics
+home_or_away: Home
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488849&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 21, 2025
+weekday: Sun
+opponent: Athletics
+home_or_away: Home
+time: 1:35 pm EDT
+tv_broadcast: nan
+Description: https://mlb.tickets.com/?agency=MLB_MPV&orgid=7&pid=9488850&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 23, 2025
+weekday: Tue
+opponent: Reds
+home_or_away: Away
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: http://mlb.tickets.com/?orgid=6&agency=MLB_MPV&pid=9427627&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 24, 2025
+weekday: Wed
+opponent: Reds
+home_or_away: Away
+time: 6:40 pm EDT
+tv_broadcast: nan
+Description: http://mlb.tickets.com/?orgid=6&agency=MLB_MPV&pid=9427628&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 25, 2025
+weekday: Thu
+opponent: Reds
+home_or_away: Away
+time: 12:40 pm EDT
+tv_broadcast: nan
+Description: http://mlb.tickets.com/?orgid=6&agency=MLB_MPV&pid=9427629&tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape
+
+Title: 9
+date: Sep 26, 2025
+weekday: Fri
+opponent: Braves
+home_or_away: Away
+time: 7:15 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/0E00615C218E56DB?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984829
+
+Title: 9
+date: Sep 27, 2025
+weekday: Sat
+opponent: Braves
+home_or_away: Away
+time: 7:15 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/0E00615C219156DE?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984829
+
+Title: 9
+date: Sep 28, 2025
+weekday: Sun
+opponent: Braves
+home_or_away: Away
+time: 3:15 pm EDT
+tv_broadcast: nan
+Description: https://www.ticketmaster.com/event/0E00615C219456E5?tfl=Pittsburgh_Pirates-Schedule-Pittsburgh_Pirates:_Schedule:_Schedule-web-x0-Desktop-Landscape&adobe_mc=MCMID=86217091975041206541755581729120295966&MCORGID=A65F776A5245B01B0A490D44%2540AdobeOrg&TS=1741984829
+
+Title: 9
+date: , 2025
+weekday: nan
+opponent: nan
+home_or_away: nan
+time: nan
+tv_broadcast: nan
+Description: https://www.mlb.com/pirates/schedule/2025-09/BUYTIX

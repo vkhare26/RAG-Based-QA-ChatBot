@@ -1,0 +1,187 @@
+
+GIS
+
+
+Geographic Information Systems
+
+The GIS Division of the Department of Innovation and Performance provides data and analysis services to City departments and authorities. GIS data is provided to internal and external users in an easy-to-use interface through the creation and maintenance of Interactive Web Applications. The GIS team incorporates Open Data into a workflow for better sharing and more standardized data use by all. The team collaborates with outside agencies to establish critical authoritative data with a focus on greater accuracy.
+
+Downloadable Maps & Data
+
+View GIS Open Data and Historic 200 Scale Maps.
+
+GIS Links & Resources
+
+Access a variety of links & resources, including regional and census data.
+
+Interactive Maps
+
+The GIS Team of the Department of Innovation & Performance created mapping tools to better serve the residents of Pittsburgh.
+
+Address Request
+
+Before any type of permit application can be reviewed/issued in the City of Pittsburgh, an address must be obtained from the City's GIS Team.
+
+New Street Name Request
+
+Get information about how to submit a New Street Name Request to the GIS Team.
+
+Downloadable Maps & Data
+
+
+
+- GIS Open Data
+- WPRDC Data Download
+
+Historic 200 Scale Maps (Downloadable files)
+
+
+
+- 1984 200 Scale Lot and Block Maps(ZIP, 63MB)
+- 1984 200 Scale Topography Maps(ZIP, 65MB)
+
+Downloadable Maps & Data
+
+
+
+- GIS Open Data
+- WPRDC Data Download
+
+Historic 200 Scale Maps (Downloadable files)
+
+
+
+- 1984 200 Scale Lot and Block Maps(ZIP, 63MB)
+- 1984 200 Scale Topography Maps(ZIP, 65MB)
+
+Interactive Maps
+
+The GIS Team of the Department of Innovation & Performance created mapping tools to better serve the residents of Pittsburgh. These maps include the following.
+Be advised that our interactive map URLs have all been upgraded to a new server and have changed. Please update your bookmarks accordingly. Thank you.
+
+Administrative
+
+
+
+- City of Pittsburgh
+- Pittsburgh Index Map
+- Zoning & Parcel
+- Neighborhoods
+- Wards & Voting Districts
+- City Council Districts
+- Pittsburgh Public School Board Districts
+
+Transportation
+
+
+
+- DOMI Road Obstructions
+- Residential Permit Parking
+- Parking Meters
+- Street Ownership
+
+Community
+
+
+
+- Pittsburgh Historic Maps
+- Who's Your Neighborhood Planner
+- City Steps
+- Community Development Block Grant Eligible Areas
+
+Environment
+
+
+
+- Public Art, Monuments and Memorials
+- PGH Environmental Map
+- Riverbank Assessment
+- PGH Stormwater Map
+- Pittsburgh RAD Parks
+- Pittsburgh Trails Map
+
+Population
+
+
+
+- Pittsburgh Neighborhood Renter Housing Burden Map
+- Community Profile
+- Pittsburgh Demographics
+- 2010/2020 Census Comparison
+- Healthy Food Priority Areas
+- SNAP
+
+Hubs
+
+
+
+- Engage PGH
+- OurFuture PGH
+- Opioid Overdose Prevention
+
+Additional Resources
+
+Need help finding information? Check out ourUser Guide(PDF, 2MB)for assistance.
+Your browser does not support inline frames.Please visithttps://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=0b82e78539464c3da121dcab22e444d4
+Open Full View Map
+
+Disclaimer
+
+While the data has been tested for accuracy and are properly functioning, The City of Pittsburgh disclaims any responsibility for the accuracy or correctness of the data.
+The foregoing warranty is exclusive and in lieu of all other warranties or merchantability, fitness for particular purpose and/or any other type whether expressed or implied. In no event shall The City of Pittsburgh become liable to users of these data, or any other party, for any loss or damages, consequential or otherwise, including but not limited to time, money, or goodwill, arising from the use, operation or modification of the data. In using these data, users further agree to indemnify, defend, and hold harmless The City of Pittsburgh for any and all liability of any nature arising out of or resulting from the lack of accuracy or correctness of the data, or the use of the data.
+
+
+- Please acknowledge The City of Pittsburgh as a source when this data is used in the preparation of reports, papers, publications, maps, and other products.
+- To ensure that appropriate documentation and data limitations are provided, these databases should not be redistributed to any other parties.
+
+Address Request
+
+
+How To Obtain a New Street Address or Change of Address
+
+Before any type of permit application can be reviewed/issued in the City of Pittsburgh, an address must be obtained from the City's GIS Team
+- Instructions and Applications are available at:Address Application Instructions(PDF, 512KB)Address Application(PDF, 316KB)(a fillable pdf form)
+
+
+    * Address Application Instructions(PDF, 512KB)
+    * Address Application(PDF, 316KB)(a fillable pdf form)
+- GIS assigns street address and inform relevant City of Pittsburgh departments, Allegheny County departments, & the United States Postal Service approximately two weeks after this fully completed application has been received & all required documents are provided
+
+Address Assignment Information
+
+
+
+- Addresses are issued based upon survey information.
+- Dependent upon the type of project, the address assignment may take anywhere from one day to two weeks.
+- Review Criteria:Determination of how the particular lot fits in with the entire block sequence.Formula: One address per 11 linear feet, or closest number of feet to 11 if insufficient footage available.The site is field checked for any discrepancies.Address assignment sent to Post Office and 911 Communications.
+
+
+    * Determination of how the particular lot fits in with the entire block sequence.
+    * Formula: One address per 11 linear feet, or closest number of feet to 11 if insufficient footage available.
+    * The site is field checked for any discrepancies.
+    * Address assignment sent to Post Office and 911 Communications.
+
+Contact Us
+
+City GISDepartment of Innovation and Performance604 City - County Building414 Grant St.Pittsburgh, PA 15219
+Phone: (412) 255-2152Fax: (412) 255-2431addressing@pittsburghpa.gov
+
+New Street Name Request
+
+
+How to Obtain a New Street Name
+
+- Applicant submits a New Street Name Request to the GIS TeamStreet Application Instructions(PDF, 306KB)Street Application(PDF, 389KB)(a fillable pdf form)
+
+
+    * Street Application Instructions(PDF, 306KB)
+    * Street Application(PDF, 389KB)(a fillable pdf form)
+- GIS reviews the request.
+- When the review and verification process is complete, legislation is drawn up and sent to City Council for approval.
+- Final approval is obtained from the Mayor’s Office.
+Note:The entire review time takes an average of three months.
+
+Contact Us
+
+City GISDepartment of Innovation and Performance604 City - County Building414 Grant St.Pittsburgh, PA 15219
+Phone: (412) 255-2152Fax: (412) 255-2431addressing@pittsburghpa.gov

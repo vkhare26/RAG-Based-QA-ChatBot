@@ -1,0 +1,132 @@
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/music-performing-arts/?page=1
+Page Title: 
+================================================================================
+Place Name: EQT Children's Theater Series
+Address: 101 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: BNY Mellon Presents JazzLive
+Address: 655 Penn Ave., Theater Square
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Kelly Strayhorn Theater
+Address: 5941 Penn Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 363-3000
+--------------------------------------------------------------------------------
+Place Name: Chatham Baroque
+Address: 315 Shady Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 687-1788
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Public Theater
+Address: 621 Penn Ave., O'Reilly Theater
+Pittsburgh, Pennsylvania 15222
+(412) 316-1600
+--------------------------------------------------------------------------------
+Place Name: August Wilson African American Cultural Center
+Address: 980 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-1011
+--------------------------------------------------------------------------------
+Place Name: Theater Square
+Address: 655 Penn Ave. at 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Banjo Club
+Address: 400 Cedar Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 271-2712
+--------------------------------------------------------------------------------
+Place Name: Point Park University's Pittsburgh Playhouse
+Address: 350 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 392-8000
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Symphony Orchestra
+Address: 600 Penn Ave., Heinz Hall
+Pittsburgh, Pennsylvania 15222
+(412) 392-4900
+--------------------------------------------------------------------------------
+Place Name: Liberty Magic
+Address: 811 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: PNC Broadway in Pittsburgh
+Address: 7th St. at Liberty Ave., Benedum Center for the Performing Arts
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: The Andy Warhol Museum
+Address: 117 Sandusky St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-8300
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Opera
+Address: 2425 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-0912
+--------------------------------------------------------------------------------
+Place Name: Greer Cabaret Theater
+Address: (between Sixth & Seventh Streets), 655 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-2610
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh CLO
+Address: 719 Liberty Ave., 6th Floor, The Benedum Center
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Heinz Hall
+Address: 600 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 392-4900
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Dance Council
+Address: 101 Sixth St., c/o Byham Theater
+803 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Benedum Center for the Performing Arts
+Address: 237 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Byham Theater
+Address: 101 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Ballet Theatre
+Address: 2900 Liberty Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 281-0360
+--------------------------------------------------------------------------------
+Place Name: City Theatre Company
+Address: 1300 Bingham St.
+Pittsburgh, Pennsylvania 15203
+(412) 431-2489
+--------------------------------------------------------------------------------
+Place Name: City of Asylum
+Address: 40 W. North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 435-1110
+--------------------------------------------------------------------------------
+Place Name: Arcade Comedy Theater
+Address: 943 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-0608
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/music-performing-arts/?page=2
+Place Name: Trust Arts Education Center
+Address: 805-807 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------

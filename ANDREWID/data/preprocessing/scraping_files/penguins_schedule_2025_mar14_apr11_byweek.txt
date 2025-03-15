@@ -1,0 +1,95 @@
+Title: 2025-03-15
+matchup: Devils
+@
+Penguins
+time: 3:00 PM EDT
+broadcasters: nan
+Description: https://www.ticketmaster.com/event/160060DAD989592D?brand=penguins&artistid=806005&wt.mc_id=NHL_TEAM_PIT_SCHEDULE_GM35&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PIT&utm_content=SCHEDULE_GM35&CAMEFROM=NHLPENGUINS_NHL_CLUB_SCHEDULE
+
+Title: 2025-03-18
+matchup: Islanders
+@
+Penguins
+time: 7:00 PM EDT
+broadcasters: SN-PIT, MSGSN
+Description: https://www.ticketmaster.com/event/160060DAD98D5931?brand=penguins&artistid=806005&wt.mc_id=NHL_TEAM_PIT_SCHEDULE_GM36&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PIT&utm_content=SCHEDULE_GM36&CAMEFROM=NHLPENGUINS_NHL_CLUB_SCHEDULE
+
+Title: 2025-03-21
+matchup: Blue Jackets
+@
+Penguins
+time: 7:00 PM EDT
+broadcasters: SN-PIT, FDSNOH
+Description: https://www.ticketmaster.com/event/160060DAD9915946?brand=penguins&artistid=806005&wt.mc_id=NHL_TEAM_PIT_SCHEDULE_GM37&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PIT&utm_content=SCHEDULE_GM37&CAMEFROM=NHLPENGUINS_NHL_CLUB_SCHEDULE
+
+Title: 2025-03-23
+matchup: Penguins
+@
+Panthers
+time: 6:00 PM EDT
+broadcasters: SN-PIT, SCRIPPS
+Description: nan
+
+Title: 2025-03-25
+matchup: Penguins
+@
+Lightning
+time: 7:00 PM EDT
+broadcasters: SN-PIT, FDSNSUN
+Description: nan
+
+Title: 2025-03-27
+matchup: Penguins
+@
+Sabres
+time: 7:00 PM EDT
+broadcasters: SN-PIT, MSG-B
+Description: nan
+
+Title: 2025-03-30
+matchup: Senators
+@
+Penguins
+time: 5:00 PM EDT
+broadcasters: SN-PIT
+Description: https://www.ticketmaster.com/event/160060DAD9945962?brand=penguins&artistid=806005&wt.mc_id=NHL_TEAM_PIT_SCHEDULE_GM38&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PIT&utm_content=SCHEDULE_GM38&CAMEFROM=NHLPENGUINS_NHL_CLUB_SCHEDULE
+
+Title: 2025-04-03
+matchup: Penguins
+@
+Blues
+time: 8:00 PM EDT
+broadcasters: SN-PIT, FDSNMW
+Description: nan
+
+Title: 2025-04-05
+matchup: Penguins
+@
+Stars
+time: 3:00 PM EDT
+broadcasters: nan
+Description: nan
+
+Title: 2025-04-06
+matchup: Penguins
+@
+Blackhawks
+time: 6:00 PM EDT
+broadcasters: SN-PIT, CHSN
+Description: nan
+
+Title: 2025-04-08
+matchup: Blackhawks
+@
+Penguins
+time: 7:00 PM EDT
+broadcasters: SN-PIT, CHSN
+Description: https://www.ticketmaster.com/event/160060DAD9985979?brand=penguins&artistid=806005&wt.mc_id=NHL_TEAM_PIT_SCHEDULE_GM39&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PIT&utm_content=SCHEDULE_GM39&CAMEFROM=NHLPENGUINS_NHL_CLUB_SCHEDULE
+
+Title: 2025-04-11
+matchup: Penguins
+@
+Devils
+time: 7:00 PM EDT
+broadcasters: SN-PIT, MSGSN
+Description: nan

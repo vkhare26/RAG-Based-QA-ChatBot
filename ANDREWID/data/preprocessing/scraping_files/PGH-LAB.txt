@@ -1,0 +1,277 @@
+
+PGH Lab
+
+
+What is PGH Lab?
+
+
+
+
+
+PGH Lab is...
+
+a 6-month partnership program that connects local startups with local government
+
+
+
+
+PGH Lab provides...
+
+25k stipend and the opportunity for businesses to pilot products and services, gain feedback, and network
+
+
+
+
+PGH Lab innovates...
+
+local government through new technologies and services to be more efficient, transparent, sustainable, and inclusive
+
+
+
+
+Who Should Apply?
+
+Streamline city services to make them simpler, faster, and less costly.
+Help the city reduce pollution, improve resident access to resources, and integrate environmental considerations into decision making.
+Assurance of equitable access to all city services and opportunities.
+Help the city address new and long-standing health, safety, and justice issues that impact its residents.
+Caption:PGH Lab is an early stage incubator-like program that helps progress startups to the growth stage of their life cycle. Seed stage - Creation and validation of a business model. Early - Testing of a minimum viable product. Growth- Establishing a strong market demand and profitability. Expansion - Scale-up of proven business model.
+
+Cohort 10
+
+Cohort Member:Make It Home Safe
+City Partner: Department of Public Safety
+Cohort Member:Reclamation Factory
+City Partner: Department of Public Works
+Cohort Member:ethos collaborative
+City Partner: Department of Mobility & Infrastructure
+Cohort Member:VRIDIAN
+City Partners: Department of Finance
+
+Hear from our Last Cohort
+
+Read More About These Startup Pilots
+
+Benefits
+
+
+Alumni
+
+
+Startup Resources
+
+
+FAQ
+
+
+Contact Us
+
+
+Benefits
+
+
+
+
+
+-PGH Lab Benefits-
+
+Organizations selected for PGH Lab will each receive the following:
+Program
+An 6 month partnership with a City department Champion who will work with you to pilot your product and introduce you to the innerworkings of City government.
+Network
+Access to a growing support network of businesses incubators, accelerators, and funders who can help your business meet its impact and financial goals.
+Funding
+Each participating company will receive a stipend totaling 25k that will be distributed in parts over the course of the six month PGH Lab pilot.
+
+
+
+
+-Eligibility Criteria-
+
+Businesses that apply must
+
+
+- Commit to participate for the full length of program.
+- Be a startup defined as:TA legally registered company.Headquartered in Allegheny County (Pittsburgh-based preferred).Have a working beta-stage, pilot-ready product/service ready to be tested at the City and/or participant organizations.Read and AcknowledgePGH Lab Rules and Regulations(PDF, 378KB).The PGH Lab Rules & Regulations will go into effect on a startup if invited to participate in the program.
+
+
+    * TA legally registered company.
+    * Headquartered in Allegheny County (Pittsburgh-based preferred).
+    * Have a working beta-stage, pilot-ready product/service ready to be tested at the City and/or participant organizations.
+    * Read and AcknowledgePGH Lab Rules and Regulations(PDF, 378KB).The PGH Lab Rules & Regulations will go into effect on a startup if invited to participate in the program.
+
+
+    * The PGH Lab Rules & Regulations will go into effect on a startup if invited to participate in the program.
+PGH Lab review committee will base the selection process according to the following:
+
+
+- Met Minimum Criteria required.
+- Innovation:Does the product already exist?To what extent is the product innovative?How does it fit with the needs of the City of Pittsburgh and participant organizations?
+
+
+    * Does the product already exist?
+    * To what extent is the product innovative?
+    * How does it fit with the needs of the City of Pittsburgh and participant organizations?
+- Impact:Would the beta-stage product or service lead to short-term or long-term outcomes that will benefit the city and its residents?
+
+
+    * Would the beta-stage product or service lead to short-term or long-term outcomes that will benefit the city and its residents?
+- Feasibility:Can the product be realistically implemented in city government given the current resources and capabilities?What kinds of actions will it require the City or the Participant Organizations to accomplish to make the pilot program successful?
+
+
+    * Can the product be realistically implemented in city government given the current resources and capabilities?
+    * What kinds of actions will it require the City or the Participant Organizations to accomplish to make the pilot program successful?
+last updated: 06/03/2025
+
+Alumni
+
+
+PGH Lab Program Alumni
+
+
+Previous Projects
+
+Startup:HiberSensePartner:Urban Redevelopment AuthorityPilot Program:HiberSense acts as a network of smart thermostats, adjusting the climate in every room. Before entering the program, the company had only piloted their product in residential facilities. While participating in the program, the company was able to test its new technology at a larger scale on the 11th floor of the Ross Street Building where the Urban Redevelopment Authority (URA) is located. By learning about the URA’s HVAC system, HiberSense discovered that the local authority could potentially save 20% in energy savings.
+Startup:TransitSourcePartner:Department of Planning, City of PittsburghPilot Program:TransitSource was one of the three startups in the first cohort of PGH Lab. The startup piloted its Sentinel Boxes, a bike-mounted piece of hardware that detects and reports close calls for cyclists, or events where a motor-vehicle narrowly passes a bicycle. The device interfaces with the cyclist's smartphone to record GPS location, time of day, passing distance, moving speed of the passing vehicle and a picture of the event.  The startup tested its Sentinel Box on one of Pittsburgh’s busiest streets, Negley Avenue. With the help of four dedicated volunteers, the seven-week pilot program yielded a total of 239 trips equal to 65 miles on the road. This was the first time the Sentinel Boxes were tested on a larger scale. TransitSource reported that of the 7,604 passing events, 2,500 were within four feet of the bicyclist which, in the state of Pennsylvania, that is considered to be an ‘unsafe pass’. Results from the pilot period concluded that 1 in 3 passing events were not only unsafe, but unlawful.
+Startup:CleanRoboticsPartner:Department of Public Works, City of PittsburghPilot Program:The startup company tested its flagship product, the Trashbot. The TrashBot uses advanced robotics and artificial intelligence to sort recyclables from waste at the point of disposal. This process drastically increases the recycling yield and improves its quality through reduced contamination. In coordination with the Office of Environmental services, the Trashbot was placed on the first floor of the City-County Building. The first floor of the City-County Building provided an ideal location to test the Trashbot and its use as it is a highly transited area. The Trashbot was tested for one week. In addition, the startup was able to run surveys that tested the look and feel of the Trashbot.
+Startup:KaartaPartner:Department of Public Works, City of PittsburghPilot Program:Kaarta tested its 3D scanning technology that blends multiple advanced sensors — a 360° lidar laser scanner, a motion sensor, and a feature tracker — to survey its environment and accurately determine where it is and what’s around it. The startup tested its 3D scanner technology in two different settings with the help of the Department of Public Works at the City of Pittsburgh. Their case studies included an abandoned building where the company used its technology to show the extent of the interior damage and site components and a department of public works warehouse to map the location of inventory in the building. Read more about this pilot here.
+Startup:MellonHead LabPartner:Pittsburgh Water and Sewer Authority (PWSA)Pilot Program:The startup company tested its CATTfish water sensor with the Pittsburgh Water and Sewer Authority (PWSA). The sensor is used by both citizens and industry to track water quality changes over long periods of time and large geographic areas. Cloud based visualization of large data sets allows easy interpretation of results. The company gained access to a water plant owned by PWSA to test its larger size water quality sensor called Flamingo. The startup company was able to gain and report data to PWSA regarding the water quality of one of its plants.
+<
+Startup:NetBeezPartner:Department of Innovation & Performance, City of PittsburghPilot Program:Netbeez’s technology allows for early off-site detection — therefore reducing location visits and time required by network engineers to check on network performance. In partnership with the Department of Innovation & Performance, the startup company wanted to help the City of Pittsburgh monitor its network performance on a day-to-day basis to identify problems before they occur. The company deployed eight sensors since February 2018, which have been providing information to City of Pittsburgh network engineers. Some sensors were placed in the Department of Innovation & Performance and Council Chambers where there is access to public Wi-Fi.  After the pilot project the startup was able to continue its engagement with the Department of Innovation & Performance with a paid contract.
+Startup:Global WordsmithsPartner:Housing Authority of the City of Pittsburgh (HACP)Pilot Program:Global Wordsmiths is a social enterprise dedicated to improving language access for Limited English Proficiency (LEP) individuals. The startup helps organizations to incorporate, learn, and implement language access services through a customized strategic Language Access plan. Global Wordsmiths tested its language access consulting stack with the Housing Authority of the City of Pittsburgh (HACP). The startup implemented a series of interviews and training for HACP's customer facing employees in the Occupancy Department, the first point of contact for Low-income Housing Program and the Housing Choice Voucher Program.
+Startup:ZensorsPartner:Pittsburgh Parking AuthorityPilot Program:Zensors uses artificial intelligence via a camera software system to provide human-centered and actionable sensor output with minimal hardware installation. The product allows the user to make data-driven decisions. The startup worked with the Pittsburgh Parking Authority on a dynamic pricing study of a busy commercial street in the city. The startup deployed 13 cameras equipped with the AI software to gain real data for the study.
+Startup:Meta Mesh Wireless CommunitiesPartner:Housing Authority of the City of PittsburghPilot Program:Meta Mesh is a non-profit organization that bridges the digital divide in Western Pennsylvania by using mesh networking technology to provide communities with a low-cost public WiFi option. Meta Mesh builds these networks and teaches others about networking and WiFi. The startup company worked with the Housing Authority of the City of Pittsburgh (HACP) to gain access to high buildings to test its mesh networking capabilities with the goal of providing outside free wireless access to residents living in three HACP buildings.
+Startup:QlicketPartner:Urban Redevelopment AuthorityPilot Program:Qlicket provides an office communication solution that offers organizations a simple, natural way to solicit feedback. Qlicket’s software drives engagement and helps companies address workplace issues more effectively by providing the most direct and scalable way to hear and respond to the voice of their employees. The startup tested its desktop communications platform in a organization wide pilot project at the Urban Redevelopment Authority (URA). The startup engaged URA employees with daily questions about their workplace environment and fun engaging questions customized by the URA’s Human Resource Director. The average employee response rate during the pilot period was 73 % . After the pilot period, the company introduced its new product, an interactive kiosk that encourages greater employee communications and engagement.
+
+Hear from our Last Cohort
+
+Dashcam For Your Bike + Department of Mobility and Infrastructure
+Royally Fit + Department of City Planning
+Farm to Flame + Department of City Planning: Sustainability & Resilience Division
+Kloopify + Office of Management & Budget: Procurement | City Planning: Sustainability & Resilience Division
+
+Startup Resources
+
+
+-Let's Get Started-
+
+
+Create A Business Plan
+
+Craft your business plan.A business plan is a living document that serves as a roadmap for your business. You can find guidelines and templates to make your own business plan from the Small Business Administration (SBA) and SBDC Net.
+SBA Business Plan Guide & ExamplesPA Business One-Stop Shop Business Plan TemplateSBDC Business Plan TemplatesCreate a Business PlanReview your Business Plan.Small Business Development Centers (SBDCs) provide confidential consulting, free and low-cost training, and ongoing training to entrepreneurs and small businesses starting and growing a business in Pennsylvania. Below are three nationally renowned (and local!) SBDCs open to all current and prospective entrepreneurs.Chatham University's Center for Women's EntrepreneurshipDuquesne University's Small Business Development CenterUniversity of Pittsburgh's Institute for Entrepreneurial ExcellenceSCORE Pittsburgh's MentorshipTest your Business Plan.Incubator and accelerator programs can provide you an opportunity to test, grow, and develop your business ideas. At the City, we have a government incubator program called PGH Lab where we engage startup companies to test their solutions for civic good and innovation.
+PGH LabIncubator vs. Accelerator ProgramsJoin a network or association with like-minded individuals.There are a variety of professional networks and associations for different business areas and demographics of entrepreneurs. The Small Business Administration (SBA) maintains pages for different businesses that you can access below.Women-Owned BusinessesNative American-Owned BusinessesVeteran-Owned BusinessesLGBTQ+-Owned BusinessesMinority-Owned Businesses
+
+Name And Register Your Business
+
+Determine your business structure.In order to register your own trade name, you must decide what legal structure your business will have (sole proprietorship, general partnership, corporation, etc). Your business structure will affect your legal responsibilities, so be sure to carefully consider and consult with others prior to making a decision.
+Choose your Business Structure
+
+
+- Name Your Business. Choose a name that is unique, relevant, and easily accessible and identifiable for customers.
+- Verify the name you chose is available. If the name of your choice is already taken, you will need to search until a unique legal name is found.
+- Register your Fictitious Name. A fictitious name is a name that you refer to your business when conducting business if not the legal name you registered.
+Confirm Business Name AvailabilityRegister Fictitious Name
+Register your business.Once you have identified a name for your business alongside a business plan, you can register your business. The PA Business One-Stop Shop site can help you identify what you need to start your with a one-stop registration guide and provide a custom checklist generator.
+Create a Business ChecklistBasic Business Registration OverviewApply for an Employer Identification Number (EIN),also known as a Federal Tax ID Number. If you are a sole proprietor, you may be able to use your Social Security Number instead.
+Apply For an EINRegister your business on Beacon.In order to qualify for City procurement opportunities, you must be registered on Beacon.
+Registering a Allegheny County BusinessResearch required insurances.There are a variety of types of insurances you must have not only to protect you from potential losses and lawsuits, but also to uphold obligations established by law.
+View PA Business TaxesRetrieve Business Insurance
+
+Register with Tax Authorities And Obtain Necessary Permits
+
+Register with relevant tax authorities.Make sure that you have all of your documentation in order prior to starting business.
+IRS Tax InformationPA Department of Revenue Tax InformationPittsburgh Department of Finance Tax InformationRegister for any relevant business related taxes.Ensure that you are in compliance with relevant business taxes. Access the State website to register and pay for business related taxes here.
+Visit PA-100Determine whether a special permit or license is required for your business.Depending on the nature of your business, you may require permits and licenses from the County.
+Search at PA BusinessVisit OneStopPGHCreate Checklist at PA Business
+
+Finance Your Business
+
+Determine your financing needs.To start your business, you will need money or capital to purchase equipment and run your operations. It is important, however to budget your expenses based off your needs. Having an accurate budget is important to appeal and qualify for loans and funding opportunities.
+Calculate Costs at SBAIdentify incentive programs.Your business can benefit from incentive programs that allow you to lower your cost of doing business. Many incentives can be found in the form of tax credits.
+Learn IRS Business Tax CreditsIdentify funding opportunities.Once you determine your financing needs and applicable financial incentives, seek out different means of funding your business.
+SBA Funding opportunitiesURA funding opportunities
+
+Find a Location
+
+Find a location for your business.Be sure to consider taxes, zoning laws, and regulations alongside advantages of the location. Learn more at SBA’s business guide.
+Identify a Business LocationDecide to lease or buy.Weigh your options and opportunities for your location as an asset.
+Determine if Leasing or Buying is BestEnsure your space is ADA compliant.ADA compliance is not only a legal requirement, but it is important to be inclusive so that your business is accessible to all potential customers.
+View Americans with Disabilities Act "ADA" Policies
+
+Hire Employees
+
+Set up a payroll system and comply with relevant labor laws.Relevant statutes may include articles for sick leave, benefits, and minimum wage, for example. Employers must additionally verify employee elibility and make reports on employee hiring.
+PA Business One Stop Shop: Hiring WorkersSBA: Hiring and Managing EmployeesClarify insurance requirements.Department of Labor will help establish an unemployment insurance account and workers' compensation insurance if appropriate for your business.
+PA Business TaxesFederal Unemployment Tax
+
+Open & Operate
+
+Give customers clear receipts and invoices.Show prices and print your business name and address.
+Implement a Marketing and Sales StrategyPerform required training for employees including sexual harassment prevention. Required training largely vary by state, but there are a variety of strongly recommended training for employees. Learn about HR training that are required and recommended.
+Required & Recommended Employee TrainingRemain Compliant.It is important that your business remains compliant of its obligations such as taxes and relevant statutes.
+Paying TaxesRemain Legally CompliantOperating a Business in PA
+
+FAQ
+
+
+Can startups not located in Allegheny County still apply?
+
+At this time, Pittsburgh and Allegheny County startups are preferred but we are open to a broader range of startups in neighboring counties. Please direct inquiries to pghlab@pittsburghpa.gov if interested.
+
+Does the city offer financial support to startups participating in PGH Lab?
+
+Yes. Participants in PGH Lab will be paid $25,000 in 6 installments over the course of the program.
+
+Will the city keep my product/service at the end of the pilot?
+
+Any equipment used will not be retained or considered property of the City of Pittsburgh or participating authorities. All products tested as part of PGH Lab will be returned at the end of the pilot.
+
+What if I have a product ready for pilot testing but already have paying customers?
+
+Companies with paid pilots or paying customers are eligible to apply.
+
+I don’t have a tech startup but I do have a new service can I still consider applying to PGH Lab?
+
+Yes, if you have an innovative service that presents great potential to improve city operations and help the City of Pittsburgh deliver quality services, tell us how your service works. Refer toFlyWheelandGlobal Wordsmithspilot projects for inspiration.
+
+What resources and commitments will be required of participating startups?
+
+The goal for both startups and the City is to have successfully completed pilots with measurable outcomes. To that end, a startup must have time, staff, equipment, and other required resources to sustain and complete a pilot for up to 6 months. In addition, the startup is required to allocate time for bi-weekly check-in meetings with program manager, meetings with city champions, and a company presentation day. Please check thePGH Lab Rules & Regulations Bookletfor detailed information on company expectations.
+
+I am responding to a Request for Proposals (RFP) announced by the city. Can I submit my response here?
+
+PGH Lab’s OpenGov solicitation should only be used for submittals by organizations interested in participating in the PGH Lab program. This is not a venue to sell the City of Pittsburgh products or services, initiate a procurement agreement, become an approved vendor, or respond to an RFP outside of the PGH Lab program. Please refer to Beacon and City Procurement Procedures for these actions.
+
+What if I am an established company?
+
+PGH Lab defines “startup” according to the phase a pilot product is in rather than the age or size of the company. If you have products or services with revenue streams but have a pilot-ready product that is pre-customer, you should still apply. The pilot would only test that beta phase product.
+
+I want the Mayor to announce support for my company / initiative? Is this the right outlet to make my request?
+
+Participants in the PGH Lab program will receive public attention from local news outlets. However, the PGH Lab program is not the portal for requesting a formal letter of support from the Mayor.
+
+What support and resources will the city provide before, during, and after the pilot?
+
+The city will provide a dedicated program liaison, access to any equipment, infrastructure, or staff required to successfully execute the pilot. In addition, participants will be paid $25,000 in 6 installments over the course of the program.
+
+What are the benefits to startups that participate in this program?
+
+Startups have an opportunity to test their product. This test case is valuable in seeking investors and customers. Startups will also be connected to a range of city resources. Startups are encouraged to test, gain valuable market feedback, and iterate. Each participating company will receive a stipend totaling $25,000 that will be distributed in parts over the course of the six month PGH Lab pilot.
+
+Contact Us
+
+
+-Our Team-
+
+Trever StollCivic Innovation SpecialistEmail
+Marlaina KaineCivic Innovation SpecialistEmail
+
+
+
+
+-Stay Up To Date-
+
+Email
+Medium
+LinkedIn

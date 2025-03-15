@@ -1,0 +1,137 @@
+Title: Thursday, August 15
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 5:30pm
+performer: Tony Guarino
+Description: Singing Sinatra and other Italian hits
+
+Title: Thursday, August 15
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 6:00pm
+performer: Celebrity Bocce Tournament
+Description: Pittsburgh politicians Irish vs Italians plus Pittsburgh media/entertainment personalities
+
+Title: Friday, August 16
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 5:30pm
+performer: John Vento's Italian Invasion
+Description: Performing a variety of hits featuring excellent vocalists
+
+Title: Friday, August 16
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 7:30pm
+performer: Best Pizza in Bloomfield Competition
+Description: Featuring Angelo's Pizzeria, Caliente Pizza & Draft House, and Pizza Italia
+
+Title: Saturday, August 17
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 12:00pm
+performer: John Lupone
+Description: Italian opera vocalist
+
+Title: Saturday, August 17
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 2:30pm
+performer: Mirella the Musician
+Description: Authentic Italian Accordionist
+
+Title: Saturday, August 17
+stage: Mini of Pittsburgh & First National Bank Stage at Cedarville & Liberty
+time: 5:30pm
+performer: The Cavaliers
+Description: Playing Italian-American hits
+
+Title: Saturday, August 17
+stage: Froggy's Stage at Taylor & Liberty
+time: 12:00pm
+performer: Untamed
+Description: All-female trio with excellent harmonies
+
+Title: Saturday, August 17
+stage: Froggy's Stage at Taylor & Liberty
+time: 3:00pm
+performer: Pizza Acrobatics
+Description: 2x World Champion Matt Hickey of Caliente Pizza & Draft House
+
+Title: Saturday, August 17
+stage: Froggy's Stage at Taylor & Liberty
+time: 4:00pm
+performer: The Nation's #1 Earth, Wind & Fire Tribute Band
+Description: Let's Groove Tonight
+
+Title: Saturday, August 17
+stage: Froggy's Stage at Taylor & Liberty
+time: 7:00pm
+performer: Fleetwood Mac Tribute Band Silver Springs
+Description: nan
+
+Title: Saturday, August 17
+stage: First Commonwealth Stage at Gross & Liberty
+time: 12:00pm
+performer: Miss Little Italy Pagaent
+Description: nan
+
+Title: Saturday, August 17
+stage: First Commonwealth Stage at Gross & Liberty
+time: 2:30pm
+performer: Magic Moments
+Description: Pittsburgh's #1 Oldies Band
+
+Title: Saturday, August 17
+stage: First Commonwealth Stage at Gross & Liberty
+time: 6:00pm
+performer: Jerry DeMaria with the Pittsburgh Festival Opera
+Description: Singing Italian songs, Sinatra, Dean Martin, Louis Prima and more!
+
+Title: Sunday, August 18
+stage: Mini of Pittsburgh Stage at Cedarville & Liberty
+time: 12:00pm
+performer: Joni Marie
+Description: Soprano vocalist of Opera
+
+Title: Sunday, August 18
+stage: Mini of Pittsburgh Stage at Cedarville & Liberty
+time: 1:30pm
+performer: Allegro Dance Company
+Description: Dance instructor Anna Harsh from Southern Italy teaching interactive Tarantella dance workshop
+
+Title: Sunday, August 18
+stage: Mini of Pittsburgh Stage at Cedarville & Liberty
+time: 2:30pm
+performer: Jackie Hooper Duo
+Description: Performing Italian hits
+
+Title: Sunday, August 18
+stage: Froggy's Stage at Taylor & Liberty
+time: 12:00pm
+performer: Elias Khouri - Talented young singer and guitarist
+Description: nan
+
+Title: Sunday, August 18
+stage: Froggy's Stage at Taylor & Liberty
+time: 2:30pm
+performer: America’s #1 Jacksons Tribute Band Dancing Machine
+Description: Performing the music of Michael, Janet, and the Jackson 5
+
+Title: Sunday, August 18
+stage: First Commonwealth Stage at Gross & Liberty
+time: 12:00pm
+performer: East End Kids
+Description: Pittsburgh's premiere teen song & dance ensemble
+
+Title: Sunday, August 18
+stage: First Commonwealth Stage at Gross & Liberty
+time: 1:30pmMojo Hand
+performer: 1:30pm Mojo Hand
+Description: High-energy band with killer grooves
+
+Title: Sunday, August 18
+stage: First Commonwealth Stage at Gross & Liberty
+time: Accordionist Hank Edwardo
+performer: strolling throughout the event
+Description: nan
+
+Title: Kids Zone & Character Appearances!
+stage: nan
+time: COCOMELON
+performer: Saturday, August 21, 5-6pm • SPACE JAM
+Description: Sunday, August 22, 12-1pm • PAW PATROL - Sunday, August 22, 2-3pm

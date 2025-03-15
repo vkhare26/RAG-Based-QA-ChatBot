@@ -1,0 +1,427 @@
+Page Title: Family Fun
+================================================================================
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/family-fun/?page=2
+Place Name: Historic Hanna's Town
+Summary: 809 Forbes Trail Rd.
+Greesburg, Pennsylvania 15601
+(724) 836-1800
+--------------------------------------------------------------------------------
+Place Name: Mix Candle Co. SouthSide Works
+Summary: 2746 Sidney St.
+Pittsburgh, Pennsylvania 15203
+(412) 525-1594
+--------------------------------------------------------------------------------
+Place Name: Flour Power Cooking Studios: Pittsburgh
+Summary: 4655 William Flinn Highway, Ste. 114
+Allison Park, Pennsylvania 15101
+(412) 579-0372
+--------------------------------------------------------------------------------
+Place Name: Greene County Tourist Promotion Agency
+Summary: 19 S. Washington St., Fort Jackson Bldg.
+Waynesburg, Pennsylvania 15370
+(724) 627-8687
+--------------------------------------------------------------------------------
+Place Name: Full Throttle Adrenaline Park
+Summary: 360 Mall Circle Dr.
+Monroeville, Pennsylvania 15146
+(412) 380-1314
+--------------------------------------------------------------------------------
+Place Name: FA Climbing & Fitness
+Summary: 195 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 904-2630
+--------------------------------------------------------------------------------
+Place Name: Mattress Factory Museum of Contemporary Art
+Summary: 509 Jacksonia St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-3169
+--------------------------------------------------------------------------------
+Place Name: Mix Candle Co.
+Summary: 4409 Butler St.
+Pittsburgh, Pennsylvania 15201
+(412) 439-4578
+--------------------------------------------------------------------------------
+Place Name: Molly's Trolleys Pittsburgh
+Summary: 2524 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-2085
+--------------------------------------------------------------------------------
+Place Name: Great Allegheny Passage
+Summary: 25045 Three Rivers Heritage Trail
+Pittsburgh, Pennsylvania 15219
+--------------------------------------------------------------------------------
+Place Name: Iron City Boulders
+Summary: 143 51st St.
+Pittsburgh, Pennsylvania 15201
+(412) 586-5860
+--------------------------------------------------------------------------------
+Place Name: Gateway Clipper Fleet
+Summary: 350 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 355-7980
+--------------------------------------------------------------------------------
+Place Name: The Frick Pittsburgh
+Summary: 7227 Reynolds St.
+Pittsburgh, Pennsylvania 15208
+(412) 371-0600
+--------------------------------------------------------------------------------
+Place Name: Experience Armstrong, Inc.
+Summary: 125 Market St.
+Kittanning, Pennsylvania 16201
+(724) 543-4003
+--------------------------------------------------------------------------------
+Place Name: Kennywood
+Summary: 4800 Kennywood Blvd.
+West Mifflin, Pennsylvania 15122
+(412) 461-0500
+--------------------------------------------------------------------------------
+Place Name: Indiana County Tourist Bureau
+Summary: Indiana Mall, 2334 Oakland Ave.
+Indiana, Pennsylvania 15701
+(724) 463-7505
+--------------------------------------------------------------------------------
+Place Name: Experience Butler County
+Summary: 310 E. Grandview Ave.
+Zelienople, Pennsylvania 16063
+(724) 234-4619
+--------------------------------------------------------------------------------
+Place Name: Highmark First Night Pittsburgh
+Summary: 120 Fifth Avenue Place
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Fort Pitt Museum
+Summary: 601 Commonwealth Place, Building B
+Point State Park
+Pittsburgh, Pennsylvania 15222
+(412) 281-9284
+--------------------------------------------------------------------------------
+Place Name: Idlewild & SoakZone
+Summary: 2574 Route 30
+Ligonier, Pennsylvania 15658
+(724) 238-3666
+--------------------------------------------------------------------------------
+Place Name: Meadowcroft Rockshelter and Historic Village
+Summary: 401 Meadowcroft Rd.
+Avella, Pennsylvania 15312
+(724) 587-3412
+--------------------------------------------------------------------------------
+Place Name: GO Laurel Highlands
+Summary: 113 East Main St.
+Ligonier, Pennsylvania 15658
+(724) 238-5661
+--------------------------------------------------------------------------------
+Place Name: Five Iron Golf
+Summary: 2 PPG Place, Ste. 90
+Pittsburgh, Pennsylvania 15222
+(412) 332-8500
+--------------------------------------------------------------------------------
+Place Name: Mines and Meadows ATV/RV Resort
+Summary: 1307 Old Rte. 18
+Wampum, Pennsylvania 16157
+(724) 535-6026
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/family-fun/?page=3
+Place Name: Sandcastle Waterpark
+Summary: 1000 Sandcastle Dr.
+West Homestead, Pennsylvania 15120
+(412) 462-6666
+--------------------------------------------------------------------------------
+Place Name: Rezzanine Esports
+Summary: 1025 Washington Pike, Second Floor
+Bridgeville, Pennsylvania 15017
+(412) 914-0998
+--------------------------------------------------------------------------------
+Place Name: Puttshack
+Summary: 1729 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 900-7888
+--------------------------------------------------------------------------------
+Place Name: Phipps Conservatory and Botanical Gardens
+Summary: One Schenley Dr.
+Pittsburgh, Pennsylvania 15213
+(412) 622-6914
+--------------------------------------------------------------------------------
+Place Name: Rose Point Park - Cabins & Camping
+Summary: 8775 Old US 422
+New Castle, Pennsylvania 16101
+(724) 924-2415
+--------------------------------------------------------------------------------
+Place Name: Museum of Illusions Pittsburgh
+Summary: 267 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 239-8990
+--------------------------------------------------------------------------------
+Place Name: Rivers of Steel
+Summary: 623 East 8th Ave., The Bost Building
+Homestead, Pennsylvania 15120
+(412) 464-4020
+--------------------------------------------------------------------------------
+Place Name: Palmer Imaging Arena
+Summary: 100 Center Ice Dr.
+Delmont, Pennsylvania 15626
+(724) 468-1100
+--------------------------------------------------------------------------------
+Place Name: Rivers of Steel Tours
+Summary: 623 East Eighth Ave.
+Homestead, Pennsylvania 15120
+(412) 464-4020
+--------------------------------------------------------------------------------
+Place Name: Pennsylvania Trolley Museum
+Summary: 1 Electric Way
+Washington, Pennsylvania 15301
+(724) 228-9256
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Ice Arena
+Summary: 700 Craigdell Rd.
+New Kensington, Pennsylvania 15068
+(878) 847-5454
+--------------------------------------------------------------------------------
+Place Name: Printscape Arena
+Summary: 114 Southpointe Blvd.
+Canonsburg, Pennsylvania 15317
+724-745-6666 X 200
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Paintball Park
+Summary: 1403 Idlewood Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 419-5770
+--------------------------------------------------------------------------------
+Place Name: Moonshot Museum
+Summary: 1016 N. Lincoln Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 314-4111
+--------------------------------------------------------------------------------
+Place Name: PPG Place - Attractions
+Summary: One PPG Place
+Pittsburgh, Pennsylvania 15222
+(412) 434-1900
+--------------------------------------------------------------------------------
+Place Name: Nationality Rooms
+Summary: Cathedral of Learning, 4200 Fifth Ave.
+Pittsburgh, Pennsylvania 15260
+(412) 624-6000
+--------------------------------------------------------------------------------
+Place Name: Montour Trail
+Summary: 304 Hickman St., Ste. 3
+Bridgeville, Pennsylvania 15017
+--------------------------------------------------------------------------------
+Place Name: Sandbox VR
+Summary: 1681 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 435-1175
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh CLO
+Summary: 719 Liberty Ave., 6th Floor, The Benedum Center
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: National Aviary
+Summary: 700 Arch St.
+Pittsburgh, Pennsylvania 15212
+(412) 323-7235
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Irish Festival
+Summary: 1000 Sandcastle Dr.
+West Homestead, Pennsylvania 15120
+(412) 422-1113
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Zoo & Aquarium
+Summary: 7370 Baker St.
+Pittsburgh, Pennsylvania 15206
+(412) 665-3640
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Vintage Grand Prix
+Summary: 1000 Gamma Dr., Ste. 106
+Pittsburgh, Pennsylvania 15238
+(412) 559-3500
+--------------------------------------------------------------------------------
+Place Name: Paradise Island Bowl & Beach
+Summary: 7601 Grand Ave.
+Pittsburgh, Pennsylvania 15225
+(412) 264-7560
+--------------------------------------------------------------------------------
+Place Name: Steel City Jet Ski Rentals
+Summary: 151 19th St.
+Sharpsburg, Pennsylvania 15215
+(412) 212-0250
+--------------------------------------------------------------------------------
+Place Name: Station Square
+Summary: 100 W. Station Square Dr., Ste. 1900
+Pittsburgh, Pennsylvania 15219
+(412) 261-2811
+--------------------------------------------------------------------------------
+Place Name: Washington County Tourism Promotion Agency
+Summary: 1000 Horizon Vue Dr., Ste. 1C80
+Canonsburg, Pennsylvania 15317
+(724) 225-3010
+--------------------------------------------------------------------------------
+Place Name: Senator John Heinz History Center
+Summary: 1212 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 454-6000
+--------------------------------------------------------------------------------
+Place Name: Walk The Burgh Tours
+Summary: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: Steeltown Event Park
+Summary: 2 Willow Ave
+Oakdale, Pennsylvania 15071
+(412) 443-9287
+--------------------------------------------------------------------------------
+Place Name: Steelers Hall of Honor Museum
+Summary: 100 Art Rooney Ave., Gate B
+Pittsburgh, Pennsylvania 15212
+(412) 697-7150
+--------------------------------------------------------------------------------
+Place Name: Yogi Bear's Jellystone Park at Kozy Rest
+Summary: 449 Campground Rd.
+Harrisville, Pennsylvania 16038
+(724) 584-0629
+--------------------------------------------------------------------------------
+Place Name: Threadbare Cider and Mead
+Summary: 1291 Spring Garden Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 322-5100
+--------------------------------------------------------------------------------
+Place Name: SurfSUP Adventures
+Summary: (724) 989-7259
+--------------------------------------------------------------------------------
+Place Name: Visit Lawrence County
+Summary: 229 S. Jefferson St., Ste. 101
+New Castle, Pennsylvania 16101
+(724) 654-8408
+--------------------------------------------------------------------------------
+Place Name: West Overton Village and Museum
+Summary: 109 W. Overton Rd., PO Box 3
+Scottdale, Pennsylvania 15683
+(724) 887-7910
+--------------------------------------------------------------------------------
+Place Name: Woodville Experience
+Summary: 1375 Washington Pike
+Bridgeville, Pennsylvania 15017
+(412) 221-0348
+--------------------------------------------------------------------------------
+Place Name: VisitMercerCountyPA
+Summary: 50 North Water Ave.
+Sharon, Pennsylvania 16146
+(724) 346-3771
+--------------------------------------------------------------------------------
+Place Name: Deep Freeze Ice Arena
+Summary: 360 McClurg Rd.
+Youngstown, Ohio 44512
+(234) 719-5000
+--------------------------------------------------------------------------------
+Place Name: Duquesne Incline
+Summary: 1197 W. Carson St.
+Pittsburgh, Pennsylvania 15219
+(412) 381-1665
+--------------------------------------------------------------------------------
+Place Name: Bike the Burgh Tours
+Summary: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: 'Burgh Bits and Bites Food Tour
+Summary: (412) 901-7150
+--------------------------------------------------------------------------------
+Place Name: Dollar Bank Three Rivers Arts Festival
+Summary: 803 Liberty Ave., Pittsburgh Cultural Trust
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Discover Ohiopyle
+Summary: 3045 National Pike
+Farmington, Pennsylvania 15437
+(724) 329-8850
+--------------------------------------------------------------------------------
+Place Name: Compass Inn Museum/Ligonier Valley Historical Society
+Summary: 1382 Route 30 East
+Laughlington, Pennsylvania 15655
+(724) 238-4983
+--------------------------------------------------------------------------------
+Place Name: Allegheny County Parks Department
+Summary: 542 Forbes Ave., Room 211
+Pittsburgh, Pennsylvania 15219
+(412) 350-2455
+--------------------------------------------------------------------------------
+Place Name: Bradford House Museum
+Summary: 175 S. Main St.
+Washington, Pennsylvania 15301
+(724) 222-3604
+--------------------------------------------------------------------------------
+Place Name: ASCEND Climbing
+Summary: 2141 Mary St.
+Pittsburgh, Pennsylvania 15203
+(412) 745-2141
+--------------------------------------------------------------------------------
+Place Name: Beaver County Tourism
+Summary: 121 Brady's Run Rd., Brady's Run Park Recreation Facility
+Beaver Falls, Pennsylvania 15010
+(724) 770-2062
+--------------------------------------------------------------------------------
+Place Name: Dave & Buster's Pittsburgh - North Hills
+Summary: 6260 Northway Dr.
+Pittsburgh, Pennsylvania 15237
+(412) 702-9550
+--------------------------------------------------------------------------------
+Place Name: Cruisin' Tikis Pittsburgh
+Summary: North Shore and Station Square
+Pittsburgh, Pennsylvania
+(833) 744-8454
+--------------------------------------------------------------------------------
+Place Name: DOORS OPEN Pittsburgh
+Summary: 
+--------------------------------------------------------------------------------
+Place Name: Bear Run Campground & Cabins
+Summary: 184 Badger Hill Rd.
+Portersville, Pennsylvania 16051
+(724) 368-3564
+--------------------------------------------------------------------------------
+Place Name: Carnegie Science Center
+Summary: One Allegheny Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 237-3400
+--------------------------------------------------------------------------------
+Place Name: Carnegie Museum of Art and Natural History
+Summary: 4400 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 622-3131
+--------------------------------------------------------------------------------
+Place Name: The Andy Warhol Museum
+Summary: 117 Sandusky St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-8300
+--------------------------------------------------------------------------------
+Place Name: Amped Airsoft Arena
+Summary: 2250 Noblestown Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 712-9066
+--------------------------------------------------------------------------------
+Place Name: Children's Museum of Pittsburgh and MuseumLab
+Summary: 10 Children's Way
+Pittsburgh, Pennsylvania 15212
+(412) 322-5058
+--------------------------------------------------------------------------------
+Place Name: cfsbank Event Center
+Summary: 111 Gallitin Rd.
+Belle Vernon, Pennsylvania 15012
+(724) 379-7100
+--------------------------------------------------------------------------------
+Place Name: EQT Children's Theater Series
+Summary: 101 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Dave & Buster's
+Summary: 180 E. Waterfront St.
+Homestead, Pennsylvania 15120
+(412) 462-1500
+--------------------------------------------------------------------------------
+Place Name: The Burgh Bus
+Summary: (412) 324-4134
+--------------------------------------------------------------------------------

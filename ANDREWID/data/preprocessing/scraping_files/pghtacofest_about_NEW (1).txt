@@ -1,0 +1,16 @@
+=== About us ===
+Heading: ABOUT US
+Text: The Pittsburgh Taco Festival® is an annual food festival aimed at celebrating (and eating) TACOS, as well as supporting and raising funds and awareness for the city’s Latin-American community.
+
+=== History ===
+Heading: HISTORY
+Text: The Original Pittsburgh Taco Festival® was founded in 2016 by Craig McCloud who sought to create an opportunity which benefitted food trucks/start-ups as well as support non-profits that serve the city’s burgeoning Latin American population. The festival regularly attracts vendors from beyond the metro area, as well as visitors who plan weekend visits from New York, Ohio, Maryland, West Virginia, and beyond. Over the years, tens of thousands of people have joined us for what has become an annually anticipated cultural and community event. We hope you’ll join us, too!
+
+=== Partners ===
+Heading: PARTNERS
+Text: In addition to the many corporate and national sponsors that support our mission, we are most proud of our cultural partnerships. We work closely with Pittsburgh Hispanic Development Corporation (PHDC) and Casa San Jose, because we wish to honor the cultures responsible for what we consider the ‘greatest hand-food known to man.’ These organizations help us recruit vendors, organize entertainment, and provide authenticity to our taco-themed event. In turn they receive a generous percentage of the net proceeds.
+
+=== Venue Details ===
+Heading: 2024 PITTSBURGH TACO FESTIVAL® VENUE
+Image URL: https://cdn.prod.website-files.com/5ab82ce8e294a05a28472de2/6442df6c63b21e9e613f0e2c_TheStacks_at%203%20Crossings-square%20(1).webp
+Address: 2875 Railroad St, Pittsburgh, PA 15222

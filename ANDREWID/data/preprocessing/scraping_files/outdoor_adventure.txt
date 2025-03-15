@@ -1,0 +1,1577 @@
+Page Title: Outdoor Adventure
+================================================================================
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/outdoor-adventure/?page=1
+Page Title: 
+================================================================================
+Place Name: Golf
+Address: Pennsylvania is home to more than 500 public golf courses, with many of the best located in the Pittsburgh area. Enjoy championship play that is second to none.
+--------------------------------------------------------------------------------
+Place Name: Fishing, Kayaking & Boating
+Address: The Pittsburgh region provides almost unlimited opportunities for fishing and boating fun. Pittsburgh's rivers are ideal for sculling, kayaking, canoeing and powerboating.
+--------------------------------------------------------------------------------
+Place Name: Amped Airsoft Arena
+Address: 2250 Noblestown Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 712-9066
+--------------------------------------------------------------------------------
+Place Name: Bike Pittsburgh
+Address: 188 43rd St., #1
+Pittsburgh, Pennsylvania 15201
+(412) 325-4334
+--------------------------------------------------------------------------------
+Place Name: ASCEND Climbing
+Address: 2141 Mary St.
+Pittsburgh, Pennsylvania 15203
+(412) 745-2141
+--------------------------------------------------------------------------------
+Place Name: cfsbank Event Center
+Address: 111 Gallitin Rd.
+Belle Vernon, Pennsylvania 15012
+(724) 379-7100
+--------------------------------------------------------------------------------
+Place Name: Golden Triangle Bike
+Address: 600 1st Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 600-0675
+--------------------------------------------------------------------------------
+Place Name: Iron City Boulders
+Address: 143 51st St.
+Pittsburgh, Pennsylvania 15201
+(412) 586-5860
+--------------------------------------------------------------------------------
+Place Name: Five Iron Golf
+Address: 2 PPG Place, Ste. 90
+Pittsburgh, Pennsylvania 15222
+(412) 332-8500
+--------------------------------------------------------------------------------
+Place Name: GO Laurel Highlands
+Address: 113 East Main St.
+Ligonier, Pennsylvania 15658
+(724) 238-5661
+--------------------------------------------------------------------------------
+Place Name: Experience Armstrong, Inc.
+Address: 125 Market St.
+Kittanning, Pennsylvania 16201
+(724) 543-4003
+--------------------------------------------------------------------------------
+Place Name: Indiana County Tourist Bureau
+Address: Indiana Mall, 2334 Oakland Ave.
+Indiana, Pennsylvania 15701
+(724) 463-7505
+--------------------------------------------------------------------------------
+Place Name: Bear Run Campground & Cabins
+Address: 184 Badger Hill Rd.
+Portersville, Pennsylvania 16051
+(724) 368-3564
+--------------------------------------------------------------------------------
+Place Name: Bike the Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: FA Climbing & Fitness
+Address: 195 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 904-2630
+--------------------------------------------------------------------------------
+Place Name: Edgewood Country Club
+Address: 100 Churchill Rd
+Pittsburgh, Pennsylvania 15235
+(412) 823-7300
+--------------------------------------------------------------------------------
+Place Name: Beaver County Tourism
+Address: 121 Brady's Run Rd., Brady's Run Park Recreation Facility
+Beaver Falls, Pennsylvania 15010
+(724) 770-2062
+--------------------------------------------------------------------------------
+Place Name: Dryvebox Pittsburgh
+Address: (724) 272-9869
+--------------------------------------------------------------------------------
+Place Name: Experience Butler County
+Address: 310 E. Grandview Ave.
+Zelienople, Pennsylvania 16063
+(724) 234-4619
+--------------------------------------------------------------------------------
+Place Name: The Clemente Museum
+Address: 3339 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 621-1268
+--------------------------------------------------------------------------------
+Place Name: Deep Freeze Ice Arena
+Address: 360 McClurg Rd.
+Youngstown, Ohio 44512
+(234) 719-5000
+--------------------------------------------------------------------------------
+Place Name: Great Allegheny Passage
+Address: 25045 Three Rivers Heritage Trail
+Pittsburgh, Pennsylvania 15219
+--------------------------------------------------------------------------------
+Place Name: Discover Ohiopyle
+Address: 3045 National Pike
+Farmington, Pennsylvania 15437
+(724) 329-8850
+--------------------------------------------------------------------------------
+Place Name: Allegheny Land Trust/Dead Man's Hollow
+Address: 416 Thorn St.
+Sewickley, Pennsylvania 15143
+(412) 741-2750
+--------------------------------------------------------------------------------
+Place Name: Greene County Tourist Promotion Agency
+Address: 19 S. Washington St., Fort Jackson Bldg.
+Waynesburg, Pennsylvania 15370
+(724) 627-8687
+--------------------------------------------------------------------------------
+Place Name: Allegheny County Parks Department
+Address: 542 Forbes Ave., Room 211
+Pittsburgh, Pennsylvania 15219
+(412) 350-2455
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/outdoor-adventure/?page=2
+Place Name: Golf
+Address: Pennsylvania is home to more than 500 public golf courses, with many of the best located in the Pittsburgh area. Enjoy championship play that is second to none.
+--------------------------------------------------------------------------------
+Place Name: Fishing, Kayaking & Boating
+Address: The Pittsburgh region provides almost unlimited opportunities for fishing and boating fun. Pittsburgh's rivers are ideal for sculling, kayaking, canoeing and powerboating.
+--------------------------------------------------------------------------------
+Place Name: Palmer Imaging Arena
+Address: 100 Center Ice Dr.
+Delmont, Pennsylvania 15626
+(724) 468-1100
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Riverhounds SC
+Address: 510 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+412-865-GOAL
+--------------------------------------------------------------------------------
+Place Name: Kayak Pittsburgh
+Address: 317 East Carson St., Ste.160
+Pittsburgh, Pennsylvania 15219
+(412) 255-0564
+--------------------------------------------------------------------------------
+Place Name: Olde Stonewall Golf Club
+Address: 1495 Mercer Rd.
+Ellwood City, Pennsylvania 16117
+(724) 752-4653
+--------------------------------------------------------------------------------
+Place Name: Nemacolin
+Address: 1001 Lafayette Dr.
+Farmington, Pennsylvania 15437
+(724) 329-8555
+--------------------------------------------------------------------------------
+Place Name: POGOH Bikeshare
+Address: 3328 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 595-9421
+--------------------------------------------------------------------------------
+Place Name: Segway Pittsburgh
+Address: 228 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 515-3333
+--------------------------------------------------------------------------------
+Place Name: Quicksilver Golf Club
+Address: PO Box 595, 2000 Quicksilver Rd.
+Midway, Pennsylvania 15060
+(724) 796-1594
+--------------------------------------------------------------------------------
+Place Name: PPG Paints Arena
+Address: 1001 Fifth Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 642-1800
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Thunderbirds
+Address: 
+--------------------------------------------------------------------------------
+Place Name: OnPar Now
+Address: 1669 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 849-1617
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Steelers
+Address: 100 Art Rooney Ave., Acrisure Stadium
+Pittsburgh, Pennsylvania 15212
+(412) 323-1200
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Penguins
+Address: 1001 Fifth Ave., PPG Paints Arena
+Pittsburgh, Pennsylvania 15219
+(412) 642-7367
+--------------------------------------------------------------------------------
+Place Name: Mines and Meadows ATV/RV Resort
+Address: 1307 Old Rte. 18
+Wampum, Pennsylvania 16157
+(724) 535-6026
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Ice Arena
+Address: 700 Craigdell Rd.
+New Kensington, Pennsylvania 15068
+(878) 847-5454
+--------------------------------------------------------------------------------
+Place Name: Rose Point Park - Cabins & Camping
+Address: 8775 Old US 422
+New Castle, Pennsylvania 16101
+(724) 924-2415
+--------------------------------------------------------------------------------
+Place Name: Montour Trail
+Address: 304 Hickman St., Ste. 3
+Bridgeville, Pennsylvania 15017
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Pirates at PNC Park
+Address: 115 Federal St., PNC Park at the North Shore
+Pittsburgh, Pennsylvania 15212
+(412) 323-5000
+--------------------------------------------------------------------------------
+Place Name: Printscape Arena
+Address: 114 Southpointe Blvd.
+Canonsburg, Pennsylvania 15317
+724-745-6666 X 200
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh International Race Complex
+Address: 201 Penndale Rd.
+Wampum, Pennsylvania 16157
+(724) 535-1000
+--------------------------------------------------------------------------------
+Place Name: Paradise Island Bowl & Beach
+Address: 7601 Grand Ave.
+Pittsburgh, Pennsylvania 15225
+(412) 264-7560
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Paintball Park
+Address: 1403 Idlewood Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 419-5770
+--------------------------------------------------------------------------------
+Place Name: Puttery Pittsburgh
+Address: 1415 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(878) 222-8130
+--------------------------------------------------------------------------------
+Place Name: Laurel Highlands River Tours
+Address: PO Box 107
+4 Sherman St.
+Ohiopyle, Pennsylvania 15470
+(800) 472-3846
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/outdoor-adventure/?page=3
+Place Name: Golf
+Address: Pennsylvania is home to more than 500 public golf courses, with many of the best located in the Pittsburgh area. Enjoy championship play that is second to none.
+--------------------------------------------------------------------------------
+Place Name: Fishing, Kayaking & Boating
+Address: The Pittsburgh region provides almost unlimited opportunities for fishing and boating fun. Pittsburgh's rivers are ideal for sculling, kayaking, canoeing and powerboating.
+--------------------------------------------------------------------------------
+Place Name: Washington County Tourism Promotion Agency
+Address: 1000 Horizon Vue Dr., Ste. 1C80
+Canonsburg, Pennsylvania 15317
+(724) 225-3010
+--------------------------------------------------------------------------------
+Place Name: Yogi Bear's Jellystone Park at Kozy Rest
+Address: 449 Campground Rd.
+Harrisville, Pennsylvania 16038
+(724) 584-0629
+--------------------------------------------------------------------------------
+Place Name: Topgolf
+Address: 400 Presto-Sygan Rd.
+Bridgeville, Pennsylvania 15017
+(412) 564-9188
+--------------------------------------------------------------------------------
+Place Name: Seven Springs Mountain Resort
+Address: 777 Waterwheel Dr.
+Seven Springs, Pennsylvania 15622
+(800) 452-2223
+--------------------------------------------------------------------------------
+Place Name: SurfSUP Adventures
+Address: (724) 989-7259
+--------------------------------------------------------------------------------
+Place Name: University of Pittsburgh Athletic Department
+Address: 3719 Terrace St.
+Pittsburgh, Pennsylvania 15261
+(412) 648-8280
+--------------------------------------------------------------------------------
+Place Name: Steeltown Event Park
+Address: 2 Willow Ave
+Oakdale, Pennsylvania 15071
+(412) 443-9287
+--------------------------------------------------------------------------------
+Place Name: White Water Adventurers Inc.
+Address: PO Box 31, 6 Negley St.
+Ohiopyle, Pennsylvania 15470
+(724) 329-8850
+--------------------------------------------------------------------------------
+Place Name: Three Rivers Rowing Association
+Address: 300 Waterfront Dr.
+Pittsburgh, Pennsylvania 15222
+(412) 231-8772
+--------------------------------------------------------------------------------
+Place Name: Steelers Hall of Honor Museum
+Address: 100 Art Rooney Ave., Gate B
+Pittsburgh, Pennsylvania 15212
+(412) 697-7150
+--------------------------------------------------------------------------------
+Place Name: Steel City Jet Ski Rentals
+Address: 151 19th St.
+Sharpsburg, Pennsylvania 15215
+(412) 212-0250
+--------------------------------------------------------------------------------
+Place Name: Walk The Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: VisitMercerCountyPA
+Address: 50 North Water Ave.
+Sharon, Pennsylvania 16146
+(724) 346-3771
+--------------------------------------------------------------------------------
+Place Name: Visit Lawrence County
+Address: 229 S. Jefferson St., Ste. 101
+New Castle, Pennsylvania 16101
+(724) 654-8408
+--------------------------------------------------------------------------------
+
+
+## Golf Page Content
+================================================================================
+Home
+
+Things to Do
+
+Outdoor Adventure
+
+Golf Courses in Pittsburgh
+
+Golf Courses in Pittsburgh
+
+Pittsburgh boasts a rich golf history.
+
+Pennsylvania boasts more than 500
+
+public golf courses
+
+with many of
+
+Golf Digest's best ranked
+
+located in Pittsburgh. With highly awarded courses like Olde Stonewall and Nemacolin Resort's Mystic Rock, you'll enjoy championship play that is second to none.
+
+--------------------------------------------------------------------------------
+
+Public Golf Courses
+
+Quicksilver Golf Club
+
+2000 Quicksilver Rd.
+
+Midway, PA 15060
+
+724.796.1594
+
+Experience Quicksilver Golf Club! A true championship course, beautiful new banquet facilities and affordable prices for the public only. Former home to Senior PGA and Nation Wide Tour events. The course is challenging, enjoyable and beautifully conditioned. Quicksilver is perfect for your regular foursomes or a golf outing and banquet.
+
+North Park Golf Course
+
+10200 Kummer Road
+
+Wexford, PA 15090
+
+412.961.0512
+
+This all-year challenging 18-hole layout just miles north of the city boasts a Pro Shop, practice range, blacktop cart paths, and café. The layout of the par 72 course offers an exciting round of golf for players of all skill levels.
+
+South Park Golf Course
+
+E Park Drive
+
+Pittsburgh, PA 15236
+
+412.835.3545
+
+This all-year challenging golf course includes a par 35 9-hole course and par 72 18-hole courses, shelter rental, snack shop, and blacktop cart paths. The beautiful greens are the perfect layout for all skill levels.
+
+Oglebay Resort & Conference Center
+
+465 Lodge Drive
+
+Wheeling, WV 26003
+
+877.436.1797
+
+Oglebay is truly a golfer's paradise with four golf courses including two championship courses at the Speidel Golf Club! The newest championship course is a modern links layout designed by Arnold Palmer and is the perfect complement to our classic Robert Trent Jones, Sr. designed championship course. Oglebay also features the 18-hole regulation Crispin Course and a 9-hole Par III Course. Oglebay's courses will provide enough challenges and spectacular scenery to please the most discriminating golfer!
+
+Hickory Heights Golf Club
+
+116 Hickory Dr.
+
+Bridgeville, PA 15017
+
+412.257.0300
+
+Hickory Heights is a Michael Hurdzan-designed, 18-hole, high-end, daily-fee course that offers memberships. The course features challenging holes and breathtaking views. Grass-tee driving range, new club house and golf outing services add to the experience.
+
+Olde Stonewall Golf Club
+
+1495 Mercer Rd.
+
+Ellwood City, PA 16177
+
+724.752.4653
+
+x103
+
+Selected by Golf Magazine as one of the Top Ten new public courses in 1999 and currently ranked in the Top 50 public courses in the United States by Golf Digest, Olde Stonewall puts grandeur well within your reach. Located just forty minutes from Pittsburgh, Youngstown, Ohio and the Pittsburgh International Airport, this course is a golf experience long anticipated.
+
+Cranberry Highlands Golf Club
+
+5601 Freshcorn Rd.
+
+Cranberry Township, PA 16066
+
+724.776.7372
+
+Cranberry Highlands celebrates the natural challenges of western Pennsylvania's rugged landscape with a stunning 186-acre course created to provide a high-quality test of golf for players at every level. Players will find Cranberry Highlands to be a readily walkable course, discretely linked by cart paths and ringed in the timberstock that defines the region.
+
+Tanglewood Golf Course
+
+318 Tanglewood Rd.
+
+Pulaski, PA 16143
+
+724.964.8702
+
+Clingan's Tanglewood started with the perfect blend of rolling hills and scenic wooded surroundings. Old trees and carved hillsides lend to spectacular views from all areas of the course. The distinct layout was developed naturally. The Clingans groomed this property into 18 of the most picturesque and challenging holes in the western Pennsylvania and eastern Ohio area.
+
+Pine Grove Golf Course
+
+38 Fairway Dr.
+
+Grove City, PA 16127
+
+724.458.8394
+
+Rated "four stars" by Golf Digest, this 18-hole layout offers variety and playability to golfers of all skill levels. With well-conditioned fairways and fast-rolling greens that wind through naturally wooded terrain and multiple water hazards, this is one golf experience worth the drive.
+
+Bob O'Connor Golf Course
+
+, Schenley Park
+
+5370 Schenley Drive
+
+Pittsburgh, PA 15217
+
+412-622-6959
+
+Located in Schenley Park, just minutes from downtown in Pittsburgh's Oakland neighborhood, Bob O'Conner Golf Course is the only course located within city limits. The beautiful 18-hole walking course is set with the rolling hills of the park and is open throughout the year, weather permitting. Otherwise, the course also offers three full-sized indoor simulators, reservations only.
+
+Grand View Golf Club
+
+, North Braddock
+
+1000 Club House Drive
+
+North Braddock, PA 15104
+
+412.351.5390
+
+Nicknamed the "Monster on the Mon," Grand View Golf Club sits on top of a mountain along the Monongahela River, one of the three rivers that form Pittsburgh's iconic confluence. Just minutes from downtown in Braddock, the course is full of hills and turns that are sure challenge golfers of all levels.
+
+Meadowink Golf Course
+
+, Murrysville
+
+4076 Bulltown Road
+
+Murrysville, Pa 15668
+
+724.327.8243
+
+Just of the I-376 East, Meadowink Golf Course is located roughly forty minutes from Downtown. The 18-hole par 72 course layout is designed with strategically placed bunkers and water hazards.
+
+Westwood Golf Club
+
+, West Mifflin
+
+825 Commonwealth Avenue
+
+West Mifflin, PA 15122
+
+412.462.9555
+
+Located twenty minutes from downtown, Westwood Golf Club boasts 18 holes of championship golf. The strategic and convenient layout of the beautiful well-kept par 71 course offers the opportunity to play a full round of golf without spending an entire afternoon on the course.
+
+Riverview Golf Course
+
+, Bunola
+
+97 Golf Course Drive
+
+Bunola, PA 15020
+
+412.384.7596
+
+Located roughly forty five minutes to an hour outside of Pittsburgh, Riverview Golf Course is an 18-hole course that spreads of 150 acres with tree lined fairways and tournament style greens.
+
+Lindenwood Golf Club
+
+, Canonsburg
+
+360 Galley Road
+
+Canonsburg, Pa
+
+724.745.9889
+
+Located roughly twenty five minutes south of Downtown, Lindenwood Golf Club boasts a 27-hole championship layout. The beautiful rural backdrop is a great addition to the challenging yet enjoyable course.
+
+3 Lakes Golf Course
+
+6700 Saltsburg Rd.
+
+Pittsburgh, PA 15235
+
+412.793.7111
+
+The well maintained course features undulating fairways, a variety of scenic holes, and firm, fast greens that will test your game. Come and play!
+
+--------------------------------------------------------------------------------
+
+Private Golf Courses
+
+Mystic Rock at Nemacolin
+
+1001 LaFayette Dr.
+
+Farmington, PA 15437
+
+724.329.6455
+
+Mystic Rock, designed by the legendary Pete Dye, can offer golfers a challenge unlike most others. The Par-72, 7,533-yard course has received top honors from Golf Magazine and Golf Digest. Mystic Rock has a 78.1 rating and 151 slope from the championship tees. The course has undergone extensive changes from its original design based on feedback from top PGA Tour players.
+
+Shepherd’s Rock at Nemacolin
+
+1001 LaFayette Dr.
+
+Farmington, PA 15437
+
+724.329.6455
+
+Shepherd's Rock is a 7,151-yard golf course that offers extraordinary golf in a unique setting. The course has a USGA rating and slope of 74.7/138 from the championship tees. The rolling bucolic terrain is ideal to fully utilize Dye's brilliant imagination in fashioning an outing that is both fun and challenging for golfers. The layout rivals the highest-rated golf courses in the country and is a perfect companion to Nemacolin's PGA TOUR tested Mystic Rock.
+
+Edgewood Country Club
+
+100 Churchill Road
+
+Pittsburgh, PA 15235
+
+Phone:
+
+412.823.7300
+
+Established in 1898, Edgewood Country Club has earned the reputation of being a high-quality and family-oriented club. Only 15 minutes from Downtown, the Edgewood Country Club is the perfect location for business meetings, corporate events, golf outings, and more. Their Championship Golf Course, designed by Donald Ross, is a meticulously maintained, challenging, yet golfer-friendly course. The Clubhouse features swimming pools, tennis courts, paddle tennis courts, and banquet rooms for any event or occasion.
+
+Southpointe Golf Club
+
+360 Southpointe Blvd.
+
+Canonsburg, PA 15317
+
+724.746.2950
+
+Great golf starts with great terrain. With an ideal Washington County location, Southpointe sets new standards of excellence. With multiple tee areas, plateau fairways and greens designed and maintained to USGA specifications, every hole has its own unique characteristics.
+
+Diamond Run Golf Club
+
+132 Laurel Oak Dr.
+
+Sewickley, PA 15143
+
+412.741.2020
+
+Diamond Run is a golfing haven for both the amateur and the seasoned golfer. Situated in the rolling hills of Sewickley, this 18-hole Gary Player Signature Course offers five sets of elevated tees per hole, beautiful views and 100 sand bunkers. From the first drive to the last putt, the course is designed for a player''s maximum enjoyment.
+
+Oakmont Country Club
+
+1233 Hulton Rd.
+
+Oakmont, PA 15139
+
+412.828.8000
+
+Introduced in 1903 by designer Henry Fownes, Oakmont Country Club has hosted more major Championships than any other course in the U.S. With 180 deep bunkers (personified by the Church Pews), hard and slick greens that slope away from the player, and tight fairways requiring the utmost precision, Oakmont is one of the most difficult courses in North America.
+
+Totteridge Golf Club
+
+325 Hannastown Rd.
+
+Greensburg, PA 15061
+
+724.837.6700
+
+Totteridge Golf Club, on land south-east of Pittsburgh, was once part of a land grant from William Penn, founder of Pennsylvania. Totteridge is links-style layout that stretches from 5,483 to 7,368 yards while taking full advantage of the gently sloping hills and breathtaking scenery. The land itself contributes to multiple elevated tee boxes and natural fairway mounding. Even with selective bunkering and lightening fast greens, the course is well suited to all those who love the game.
+
+--------------------------------------------------------------------------------
+
+Authentic Experiences
+
+Top 12 Pittsburgh Public Golf Courses
+
+Learn More
+
+Pittsburgh Sports
+
+Learn More
+
+Parks
+
+Learn More
+
+Tours & Sightseeing
+
+Learn More
+
+--------------------------------------------------------------------------------
+
+
+
+## Fishing and Kayaking and Boating Page Content
+================================================================================
+Home
+
+Things to Do
+
+Outdoor Adventure
+
+Fishing & Boating
+
+Fishing, Kayaking & Boating
+
+Pittsburgh sits at a unique confluence of rivers unlike any other in the world, diverse and more abundant than any other state except Alaska.
+
+Pittsburgh sits at a unique confluence of rivers unlike any other in the world, diverse and more abundant than any other state except Alaska. The three rivers that meet in Pittsburgh are actually a vast watershed of more than a dozen unique creeks and river systems that include more than 30,000 miles of rivers and streams extending into New York and West Virginia. These clean and accessible waters have become a stunning icon of Pittsburgh's environmental transformation.
+
+--------------------------------------------------------------------------------
+
+Kayaking, Paddling & Rowing
+
+Pittsburgh's rivers are ideal for sculling, kayaking and canoeing. The
+
+Three Rivers Water Trail System
+
+is a project intended to develop the rivers as recreational waterways with convenient access points and day-use sites; the Allegheny River Trail is already complete. On the Allegheny River in the heart of
+
+Downtown Pittsburgh
+
+,
+
+Kayak Pittsburgh
+
+rents solo and tandem kayaks, canoes, and hydrobikes for peaceful urban exploration. Located under the 31st Street Bridge on the
+
+North Shore
+
+, the
+
+Three Rivers Rowing Association
+
+offers rowing, kayaking, and dragon boating to individuals, schools and organizations of all skill levels. The
+
+Steel City Rowing Club
+
+is the only rowing organization on the upper Allegheny River, which boasts nine full miles of rowing without locks or dams, on relatively undeveloped wetlands.
+
+--------------------------------------------------------------------------------
+
+Boating
+
+Pittsburgh has the second-largest number of registered pleasure boats in the country. There are
+
+seventeen marinas
+
+in Allegheny County along the three rivers, offering river access, dining and boat maintenance.
+
+Station Square
+
+in the
+
+South Side
+
+offers public docks at Bessemer Court, for easy river access to downtown shopping and dining. Also within the city limits are four
+
+public boat launches
+
+, one on the Monongahela River in the South Side and three along the Allegheny River Trail. Visitors can rent kayaks and boats at the North Park Boathouse through
+
+Venture Outdoors
+
+.
+
+--------------------------------------------------------------------------------
+
+Fishing
+
+There are 38.3 miles of river shoreline within the city limits.
+
+Venture Outdoors
+
+organizes weekly lunchtime fishing in
+
+Point State Park
+
+or
+
+North Shore Riverfront Park
+
+, with an instructor on hand to help the novice and expert alike. Regionally, western Pennsylvania's
+
+state parks
+
+abound with well-stocked lakes and streams. Deer Lakes Park and North Park both have
+
+accessible fishing piers
+
+.
+
+--------------------------------------------------------------------------------
+
+Whitewater
+
+In
+
+Ohiopyle State Park
+
+, the Youghiogheny River boasts class III and IV rapids and is considered to be some of the best whitewater in the east.
+
+White Water Adventurers
+
+and
+
+Laurel Highlands River Tours
+
+organize rafting and kayaking for groups of all sizes and skill levels on the Youghiogheny River.
+
+--------------------------------------------------------------------------------
+
+Water Resources
+
+PA Fish + Boat Commission
+
+State agency responsible for the protection and management of Pennsylvania's aquatic resources. Issues fishing liscences and boat registrations.
+
+Riverlife
+
+Nonprofit organization bringing economic development, design, and recreation to the downtown riverfronts by working with property owners, public leaders and community groups.
+
+--------------------------------------------------------------------------------
+
+Authentic Experiences
+
+Casinos & Gaming
+
+​Look no further than one of the Pittsburgh area's full-service casinos for entertainment and fun day and night!
+
+Details
+
+Memorials
+
+Details
+
+Credit
+
+|
+
+JP Diroll
+
+--------------------------------------------------------------------------------
+
+
+
+## Trails Page Content
+================================================================================
+Home
+
+Things to Do
+
+Outdoor Adventure
+
+Trails
+
+Trails
+
+On foot, by bike or in the water, the ways to experience Pittsburgh and Allegheny County are endless.
+
+Check out the extensive trail information below and begin your own outdoor urban adventure!
+
+--------------------------------------------------------------------------------
+
+Hiking Trails
+
+There are
+
+over 700 outdoor stairways
+
+within Pittsburgh's city limits, totaling 24,090 vertical feet. The highest concentration of city steps is in the
+
+South Side Slopes neighborhood
+
+which holds its annual
+
+StepTrek
+
+event in October that allows walkers to climb the many steps in the slopes while benefiting step maintenance in the area. Many of these steps are considered part of the local transit system, and are a great way to start exploring the city on foot.
+
+The
+
+Allegheny County Parks
+
+offer over 180 miles of trails throughout the nine parks. Park visitors can download the
+
+Allegheny County Parks Trails App
+
+to easily choose which one to traverse by viewing its length, difficulty, and elevation profile. Visitors can also track their location and get current weather conditions. Our trails are friendly to hikers, bikers, horseback riders, and runners.
+
+Take your exploration to the next level by delighting in the beauty of Pittsburgh and Allegheny County on one of the diverse hiking trails that stretch through 24 miles of the city. The
+
+Three Rivers Heritage Trail System
+
+is a 33-mile trail and greenway system that goes through Downtown Pittsburgh running along both sides of the Allegheny, Monongahela and Ohio Rivers. The trail connects Downtown to adjacent city areas including Oakland, the North Shore, the South Side and the Strip District.
+
+Venture a little further into Allegheny County on the
+
+Rachel Carson Trail
+
+a 35.7-mile day-hike trail connecting
+
+North Park
+
+in central Allegheny County to
+
+Harrison Hills County Park
+
+in its northeast corner. This diverse trail ranges from paved areas to rugged terrain and steep inclines.
+
+--------------------------------------------------------------------------------
+
+The Great Allegheny Passage
+
+Get ready for the ride of your life as you bike the
+
+Great Allegheny Passage
+
+, 335 miles of adventure spreading across two states and the District of Columbia. The Great Allegheny Passage is one smooth ride stretching 150 miles from Cumberland, Md., through the Laurel Highlands and into Pittsburgh offering travelers fun on two wheels or two feet. Outdoor adventurers won't want to miss the scenic trail that
+
+Livability.com
+
+acclaimed as one of the best and longest multipurpose trails in the East.
+
+In Cumberland, the GAP joins the 185-mile C&O Canal Towpath creating a 335-mile continuous trail experience to Washington, D.C. These nearly-level trails bring adventurers into the heart of the majestic western Pennsylvania, Maryland and West Virginia wilderness as they travel through
+
+charming trail towns
+
+and near National Landmarks such as famed architect
+
+Frank Lloyd Wright's Fallingwater
+
+.
+
+Explore the trail on your own or with a group,
+
+Golden Triangle Bike Rental
+
+is your one-stop-shop for all things GAP. Their services range from "fully-equipped" bike rental packages to shuttle service to
+
+trip planning and fully-supported tours
+
+. Whether you are pedaling out 5 miles or riding all the way to/from D.C., check in with Golden Triangle for everything you need to make your adventure on the GAP a success
+
+--------------------------------------------------------------------------------
+
+Biking Trails
+
+Pittsburgh's unique topographic blend of steep, winding hills and flat river areas makes it one of the best cities for cycling enthusiasts. Looking for an urban cycling adventure? Check out the
+
+Eliza Furnace Trail
+
+, a part of the larger
+
+Three Rivers Heritage Trail
+
+that runs through the city and offers many
+
+bike rack sites
+
+for easy storage as you explore one of the many unique neighborhoods along the trail. Need a lift to your next trail? Pittsburgh's bike friendly public transit operator the
+
+Port Authority
+
+allows riders many options to store their bikes while taking a ride to their next destination.
+
+Perhaps you crave a more scenic route - with a ride that winds through 19 miles of Pittsburgh Steel history - along the Steel Valley section of the
+
+Great Allegheny Passage
+
+, the 335-mile trail connecting Washington, D.C., to Pittsburgh. Mountain bikers, be sure to check out the
+
+Pittsburgh Off-Road Cyclists
+
+for more information on great trails and Pittsburgh''s thriving mountain bike community.
+
+If you forgot the bike at home, Golden Triangle Bike has it covered with bike rentals and maps to take you across the city or along the Great Allegheny Passage.
+
+--------------------------------------------------------------------------------
+
+Water Trails
+
+Pittsburgh sits at a unique confluence of rivers unlike any other in the world, and its diversity is more abundant than any other state except Alaska. The
+
+three rivers
+
+that meet in Pittsburgh are actually a vast watershed of more than a dozen unique creeks and river systems that include more than 30,000 miles of rivers and streams extending into New York and West Virginia. These clean and accessible waters have become a stunning icon of Pittsburgh's environmental transformation and allow you to experience the city from a new vantage point.
+
+Kayak Pittsburgh
+
+lets you paddle down the
+
+Allegheny River
+
+and take in the city sites of Downtown and the North Shore from the water. Row up one of the United States'' only North flowing rivers, the
+
+Monongahela
+
+with
+
+Three Rivers Rowing
+
+which offers Free Learn to Row and Paddle Days.
+
+Spend an afternoon boating from one of the seventeen marinas in Allegheny County along the three rivers, offering river access, dining and boat maintenance. Station Square on the South Shore offers public docks at Bessemer Court, for easy river access to downtown shopping and dining. Also within the city limits are four
+
+public boat launches
+
+, one on the Monongahela River in the South Side and three along the Allegheny River. Pittsburgh's 38.3 miles of river shoreline within the city limits offers ample space for fishing and western Pennsylvania's
+
+state parks
+
+abound with well-stocked lakes and streams.
+
+Adventurers are sure to stop by
+
+Ohiopyle State Park
+
+, where the Youghiogheny River boasts class III and IV rapids and is considered to be some of the best whitewater in the east. Check out
+
+White Water Adventurers
+
+and
+
+Laurel Highlands River Tours
+
+for more information on the rapids.
+
+--------------------------------------------------------------------------------
+
+Local Trail Organizations & Outdoors Clubs
+
+Allegheny Trail Alliance
+
+The Great Allegheny Passage rail-trail offers 150 miles of hiking and biking between Cumberland, Md. and Pittsburgh. IN Cumberland, the GAP joins the C&O Canal Towpath, creating a continuous trail experience, 335 miles long to Washington, D.C.
+
+DCNR Rails to Trails Guide
+
+Pennsylvania Department of Conservation and Natural Resources information on trails proposed, open and under construction.
+
+Friends of the Riverfront
+
+Increases awareness and engagement with the Pittsburgh region’s rivers and riverfronts through activities, stewardship and expansion of water and land trails.
+
+Rachel Carson Trails Conservancy
+
+A nonprofit, volunteer-based organization dedicated to the development, protection and promotion of hiking, biking and walking trails throughout western Pennsylvania.
+
+Allegheny Outdoor Club
+
+An organization based in northwestern Pennsylvania that maintains a weekly schedule of hosted hiking, biking, winter skiing activities and special events.
+
+Explorers Club of Pittsburgh
+
+Founded in 1947, the club is devoted to outdoor exploration and adventure in the western Pennsylvania region. Members participate in activities as diverse as mountaineering,
+
+rock climbing
+
+, skiing, scuba diving, canoeing, kayaking, caving, cycling, backpacking, environmental and community service projects, and a host of outdoor sports.
+
+Keystone Ramblers
+
+Local organization that maintains a schedule of hikes arranged into different themed series.
+
+Venture Outdoors
+
+A nonprofit organization devoted to increasing participation in outdoor recreational activity through sponsorship of biking, hiking, kayaking, fishing, climbing, nature observation and skiing in the western Pennsylvania region.
+
+When you're enjoying outdoor activities, always remember to be safe. The
+
+Outdoor Safety Health Guide
+
+is a great way to enjoy the outdoors safely!
+
+--------------------------------------------------------------------------------
+
+Authentic Experiences
+
+Family Fun
+
+Won't you be our neighbor?
+
+Details
+
+Fishing, Kayaking & Boating
+
+Pittsburgh sits at a unique confluence of rivers unlike any other in the world, diverse and more abundant than any other state except Alaska.
+
+Details
+
+--------------------------------------------------------------------------------
+
+
+
+## Parks Page Content
+================================================================================
+Home
+
+Things to Do
+
+Outdoor Adventure
+
+Parks
+
+Parks
+
+Western Pennsylvania is home to some of the most diverse landscape in the United States.
+
+Pittsburgh is a green city – not just because of our environmentally friendly buildings and city programs, but because of our parks! Hike, bike, hunt, fish, canoe or ride through our beautiful backyard.
+
+--------------------------------------------------------------------------------
+
+City Parks
+
+The
+
+City of Pittsburgh is home to 176 parks
+
+, ranging from regional parks to small neighborhood parklets.
+
+Schenley Park
+
+contains 456 acres of trails, woods, and attractions. A daily destination for university students, professionals, and outdoor enthusiasts, the park also hosts
+
+major annual events
+
+such as the
+
+Vintage Grand Prix
+
+and the Pittsburgh Race for the Cure. Visitors of Schenley Park can enjoy lunch and a concert at the Schenley Park Café and Visitor Center, relax on Flagstaff Hill, play a round at the Bob O’Connor Golf Course, head to the Schenley Oval Sportsplex for ice skating or
+
+summer
+
+sports, or take a dip in the swimming pool. The trails offer a refreshing and convenient escape from the city. The Pittsburgh Parks Conservancy restored the Schenley Park Café and Visitor Center in 2001 and operates the space today with event and culinary partners, Eat'n Park Hospitality Group. In 2005, the Parks Conservancy worked with the City of Pittsburgh to rehabilitate the Phipps Run stream channel that stretches from behind the Visitor Center down to Panther Hollow Lake. Restoration of the Panther Hollow Watershed is continuous, with the goal of restoring Panther Hollow Lake to a water quality that will once again allow for recreational use.
+
+--------------------------------------------------------------------------------
+
+Frick Park
+
+is known as Pittsburgh’s woodland park for its extensive trails throughout steep valleys and wooded slopes—it’s an ideal escape from the noise of the city. Enthusiasts love to visit Clayton Hill, where well over 100 species of birds have been recorded. Children flock to the famous Blue Slide Playground and learn about nature at the Frick Environmental Center. The park also features red clay tennis courts, baseball fields, and the only public lawn bowling green in Pennsylvania. The Pittsburgh Parks Conservancy has completed extensive ecological restoration work in Frick Park since the Conservancy’s first capital project in 2000, the restoration of Reynolds Street gatehouse entrance. The Pittsburgh Parks Conservancy, in partnership with the City of Pittsburgh, opened the new Frick Environmental Center to the public in September 2016, and in 2018 it was certified as a Living Building, achieving Leadership in Energy and Environmental Design (LEED) Platinum status.
+
+Emerald View Park
+
+visitors can enjoy 257 acres of winding trails, wooded hillsides, and surprise vistas. Historic spaces within the park feature picnic areas, playgrounds, ballfields, overlooks, and Depression-era sandstone steps and walls. Thanks to the tireless efforts of groups like the Mount Washington Community Development Corporation, the City of Pittsburgh, and partners in the community, a master plan was created for Emerald View Park, as well as a plan for 19 miles of new trails. Through removal of dumpsites, habitat restoration, trail development and capital improvements, this land has been reclaimed as a park. Efforts outlined in the Master Implementation Plan (2005) and Master Trail Plan (2010) continue, along with beautification along the nearby Grand View Scenic Byway. Future planning efforts between the Pittsburgh Parks Conservancy, Mount Washington Community Development Corporation, and the City of Pittsburgh ensures that Emerald View Park will continue to thrive and grow.
+
+Highland Park
+
+features a popular bike track, swimming pool, sand volleyball courts, and the
+
+Pittsburgh Zoo & Aquarium
+
+. A water filtration plant cleans the water from the main reservoir, and waste water is naturally de-chlorinated in part by a brook which trickles into Lake Carnegie.
+
+Beginning with the creation of the Babbling Brook in 2003, the Pittsburgh Parks Conservancy has completed several major park improvement projects in Highland Park. The Entry Garden was restored in 2005. In 2006, the Conservancy worked with the City of Pittsburgh to create a series of seasonal pools along Washington Boulevard. These pools provide a unique urban wetland habitat while dramatically reducing the impact of stormwater runoff. Future plans for the park include work on Heth’s Run, which includes creating a new trail, adding athletic fields, and connecting the park to the Allegheny River.
+
+Riverview Park
+
+is a jewel of Pittsburgh’s North Side. Nestled between Perrysville Avenue, Woods Run and Marshall Avenue, the 259-acre park is known for its wooded trails and dramatically steep hillsides. The park’s extensive network of trails invites hikers, joggers, and the occasional horseback rider into the woods. The park is also home to the landmark Allegheny Observatory, a swimming pool and activities building, and the popular two-mile Riverview Loop. Residents enjoy the park's pool, playground, ball field, shelters and summertime concerts and movies. The Chapel Shelter, a historic picnic shelter that was once a Presbyterian church, was restored by the Parks Conservancy in 2008. Restoration of the building and the surrounding landscape included creation of a new trail, plantings of numerous native trees and shrubs, and clearing invasive species. Future plans for the park include restoring the historic Watson’s Cabin and continuing restoration of the Snyder’s Point natural area.
+
+--------------------------------------------------------------------------------
+
+Waterfront Parks
+
+Thirteen miles of Downtown Pittsburgh's riverfront park system interconnect to form
+
+Three Rivers Park
+
+, featuring more than 800 acres of open space for the general public to enjoy. Current boundaries are marked by the West End Bridge over the Ohio River, the 31st Street Bridge over the Allegheny River and the Hot Metal Bridge over the Monongahela River.
+
+North Shore Riverfront Park
+
+shows off one of the city's greatest examples of revitalization, attracting joggers, cyclists and boaters to the area surrounding the beauty of Heinz Field and PNC Park. On the other side of the Allegheny is the
+
+David L. Lawrence Convention Center Riverfront Plaza
+
+, which provides a passageway from
+
+Point State Park
+
+to the
+
+Strip District
+
+and gives people a place to gather in front of the largest "green" building in the world. A five-acre parking lot dating back to the days of Pittsburgh's heavy industrial age was replaced with flood-resistant plants, water-access steps and improved infrastructure to create the
+
+Mon Wharf Landing
+
+. Across the Monongahela is the
+
+South Shore Riverfront Park
+
+, located at the popular SouthSide Works complex. The park features a piazza, boat dock and concert stage and serves as an important connection for the Great Allegheny Passage and Three Rivers Heritage Trail.
+
+--------------------------------------------------------------------------------
+
+County Parks
+
+The Allegheny County Parks offer a variety of year-round recreational activities including
+
+golf
+
+, fishing, swimming, kayaking, skiing, youth sports and much more. These parks total 12,000 acres and receive 22 million visits per year!
+
+Each of the nine parks has something unique and exciting waiting to be explored! Learn more
+
+here
+
+.
+
+Boyce Park
+
+encompasses 1,096 acres in Monroeville and Plum and is home to the only downhill skiing and snowtubing hills available in Allegheny County. Other amenities include ballfields, a wave pool, trails, a skate park, archery range, shelters and a nature center.
+
+Deer Lakes Park
+
+encompasses 1,180 acres in Frazer and West Deer townships and features three fishing lakes as well as an observatory, spray park, shelters, a disc golf course, playgrounds, a multipurpose field, and walking, hiking and jogging trails.
+
+Harrison Hills Park
+
+encompasses 500 acres in Harrison Township and features an environmental learning center, shelters, a scenic overlook, playgrounds, soccer fields, ponds, a birding area, and walking, hiking and bridle trails.
+
+Hartwood Acres Park
+
+encompasses 629 acres in Hampton and Indiana townships and offers free concerts on Sunday evenings from June through August. Other amenities include Hartwood Mansion tours, teas, an off-leash dog area, and cross-country skiing, walking, hiking and bridle trails.
+
+North Park
+
+encompasses 3,075 acres in Hampton, McCandless and Pine townships. The largest of the nine county parks, North Park also features a 65-acre lake with fishing and kayaking, a golf course, pool, ice rink, ballfields, nature center, shelters, off-leash areas, dek hockey rink, and trails.
+
+Round Hill Park
+
+encompasses 1,101 acres in Elizabeth Township and features an exhibition farm with animals that is open every day of year. Other amenities include soccer fields, shelters, a spray park, and walking and bridle trails.
+
+Settlers Cabin Park
+
+encompasses 1,610 acres in Collier, North Fayette and Robinson townships and features a historic log cabin, wave pool, dive pool, shelters, tennis courts, playgrounds, dek hockey rink, and walking and hiking trails.
+
+South Park
+
+encompasses 2,013 acres in Bethel Park and South Park Township. The second largest county park, South Park features free concerts on Friday evenings from June through August. Additional amenities include a golf course, ballfields, wave pool, shelters, skate park, trails, nature center, dek hockey rink, and ice rink.
+
+White Oak Park
+
+encompasses 810 acres in White Oak and offers a multi-purpose athletic field, shelters, a wedding garden, playgrounds, off-leash area, bocce courts, volleyball courts, horseshoe pits, and walking and hiking trails.
+
+--------------------------------------------------------------------------------
+
+State Parks
+
+What better way to experience Pittsburgh than spending the afternoon at
+
+Point State Park
+
+. The park is home to the iconic Point State Park Fountain which, after undergoing extensive reconstruction, reopened in June 2013. The park and fountain are the key elements to the iconic Pittsburgh skyline photos from Mt. Washington. Venture into the
+
+Laurel Highlands
+
+to experience everything
+
+Ohiopyle State Park
+
+has to offer. Hunting, biking and snowmobile trails are only the start! Lawrence County's
+
+McConnells Mill State Park
+
+offers visitors nine miles of hiking trails through Slippery Rock Gorge or white water boating along the swift moving Slippery Rock Creek which boast Class I-IV rapids. Looking for a park with a little bit of everything?
+
+Moraine State Park
+
+just an hour north of Pittsburgh has it all: camping, boating, swimming, hiking, biking, sledding, cross-county skiing and much more!
+
+--------------------------------------------------------------------------------
+
+Parks Agencies
+
+Allegheny County Parks Department
+
+Maintains nine county parks in the greater Pittsburgh area, which feature varied topography and hundreds of miles of trails.
+
+City of Pittsburgh Department of Parks & Recreation
+
+Pittsburgh's Department of Parks & Recreation, or CitiParks, facilitates the use of 3,600 acres of parkland over 165 parks. The Department provides pools, recreation and senior centers, and innovative programing for children and young people. With the help of the Departments of Public Works and City Planning, CitiParks provides top of the line public amenities.
+
+CitiParks is supported in part by the Allegheny Regional Asset District and the Pittsburgh Parks Conservancy.
+
+Pittsburgh Parks Conservancy
+
+The Pittsburgh Parks Conservancy was founded in December 1996 by a group of citizens concerned with the deteriorating conditions of Pittsburgh's historic city parks. A nonprofit organization, the Parks Conservancy has worked closely with the City of Pittsburgh since 1998 under an official private interest partnership agreement to restore the city's parks. The Parks Conservancy’s mission is to Improve the quality of life for the people of Pittsburgh by restoring the park system to excellence in partnership with government and the community. Projects and programs are conducted with respect for the environment, historic design, and the needs of our diverse region.
+
+To date, the Parks Conservancy has raised over $124 million for parks and has completed 22 major improvement projects. Currently active in 22 of the city’s 165 parks, the Parks Conservancy has expanded into community and neighborhood parks throughout Pittsburgh.
+
+PA Department of Conservation + Natural Resources
+
+State agency charged with maintaining and preserving 116 state parks; managing 2.1 million acres of state forest land; providing information on the state's ecological and geologic resources; and establishing community conservation partnerships with grants and technical assistance to benefit rivers, trails, greenways, local parks and recreation, regional heritage parks, open space and natural areas.
+
+Allegheny National Forest
+
+One of 155 National Forests manages by the USDA Forest Service. This vast tract of land, once almost barren, was set aside in 1931 and has since become a mature second-growth forest.
+
+--------------------------------------------------------------------------------
+
+Explore More
+
+Top Free Things to Do in Pittsburgh
+
+​Who said you have to spend money to have a good time?
+
+Learn More
+
+--------------------------------------------------------------------------------
+
+
+
+## Biking Page Content
+================================================================================
+Home
+
+Things to Do
+
+Outdoor Adventure
+
+Biking in Pittsburgh
+
+Biking in Pittsburgh
+
+Whether you're a hard core cyclist or a casual weekend bike trail enthusiast, Pittsburgh has the bicycle experience for you!
+
+Pittsburgh has a strong and devoted community of cyclists who are eager to welcome you to their city. Let Pittsburgh wow you not only with its bike-accessible hotels and public transportation, but also its beautiful trails, fascinating and fun tours, and accommodating shops with knowledgeable and passionate staff.
+
+In fact, People for Bikes, one of the nation’s leading organizations dedicated to making bicycling safer, more convenient and appealing for everyone, named Pittsburgh among the
+
+top 20 cities
+
+in the United States for people on bicycles. Included in the evaluation were five key indicators: ridership, safety, network, reach and acceleration. Pittsburgh performed particularly well in terms of safety (how safe it is to ride bikes) and acceleration (how fast the community is working to improve biking).
+
+There is so much to see and do in Pittsburgh — all you need is your bike!
+
+--------------------------------------------------------------------------------
+
+POGOH Bikeshare
+
+Learn More
+
+Bicycle Heaven Museum
+
+Learn More
+
+Bike the Burgh Tours
+
+Learn More
+
+--------------------------------------------------------------------------------
+
+Top Pittsburgh Bike Trails
+
+Pittsburgh's unique topographic blend of steep, winding hills and flat river areas makes it one of the best cities for cycling enthusiasts.
+
+1. Frick Park
+
+The largest of
+
+Pittsburgh's regional parks
+
+, Frick Park boasts an extensive system of trails throughout steep valleys and wooded slopes. Frick Park stretches from Point Breeze in the North, down to the Monongahela River on its southern border and is the perfect quiet escape from the hustle and bustle of the city.
+
+2. Schenley Park
+
+Schenley Park can be found in the
+
+Oakland neighborhood
+
+and houses
+
+Phipps Conservatory
+
+, the Schenley Park Café, Bob O' Connor Golf Course, and the Schenley Oval Sportsplex, not to mention a number of interconnected and sprawling trails waiting to be explored.
+
+3. Highland Park
+
+Water is the main focus of this historic park, as it is home to Pittsburgh reservoirs, a fountain and reflecting pool at its entrance, a swimming pool, Lake Carnegie, as well as the
+
+Pittsburgh Zoo and PPG Aquarium
+
+. This park also features the Reservoir Loop, a bike track, and many trails connecting all parts of the park.
+
+4.
+
+The Great Allegheny Passage
+
+One of Pittsburgh's outdoor claims to fame is The Great Allegheny Passage, also known as the GAP Trail, a 150 mile connection from Pennsylvania to Maryland. The trail passes through Cumberland Narrows, crosses the Mason-Dixon Line, snakes across the Laurel Highlands through Ohiopyle State Park, and ends right in
+
+Downtown Pittsburgh
+
+at the beautiful Point State Park.
+
+5.
+
+Montour Trail
+
+Branching off of the GAP Trail is the Montour Trail, which extends from Coraopolis, PA to Clairton, PA. The Montour Trail connects
+
+Pittsburgh International Airport
+
+to the GAP, which ultimately connects as far south as Washington, D.C.
+
+6. Three Rivers Heritage Trail
+
+Lining the banks of Pittsburgh's famous three rivers, the Three Rivers Heritage Trail is a popular system of trials that is use for exercise, recreation, and provides a safe route for bike commuters. Enjoy a scenic ride along one of Pittsburgh’s beautiful riverfronts. There is really no wrong choice.
+
+7. Main Line Canal Greenway
+
+The 320-mile trail that connects Pittsburgh to Harrisburg follows the historic path of the Main Line Canal Greenway. The focus of the trail is to create a connection that is not only physical, but also a human connection that is as unique as the land and countryside that surrounds it.
+
+--------------------------------------------------------------------------------
+
+Pittsburgh Bike Maps
+
+BikePGH
+
+— a registered 501(c)(3) non-profit dedicated to preserving and improving upon Pittsburgh's standing as a bicycle-friendly community — manages, maintains and updates a
+
+series of helpful maps
+
+that provide riders with a comprehensive overview of Pittsburgh's many bike lanes, paths, trails and other biking infrastructure. The latest version of their Pittsburgh Bike Map highlights new street bike routes, an updated catalog of Pittsburgh bike shops, helpful illustrations, a comprehensive legend and much more.
+
+Click here
+
+to download a PDF version.
+
+BikePGH also maintains a interactive bike map available
+
+online
+
+.
+
+--------------------------------------------------------------------------------
+
+Click here
+
+to load the interactive map in full screen.
+
+--------------------------------------------------------------------------------
+
+Open Streets
+
+OpenStreetsPGH
+
+is a free event series run by BikePGH. It is a group of businesses, neighbors, non-profits, and others who want to help Pittsburgh be the healthiest, most active, and happiest city it can be. Three times a year, OpenStreetsPGH closes down a city street and uses it for fitness workshops, kids activities, shopping, brunch, community arts, and special promotions from over 100 local businesses and organizations.
+
+--------------------------------------------------------------------------------
+
+POGOH Bike Share
+
+POGOH
+
+is Pittsburgh's bike share system. Bike-sharing is meant for quick trips around the city of Pittsburgh. Customers can pick up a bicycle at 50 stations throughout the city, return the bike at one of the other stations, and move about their day.
+
+It's as easy as registering, renting, riding and returning! Sign up to rent bikes through the
+
+PBSC
+
+app, the
+
+POGOH
+
+website, or at a POGOH station kiosk.
+
+--------------------------------------------------------------------------------
+
+Cultural Trust Art Bike Racks
+
+Pittsburgh's arts and cycling communities come together in the form of
+
+Art Bike Racks
+
+sponsored by the
+
+Pittsburgh Cultural Trust
+
+. Be on the lookout for some fun and interesting bike racks as you travel through
+
+Pittsburgh's unique neighborhoods
+
+via bike lanes that extended throughout the city. Don't forget to snap a pic!
+
+--------------------------------------------------------------------------------
+
+Port Authority
+
+Pittsburgh is committed to supporting its bicycling community as well as all of its visiting cyclists, so much so that the city's public buses and light rail system, called the T, encourage travelers to combine modes of transportation by providing space for you to store your bicycle.
+
+Each bus has racks on the front for bike storage while you ride, so you can get through town and get out into the beautiful nature that is so perfectly integrated into the city.
+
+Pittsburgh's light rail system, better known as the T, is also bike friendly. Two bikes per train car are allowed on the T at all times in any direction in a designated area. Find more information about Pittsburgh's bike-friendly public transportation on the
+
+Port Authority Website
+
+.
+
+--------------------------------------------------------------------------------
+
+Bike-Friendly Hotels
+
+Traveler's Rest Hotel
+
+Kimpton Hotel Monaco
+
+The Priory
+
+Shadyside Inn All Suites Hotel
+
+Local Cycling Organizations
+
+Allegheny Cycling Association
+
+Conducts and organizes bicycle racing for riders of all abilities within Western Pennsylvania and encourages nationwide competition of its members.
+
+Bike Pittsburgh
+
+Partners with local stakeholders to increase the safety and accessibility of bike transportation in the city through street, bridge and trail improvement. Also check out their Google Calendar of local events.
+
+Pedal Pittsburgh
+
+The region's premier cycling event celebrating design, health and fitness, and urban lifestyles.
+
+Western PA Wheelmen
+
+Founded in 1969; one of the largest cycling clubs in Pennsylvania.
+
+--------------------------------------------------------------------------------
+
+Bike Shops
+
+•
+
+Thick Bikes
+
+•
+
+Kraynick’s Bike Shop Inc.
+
+•
+
+Bear Dog Bicycles
+
+•
+
+PRO BIKE+RUN Robinson
+
+•
+
+Kindred Cycles
+
+•
+
+PRO BIKE+RUN South Hills
+
+•
+
+Iron City Bikes
+
+•
+
+PRO BIKE+RUN Strip District
+
+•
+
+Fern Hollow Bicycles
+
+•
+
+West Liberty Cycles
+
+•
+
+Biketek Pittsburgh
+
+•
+
+Rusty Sprocket Bike Shop
+
+•
+
+Bicycle Heaven
+
+--------------------------------------------------------------------------------
+
+Related Blog Posts
+
+Pittsburgh Indoor Fun
+
+Learn More
+
+Biking in Pittsburgh
+
+Learn More
+
+Bike Instead: Restaurants on PGH Bike Trails
+
+Learn More
+
+Tour the
+
+​
+
+‘
+
+Burgh
+
+Learn More
+
+--------------------------------------------------------------------------------
+
+Suggested Content
+
+Marathons, Runs, Walks & Races
+
+Run, walk or trot through the neighborhoods of Pittsburgh during some of the fastest growing racing events in the nation.
+
+Details
+
+Trails
+
+On foot, by bike or in the water, the ways to experience Pittsburgh and Allegheny County are endless.
+
+Details
+
+Top Free Things to Do in Pittsburgh
+
+​Who said you have to spend money to have a good time?
+
+Details
+
+--------------------------------------------------------------------------------
+

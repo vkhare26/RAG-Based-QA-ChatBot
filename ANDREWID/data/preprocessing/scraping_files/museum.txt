@@ -1,0 +1,262 @@
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/museums/?page=1
+Page Title: 
+================================================================================
+Place Name: Flight 93 National Memorial
+Address: 6424 Lincoln Highway
+Stoystown, Pennsylvania 15563
+(814) 893-6552
+--------------------------------------------------------------------------------
+Place Name: Beaver County Tourism
+Address: 121 Brady's Run Rd., Brady's Run Park Recreation Facility
+Beaver Falls, Pennsylvania 15010
+(724) 770-2062
+--------------------------------------------------------------------------------
+Place Name: Fort Ligonier
+Address: 200 South Market St.
+Ligonier, Pennsylvania 15658
+(724) 238-9701
+--------------------------------------------------------------------------------
+Place Name: Bike the Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: The Andy Warhol Museum
+Address: 117 Sandusky St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-8300
+--------------------------------------------------------------------------------
+Place Name: First Presbyterian Church of Pittsburgh
+Address: 320 Sixth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 471-3436
+--------------------------------------------------------------------------------
+Place Name: Bradford House Museum
+Address: 175 S. Main St.
+Washington, Pennsylvania 15301
+(724) 222-3604
+--------------------------------------------------------------------------------
+Place Name: August Wilson African American Cultural Center
+Address: 980 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-1011
+--------------------------------------------------------------------------------
+Place Name: Experience Butler County
+Address: 310 E. Grandview Ave.
+Zelienople, Pennsylvania 16063
+(724) 234-4619
+--------------------------------------------------------------------------------
+Place Name: Antique Skyscrapers: Talks & Tours
+Address: (412) 310-1098
+--------------------------------------------------------------------------------
+Place Name: Braddock's Battlefield History Center
+Address: 609 Sixth St.
+North Braddock, Pennsylvania 15104
+(412) 271-0800
+--------------------------------------------------------------------------------
+Place Name: Allegheny County Parks Department
+Address: 542 Forbes Ave., Room 211
+Pittsburgh, Pennsylvania 15219
+(412) 350-2455
+--------------------------------------------------------------------------------
+Place Name: Carnegie Museum of Art and Natural History
+Address: 4400 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 622-3131
+--------------------------------------------------------------------------------
+Place Name: GO Laurel Highlands
+Address: 113 East Main St.
+Ligonier, Pennsylvania 15658
+(724) 238-5661
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's Fallingwater
+Address: Route 381 South, 1491 Mill Run Rd.
+Mill Run, Pennsylvania 15464
+(724) 329-8501
+--------------------------------------------------------------------------------
+Place Name: Compass Inn Museum/Ligonier Valley Historical Society
+Address: 1382 Route 30 East
+Laughlington, Pennsylvania 15655
+(724) 238-4983
+--------------------------------------------------------------------------------
+Place Name: Experience Armstrong, Inc.
+Address: 125 Market St.
+Kittanning, Pennsylvania 16201
+(724) 543-4003
+--------------------------------------------------------------------------------
+Place Name: Benedum Center for the Performing Arts
+Address: 237 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Duquesne Incline
+Address: 1197 W. Carson St.
+Pittsburgh, Pennsylvania 15219
+(412) 381-1665
+--------------------------------------------------------------------------------
+Place Name: The Frick Pittsburgh
+Address: 7227 Reynolds St.
+Pittsburgh, Pennsylvania 15208
+(412) 371-0600
+--------------------------------------------------------------------------------
+Place Name: Bushy Run Battlefield
+Address: 1253 Bushy Run Rd.
+Jeannette, Pennsylvania 15644
+(724) 527-5584
+--------------------------------------------------------------------------------
+Place Name: Fort Pitt Museum
+Address: 601 Commonwealth Place, Building B
+Point State Park
+Pittsburgh, Pennsylvania 15222
+(412) 281-9284
+--------------------------------------------------------------------------------
+Place Name: Bicycle Heaven Museum
+Address: 1800 Preble Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 734-4034
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's House on Kentuck Knob
+Address: 723 Kentuck Rd.
+Chalk Hill, Pennsylvania 15421
+(724) 329-1901
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/museums/?page=2
+Place Name: The Society to Preserve the Millvale Murals of Maxo Vanka
+Address: 24 Maryland Ave.
+Millvale, Pennsylvania 15209
+(412) 408-3180
+--------------------------------------------------------------------------------
+Place Name: Greene County Tourist Promotion Agency
+Address: 19 S. Washington St., Fort Jackson Bldg.
+Waynesburg, Pennsylvania 15370
+(724) 627-8687
+--------------------------------------------------------------------------------
+Place Name: Visit Lawrence County
+Address: 229 S. Jefferson St., Ste. 101
+New Castle, Pennsylvania 16101
+(724) 654-8408
+--------------------------------------------------------------------------------
+Place Name: Soldiers & Sailors Memorial Hall & Museum
+Address: 4141 Fifth Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 621-4253
+--------------------------------------------------------------------------------
+Place Name: Senator John Heinz History Center
+Address: 1212 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 454-6000
+--------------------------------------------------------------------------------
+Place Name: Meadowcroft Rockshelter and Historic Village
+Address: 401 Meadowcroft Rd.
+Avella, Pennsylvania 15312
+(724) 587-3412
+--------------------------------------------------------------------------------
+Place Name: Nationality Rooms
+Address: Cathedral of Learning, 4200 Fifth Ave.
+Pittsburgh, Pennsylvania 15260
+(412) 624-6000
+--------------------------------------------------------------------------------
+Place Name: Indiana County Tourist Bureau
+Address: Indiana Mall, 2334 Oakland Ave.
+Indiana, Pennsylvania 15701
+(724) 463-7505
+--------------------------------------------------------------------------------
+Place Name: Kennywood
+Address: 4800 Kennywood Blvd.
+West Mifflin, Pennsylvania 15122
+(412) 461-0500
+--------------------------------------------------------------------------------
+Place Name: Steelers Hall of Honor Museum
+Address: 100 Art Rooney Ave., Gate B
+Pittsburgh, Pennsylvania 15212
+(412) 697-7150
+--------------------------------------------------------------------------------
+Place Name: Rivers of Steel
+Address: 623 East 8th Ave., The Bost Building
+Homestead, Pennsylvania 15120
+(412) 464-4020
+--------------------------------------------------------------------------------
+Place Name: Historic Hanna's Town
+Address: 809 Forbes Trail Rd.
+Greesburg, Pennsylvania 15601
+(724) 836-1800
+--------------------------------------------------------------------------------
+Place Name: Pennsylvania Trolley Museum
+Address: 1 Electric Way
+Washington, Pennsylvania 15301
+(724) 228-9256
+--------------------------------------------------------------------------------
+Place Name: Walk The Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh History & Landmarks Foundation
+Address: 100 W. Station Square Dr., Ste. 450
+Pittsburgh, Pennsylvania 15219
+412-471-5808 x 527
+--------------------------------------------------------------------------------
+Place Name: Monongahela Incline
+Address: 8 Grandview Ave., Port Authority of Allegheny County
+Pittsburgh, Pennsylvania 15211
+(412) 442-2000
+--------------------------------------------------------------------------------
+Place Name: Hartwood Acres Mansion
+Address: 200 Hartwood Acres
+Pittsburgh, Pennsylvania 15238
+(412) 767-9200
+--------------------------------------------------------------------------------
+Place Name: Greene County Historical Society
+Address: 918 Rolling Meadows Rd.
+Waynesburg, Pennsylvania 15370
+(724) 627-3204
+--------------------------------------------------------------------------------
+Place Name: Heinz Hall
+Address: 600 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 392-4900
+--------------------------------------------------------------------------------
+Place Name: Penn Brewery
+Address: 800 Vinial St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-9400
+--------------------------------------------------------------------------------
+Place Name: VisitMercerCountyPA
+Address: 50 North Water Ave.
+Sharon, Pennsylvania 16146
+(724) 346-3771
+--------------------------------------------------------------------------------
+Place Name: Rachel Carson Homestead
+Address: 613 Marion Ave.
+Springdale, Pennsylvania 15144
+(724) 274-5459
+--------------------------------------------------------------------------------
+Place Name: The Jimmy Stewart Museum
+Address: 835 Philadelphia St.
+Indiana, Pennsylvania 15701
+(724) 349-6112
+--------------------------------------------------------------------------------
+Place Name: Smithfield United Church of Christ
+Address: 620 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-1811
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/museums/?page=3
+Place Name: Washington County Tourism Promotion Agency
+Address: 1000 Horizon Vue Dr., Ste. 1C80
+Canonsburg, Pennsylvania 15317
+(724) 225-3010
+--------------------------------------------------------------------------------
+Place Name: West Overton Village and Museum
+Address: 109 W. Overton Rd., PO Box 3
+Scottdale, Pennsylvania 15683
+(724) 887-7910
+--------------------------------------------------------------------------------
+Place Name: Woodville Experience
+Address: 1375 Washington Pike
+Bridgeville, Pennsylvania 15017
+(412) 221-0348
+--------------------------------------------------------------------------------

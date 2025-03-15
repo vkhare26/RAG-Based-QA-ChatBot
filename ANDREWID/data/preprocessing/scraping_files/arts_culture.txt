@@ -1,0 +1,245 @@
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/?page=1
+Page Title: 
+================================================================================
+Place Name: Bike the Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: Compass Inn Museum/Ligonier Valley Historical Society
+Address: 1382 Route 30 East
+Laughlington, Pennsylvania 15655
+(724) 238-4983
+--------------------------------------------------------------------------------
+Place Name: Children's Museum of Pittsburgh and MuseumLab
+Address: 10 Children's Way
+Pittsburgh, Pennsylvania 15212
+(412) 322-5058
+--------------------------------------------------------------------------------
+Place Name: Benedum Center for the Performing Arts
+Address: 237 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Chatham Baroque
+Address: 315 Shady Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 687-1788
+--------------------------------------------------------------------------------
+Place Name: The Clemente Museum
+Address: 3339 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 621-1268
+--------------------------------------------------------------------------------
+Place Name: Antique Skyscrapers: Talks & Tours
+Address: (412) 310-1098
+--------------------------------------------------------------------------------
+Place Name: Bushy Run Battlefield
+Address: 1253 Bushy Run Rd.
+Jeannette, Pennsylvania 15644
+(724) 527-5584
+--------------------------------------------------------------------------------
+Place Name: Beaver County Tourism
+Address: 121 Brady's Run Rd., Brady's Run Park Recreation Facility
+Beaver Falls, Pennsylvania 15010
+(724) 770-2062
+--------------------------------------------------------------------------------
+Place Name: Byham Theater
+Address: 101 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: City Theatre Company
+Address: 1300 Bingham St.
+Pittsburgh, Pennsylvania 15203
+(412) 431-2489
+--------------------------------------------------------------------------------
+Place Name: Bicycle Heaven Museum
+Address: 1800 Preble Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 734-4034
+--------------------------------------------------------------------------------
+Place Name: Bradford House Museum
+Address: 175 S. Main St.
+Washington, Pennsylvania 15301
+(724) 222-3604
+--------------------------------------------------------------------------------
+Place Name: Allegheny County Parks Department
+Address: 542 Forbes Ave., Room 211
+Pittsburgh, Pennsylvania 15219
+(412) 350-2455
+--------------------------------------------------------------------------------
+Place Name: City of Asylum
+Address: 40 W. North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 435-1110
+--------------------------------------------------------------------------------
+Place Name: Carnegie Museum of Art and Natural History
+Address: 4400 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 622-3131
+--------------------------------------------------------------------------------
+Place Name: The Andy Warhol Museum
+Address: 117 Sandusky St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-8300
+--------------------------------------------------------------------------------
+Place Name: Braddock's Battlefield History Center
+Address: 609 Sixth St.
+North Braddock, Pennsylvania 15104
+(412) 271-0800
+--------------------------------------------------------------------------------
+Place Name: Brew House Arts
+Address: 711 S. 21st St.
+Pittsburgh, Pennsylvania 15203
+(412) 212-6650
+--------------------------------------------------------------------------------
+Place Name: August Wilson African American Cultural Center
+Address: 980 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-1011
+--------------------------------------------------------------------------------
+Place Name: BNY Mellon Presents JazzLive
+Address: 655 Penn Ave., Theater Square
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: 707 Penn Gallery
+Address: 707 Penn Ave. (near Seventh St.)
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Arcade Comedy Theater
+Address: 943 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-0608
+--------------------------------------------------------------------------------
+Place Name: Atithi Studios
+Address: 1020 N. Canal St.
+Sharpsburg, Pennsylvania 15215
+(412) 301-5374
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/?page=2
+Place Name: Experience Butler County
+Address: 310 E. Grandview Ave.
+Zelienople, Pennsylvania 16063
+(724) 234-4619
+--------------------------------------------------------------------------------
+Place Name: Gallery Crawl in the Cultural District
+Address: Downtown Pittsburgh's Cultural District
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Duquesne Incline
+Address: 1197 W. Carson St.
+Pittsburgh, Pennsylvania 15219
+(412) 381-1665
+--------------------------------------------------------------------------------
+Place Name: Con Alma
+Address: 613 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 932-2387
+--------------------------------------------------------------------------------
+Place Name: The Jimmy Stewart Museum
+Address: 835 Philadelphia St.
+Indiana, Pennsylvania 15701
+(724) 349-6112
+--------------------------------------------------------------------------------
+Place Name: EQT Children's Theater Series
+Address: 101 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's House on Kentuck Knob
+Address: 723 Kentuck Rd.
+Chalk Hill, Pennsylvania 15421
+(724) 329-1901
+--------------------------------------------------------------------------------
+Place Name: Heinz Hall
+Address: 600 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 392-4900
+--------------------------------------------------------------------------------
+Place Name: GO Laurel Highlands
+Address: 113 East Main St.
+Ligonier, Pennsylvania 15658
+(724) 238-5661
+--------------------------------------------------------------------------------
+Place Name: Fireborn Studios
+Address: 2338 Sarah St.
+Pittsburgh, Pennsylvania 15203
+(412) 488-6835
+--------------------------------------------------------------------------------
+Place Name: First Presbyterian Church of Pittsburgh
+Address: 320 Sixth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 471-3436
+--------------------------------------------------------------------------------
+Place Name: Greer Cabaret Theater
+Address: (between Sixth & Seventh Streets), 655 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-2610
+--------------------------------------------------------------------------------
+Place Name: Indiana County Tourist Bureau
+Address: Indiana Mall, 2334 Oakland Ave.
+Indiana, Pennsylvania 15701
+(724) 463-7505
+--------------------------------------------------------------------------------
+Place Name: Experience Armstrong, Inc.
+Address: 125 Market St.
+Kittanning, Pennsylvania 16201
+(724) 543-4003
+--------------------------------------------------------------------------------
+Place Name: Hartwood Acres Mansion
+Address: 200 Hartwood Acres
+Pittsburgh, Pennsylvania 15238
+(412) 767-9200
+--------------------------------------------------------------------------------
+Place Name: Contemporary Craft
+Address: 5645 Butler St.
+Pittsburgh, Pennsylvania 15201
+(412) 261-7003
+--------------------------------------------------------------------------------
+Place Name: The Frick Pittsburgh
+Address: 7227 Reynolds St.
+Pittsburgh, Pennsylvania 15208
+(412) 371-0600
+--------------------------------------------------------------------------------
+Place Name: Flight 93 National Memorial
+Address: 6424 Lincoln Highway
+Stoystown, Pennsylvania 15563
+(814) 893-6552
+--------------------------------------------------------------------------------
+Place Name: Fort Ligonier
+Address: 200 South Market St.
+Ligonier, Pennsylvania 15658
+(724) 238-9701
+--------------------------------------------------------------------------------
+Place Name: Greene County Tourist Promotion Agency
+Address: 19 S. Washington St., Fort Jackson Bldg.
+Waynesburg, Pennsylvania 15370
+(724) 627-8687
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's Fallingwater
+Address: Route 381 South, 1491 Mill Run Rd.
+Mill Run, Pennsylvania 15464
+(724) 329-8501
+--------------------------------------------------------------------------------
+Place Name: Greene County Historical Society
+Address: 918 Rolling Meadows Rd.
+Waynesburg, Pennsylvania 15370
+(724) 627-3204
+--------------------------------------------------------------------------------
+Place Name: Fort Pitt Museum
+Address: 601 Commonwealth Place, Building B
+Point State Park
+Pittsburgh, Pennsylvania 15222
+(412) 281-9284
+--------------------------------------------------------------------------------
+Place Name: Historic Hanna's Town
+Address: 809 Forbes Trail Rd.
+Greesburg, Pennsylvania 15601
+(724) 836-1800
+--------------------------------------------------------------------------------

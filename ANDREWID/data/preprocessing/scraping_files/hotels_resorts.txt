@@ -1,0 +1,822 @@
+
+Scraping: https://www.visitpittsburgh.com/hotels-resorts/
+Page Title: 
+================================================================================
+Place Name: HYATT House Pittsburgh/Bloomfield/Shadyside
+Address: 5335 Baum Blvd.
+Pittsburgh, Pennsylvania 15224
+(412) 621-9900
+--------------------------------------------------------------------------------
+Place Name: Hyatt Place Pittsburgh Airport
+Address: 6011 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 494-0202
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn Pittsburgh Green Tree
+Address: 555 Trumbull Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 922-0100
+--------------------------------------------------------------------------------
+Place Name: Joinery Hotel Pittsburgh, Curio Collection by Hilton
+Address: 453 Blvd. of the Allies
+Pittsburgh, Pennsylvania 15219
+(412) 339-1870
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Monroeville/Pittsburgh
+Address: 122 Daugherty Dr.
+Monroeville, Pennsylvania 15146
+(412) 380-9100
+--------------------------------------------------------------------------------
+Place Name: The Oaklander Hotel
+Address: 5130 Bigelow Blvd.
+Pittsburgh, Pennsylvania 15213
+(412) 578-8500
+--------------------------------------------------------------------------------
+Place Name: La Quinta Inn by Wyndham - Pittsburgh Airport
+Address: 8507 University Blvd.
+Coraopolis, Pennsylvania 15108
+(412) 730-3100
+--------------------------------------------------------------------------------
+Place Name: Oak Noggin Bed & Breakfast LLC
+Address: 209 Waterman Road West
+Jefferson Hills, Pennsylvania 15025
+(412) 714-3571
+--------------------------------------------------------------------------------
+Place Name: Sheraton Pittsburgh Airport Hotel
+Address: 1160 Thorn Run Rd.
+Pittsburgh, Pennsylvania 15108
+(412) 262-2400
+--------------------------------------------------------------------------------
+Place Name: Hotel Indigo Pittsburgh East Liberty, an IHG Hotel
+Address: 123 North Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 665-0555
+--------------------------------------------------------------------------------
+Place Name: Drury Plaza Hotel Pittsburgh Downtown
+Address: 745 Grant St.
+Pittsburgh, Pennsylvania 15219
+(412) 281-2900
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites by Marriott Pittsburgh Bakery Square
+Address: 134 Bakery Square Blvd.
+Pittsburgh, Pennsylvania 15206
+(412) 362-8600
+--------------------------------------------------------------------------------
+Place Name: Courtyard Pittsburgh/Monroeville
+Address: 3962 William Penn Highway
+Monroeville, Pennsylvania 15146
+(412) 856-8680
+--------------------------------------------------------------------------------
+Place Name: Crowne Plaza Hotel and Suites Pittsburgh South
+Address: 164 Fort Couch Rd.
+Pittsburgh, Pennsylvania 15241
+(412) 833-5300
+--------------------------------------------------------------------------------
+Place Name: HostWise Stays
+Address: (412) 746-7672
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh Downtown
+Address: 945 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 434-5551
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Mt. Lebanon
+Address: 611 Washington Rd.
+Pittsburgh, Pennsylvania 15228
+(412) 563-6300
+--------------------------------------------------------------------------------
+Place Name: Home2 Suites by Hilton Pittsburgh/McCandless
+Address: 8630 Duncan Ave.
+Pittsburgh, Pennsylvania 15237
+(412) 630-8400
+--------------------------------------------------------------------------------
+Place Name: Boggs Mansion
+Address: 604 West North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 231-6544
+--------------------------------------------------------------------------------
+Place Name: Bear Run Campground & Cabins
+Address: 184 Badger Hill Rd.
+Portersville, Pennsylvania 16051
+(724) 368-3564
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh University Center
+Address: 100 Lytton Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 682-6200
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Airport
+Address: 9600 University Blvd.
+Moon Township, Pennsylvania 15108
+(412) 205-5400
+--------------------------------------------------------------------------------
+Place Name: Rose Point Park - Cabins & Camping
+Address: 8775 Old US 422
+New Castle, Pennsylvania 16101
+(724) 924-2415
+--------------------------------------------------------------------------------
+Place Name: Comfort Inn & Suites Pittsburgh - North Shore
+Address: 820 East Ohio St.
+Pittsburgh, Pennsylvania 15212
+(412) 325-9210
+--------------------------------------------------------------------------------
+Place Name: Cabin Fever Inn Bed & Breakfast
+Address: 11 Torbet Dr.
+Coal Center, Pennsylvania 15423
+(412) 443-5408
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh Airport
+Address: 8402 University Blvd.
+Moon Township, Pennsylvania 15108
+(412) 329-1400
+--------------------------------------------------------------------------------
+Place Name: Holiday Inn Express & Suites Pittsburgh West - Green Tree
+Address: 875 Greentree Rd.
+Pittsburgh, Pennsylvania 15220
+(412) 922-7070
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Airport South/Robinson Township
+Address: 303 Park Manor Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 788-9500
+--------------------------------------------------------------------------------
+Place Name: TRYP by Wyndham Pittsburgh | Lawrenceville
+Address: 177 40th St.
+Pittsburgh, Pennsylvania 15201
+(412) 567-0555
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites by Marriott Pittsburgh Airport/Robinson Township
+Address: 1004 Sutherland Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 859-9070
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh - Green Tree
+Address: 500 Mansfield Ave.
+Pittsburgh, Pennsylvania 15205
+(412) 922-8400
+--------------------------------------------------------------------------------
+Place Name: Residence Inn Monroeville
+Address: 3455 Wiliam Penn Highway
+Pittsburgh, Pennsylvania 15235
+(412) 816-1300
+--------------------------------------------------------------------------------
+Place Name: Homewood Suites by Hilton Pittsburgh Downtown
+Address: 1410 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 232-0200
+--------------------------------------------------------------------------------
+Place Name: Yogi Bear's Jellystone Park at Kozy Rest
+Address: 449 Campground Rd.
+Harrisville, Pennsylvania 16038
+(724) 584-0629
+--------------------------------------------------------------------------------
+Place Name: Omni William Penn Hotel
+Address: 530 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 281-7100
+--------------------------------------------------------------------------------
+Place Name: Carnegie Mellon University Conference & Event Services
+Address: 4700 Fifth Ave., 2nd Floor
+Pittsburgh, Pennsylvania 15213
+(412) 268-1125
+--------------------------------------------------------------------------------
+Place Name: Residence Inn by Marriott North Shore
+Address: 574 West General Robinson St.
+Pittsburgh, Pennsylvania 15212
+(412) 321-2099
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh/Southpointe
+Address: 1000 Corporate Dr.
+Canonsburg, Pennsylvania 15317
+(724) 743-5000
+--------------------------------------------------------------------------------
+Place Name: Etage Executive Living
+Address: 424 Stanwix St.
+Pittsburgh, Pennsylvania 15222
+(412) 646-8696
+--------------------------------------------------------------------------------
+Place Name: Hyatt Regency Pittsburgh International Airport
+Address: 1111 Airport Blvd., PO Box 12420
+Pittsburgh, Pennsylvania 15231
+(724) 899-1234
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn & Suites Pittsburgh Airport South-Settlers Ridge
+Address: 5000 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 788-4440
+--------------------------------------------------------------------------------
+Place Name: HYATT House Pittsburgh South Side
+Address: 2795 S. Water St.
+Pittsburgh, Pennsylvania 15203
+(412) 390-2477
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh Airport Settlers Ridge
+Address: 5100 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 788-4404
+--------------------------------------------------------------------------------
+Place Name: Sheraton Pittsburgh Hotel at Station Square
+Address: 300 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 261-2000
+--------------------------------------------------------------------------------
+Place Name: Wyndham Grand Pittsburgh Downtown
+Address: 600 Commonwealth Place
+Pittsburgh, Pennsylvania 15222
+(412) 391-4600
+--------------------------------------------------------------------------------
+Place Name: The Priory Hotel
+Address: 614 Pressley St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-3338
+--------------------------------------------------------------------------------
+Place Name: Seven Springs Mountain Resort
+Address: 777 Waterwheel Dr.
+Seven Springs, Pennsylvania 15622
+(800) 452-2223
+--------------------------------------------------------------------------------
+Place Name: Sun and Cricket Bed and Breakfast
+Address: 1 Tara Ln.
+Gibsonia, Pennsylvania 15044
+(724) 444-6300
+--------------------------------------------------------------------------------
+Place Name: Westin Pittsburgh
+Address: 1000 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-3700
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites by Marriott Pittsburgh North/McCandless
+Address: 901 Providence Blvd.
+Pittsburgh, Pennsylvania 15237
+(412) 227-9600
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh Cranberry
+Address: 910 Sheraton Dr.
+Cranberry Township, Pennsylvania 16046
+(724) 776-6900
+--------------------------------------------------------------------------------
+Place Name: Traveler's Rest Hotel
+Address: 27 S. 6th St.
+Pittsburgh, Pennsylvania 15203
+(412) 623-9343
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites Pittsburgh Downtown
+Address: 435 Fort Pitt Blvd.
+Pittsburgh, Pennsylvania 15219
+(412) 515-2100
+--------------------------------------------------------------------------------
+Place Name: Bed & Breakfast Inns of Pittsburgh
+Address: c/o 209 Waterman Road West
+Jefferson Hills, Pennsylvania 15025
+(412) 714-3571
+--------------------------------------------------------------------------------
+Place Name: Holiday Inn Express & Suites Pittsburgh North Shore
+Address: 228 Federal St.
+Pittsburgh, Pennsylvania 15212
+(412) 323-0300
+--------------------------------------------------------------------------------
+Place Name: Boggs Mansion
+Address: 604 W. North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 231-6544
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Downtown
+Address: 250 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-5557
+--------------------------------------------------------------------------------
+Place Name: Drury Inn & Suites Pittsburgh Ridge Road
+Address: 101 Ridge Rd.
+Pittsburgh, Pennsylvania 15205
+(800) 378-7946
+--------------------------------------------------------------------------------
+Place Name: Residence Inn Pittsburgh Oakland/University Place
+Address: 3341 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 621-5600
+--------------------------------------------------------------------------------
+Place Name: Heather Hill Inn
+Address: 268 Rader School Rd.
+Renfrew, Pennsylvania 16053
+(724) 538-5168
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn Pittsburgh - University/Medical Center
+Address: 3315 Hamlet St.
+Pittsburgh, Pennsylvania 15213
+(412) 681-1000
+--------------------------------------------------------------------------------
+Place Name: Renaissance Pittsburgh Hotel
+Address: 107 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 562-1200
+--------------------------------------------------------------------------------
+Place Name: Fairmont Pittsburgh
+Address: 510 Market St.
+Pittsburgh, Pennsylvania 15222
+(412) 773-8800
+--------------------------------------------------------------------------------
+Place Name: The Mansions on Fifth
+Address: 5105 Fifth Ave.
+Pittsburgh, Pennsylvania 15232
+(412) 381-5105
+--------------------------------------------------------------------------------
+Place Name: AC Hotel Pittsburgh Downtown
+Address: 1126 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-9300
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites by Marriott Pittsburgh SouthSide Works
+Address: 2950 S. Water St.
+Pittsburgh, Pennsylvania 15203
+(412) 488-8003
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Airport Marriott
+Address: 777 Aten Rd.
+Coraopolis, Pennsylvania 15108
+(412) 788-8800
+--------------------------------------------------------------------------------
+Place Name: Hyatt Place Pittsburgh - North Shore
+Address: 260 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 321-3000
+--------------------------------------------------------------------------------
+Place Name: TownePlace Suites - Pittsburgh Harmarville
+Address: 2785 Freeport Rd.
+Pittsburgh, Pennsylvania 15238
+(412) 423-1900
+--------------------------------------------------------------------------------
+Place Name: Hotel Indigo Pittsburgh University-Oakland
+Address: 329 Technology Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 621-0880
+--------------------------------------------------------------------------------
+Place Name: Cambria Hotel Pittsburgh - Downtown
+Address: 1320 Centre Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 381-6687
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Pittsburgh North Shore
+Address: 223 Federal St.
+Pittsburgh, Pennsylvania 15212
+(412) 323-9005
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Marriott City Center
+Address: 112 Washington Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-4000
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn - Pittsburgh University Place
+Address: 3454 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 683-2040
+--------------------------------------------------------------------------------
+Place Name: EVEN® Hotel Pittsburgh Downtown
+Address: 425 Forbes Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 301-2277
+--------------------------------------------------------------------------------
+Place Name: Kimpton Hotel Monaco Pittsburgh
+Address: 620 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-1170
+--------------------------------------------------------------------------------
+Place Name: Nemacolin
+Address: 1001 Lafayette Dr.
+Farmington, Pennsylvania 15437
+(724) 329-8555
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown
+Address: One Bigelow Square
+Pittsburgh, Pennsylvania 15219
+(412) 281-5800
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn & Suites Pittsburgh-Downtown
+Address: 1247 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 288-4350
+--------------------------------------------------------------------------------
+Place Name: Embassy Suites by Hilton Pittsburgh Downtown
+Address: 535 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-2200
+--------------------------------------------------------------------------------
+Place Name: The Landing Hotel & Rivers Casino Pittsburgh
+Address: 757 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+Place Name: Discover Ohiopyle
+Address: 3045 National Pike
+Farmington, Pennsylvania 15437
+(724) 329-8850
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/hotels-resorts/
+Place Name: The Landing Hotel & Rivers Casino Pittsburgh
+Address: 757 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+Place Name: Rose Point Park - Cabins & Camping
+Address: 8775 Old US 422
+New Castle, Pennsylvania 16101
+(724) 924-2415
+--------------------------------------------------------------------------------
+Place Name: EVEN® Hotel Pittsburgh Downtown
+Address: 425 Forbes Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 301-2277
+--------------------------------------------------------------------------------
+Place Name: TownePlace Suites - Pittsburgh Harmarville
+Address: 2785 Freeport Rd.
+Pittsburgh, Pennsylvania 15238
+(412) 423-1900
+--------------------------------------------------------------------------------
+Place Name: Hyatt Place Pittsburgh - North Shore
+Address: 260 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 321-3000
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Marriott City Center
+Address: 112 Washington Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-4000
+--------------------------------------------------------------------------------
+Place Name: Holiday Inn Express & Suites Pittsburgh North Shore
+Address: 228 Federal St.
+Pittsburgh, Pennsylvania 15212
+(412) 323-0300
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown
+Address: One Bigelow Square
+Pittsburgh, Pennsylvania 15219
+(412) 281-5800
+--------------------------------------------------------------------------------
+Place Name: Omni William Penn Hotel
+Address: 530 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 281-7100
+--------------------------------------------------------------------------------
+Place Name: Westin Pittsburgh
+Address: 1000 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-3700
+--------------------------------------------------------------------------------
+Place Name: Cabin Fever Inn Bed & Breakfast
+Address: 11 Torbet Dr.
+Coal Center, Pennsylvania 15423
+(412) 443-5408
+--------------------------------------------------------------------------------
+Place Name: HYATT House Pittsburgh/Bloomfield/Shadyside
+Address: 5335 Baum Blvd.
+Pittsburgh, Pennsylvania 15224
+(412) 621-9900
+--------------------------------------------------------------------------------
+Place Name: Fairmont Pittsburgh
+Address: 510 Market St.
+Pittsburgh, Pennsylvania 15222
+(412) 773-8800
+--------------------------------------------------------------------------------
+Place Name: Comfort Inn & Suites Pittsburgh - North Shore
+Address: 820 East Ohio St.
+Pittsburgh, Pennsylvania 15212
+(412) 325-9210
+--------------------------------------------------------------------------------
+Place Name: Joinery Hotel Pittsburgh, Curio Collection by Hilton
+Address: 453 Blvd. of the Allies
+Pittsburgh, Pennsylvania 15219
+(412) 339-1870
+--------------------------------------------------------------------------------
+Place Name: Wyndham Grand Pittsburgh Downtown
+Address: 600 Commonwealth Place
+Pittsburgh, Pennsylvania 15222
+(412) 391-4600
+--------------------------------------------------------------------------------
+Place Name: HostWise Stays
+Address: (412) 746-7672
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites by Marriott Pittsburgh Bakery Square
+Address: 134 Bakery Square Blvd.
+Pittsburgh, Pennsylvania 15206
+(412) 362-8600
+--------------------------------------------------------------------------------
+Place Name: Residence Inn by Marriott North Shore
+Address: 574 West General Robinson St.
+Pittsburgh, Pennsylvania 15212
+(412) 321-2099
+--------------------------------------------------------------------------------
+Place Name: The Oaklander Hotel
+Address: 5130 Bigelow Blvd.
+Pittsburgh, Pennsylvania 15213
+(412) 578-8500
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn Pittsburgh - University/Medical Center
+Address: 3315 Hamlet St.
+Pittsburgh, Pennsylvania 15213
+(412) 681-1000
+--------------------------------------------------------------------------------
+Place Name: Sheraton Pittsburgh Hotel at Station Square
+Address: 300 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 261-2000
+--------------------------------------------------------------------------------
+Place Name: HYATT House Pittsburgh South Side
+Address: 2795 S. Water St.
+Pittsburgh, Pennsylvania 15203
+(412) 390-2477
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Airport South/Robinson Township
+Address: 303 Park Manor Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 788-9500
+--------------------------------------------------------------------------------
+Place Name: Holiday Inn Express & Suites Pittsburgh West - Green Tree
+Address: 875 Greentree Rd.
+Pittsburgh, Pennsylvania 15220
+(412) 922-7070
+--------------------------------------------------------------------------------
+Place Name: Discover Ohiopyle
+Address: 3045 National Pike
+Farmington, Pennsylvania 15437
+(724) 329-8850
+--------------------------------------------------------------------------------
+Place Name: The Priory Hotel
+Address: 614 Pressley St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-3338
+--------------------------------------------------------------------------------
+Place Name: Nemacolin
+Address: 1001 Lafayette Dr.
+Farmington, Pennsylvania 15437
+(724) 329-8555
+--------------------------------------------------------------------------------
+Place Name: La Quinta Inn by Wyndham - Pittsburgh Airport
+Address: 8507 University Blvd.
+Coraopolis, Pennsylvania 15108
+(412) 730-3100
+--------------------------------------------------------------------------------
+Place Name: Hyatt Place Pittsburgh Airport
+Address: 6011 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 494-0202
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Airport
+Address: 9600 University Blvd.
+Moon Township, Pennsylvania 15108
+(412) 205-5400
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites by Marriott Pittsburgh North/McCandless
+Address: 901 Providence Blvd.
+Pittsburgh, Pennsylvania 15237
+(412) 227-9600
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Airport Marriott
+Address: 777 Aten Rd.
+Coraopolis, Pennsylvania 15108
+(412) 788-8800
+--------------------------------------------------------------------------------
+Place Name: Bed & Breakfast Inns of Pittsburgh
+Address: c/o 209 Waterman Road West
+Jefferson Hills, Pennsylvania 15025
+(412) 714-3571
+--------------------------------------------------------------------------------
+Place Name: Crowne Plaza Hotel and Suites Pittsburgh South
+Address: 164 Fort Couch Rd.
+Pittsburgh, Pennsylvania 15241
+(412) 833-5300
+--------------------------------------------------------------------------------
+Place Name: Courtyard Pittsburgh/Monroeville
+Address: 3962 William Penn Highway
+Monroeville, Pennsylvania 15146
+(412) 856-8680
+--------------------------------------------------------------------------------
+Place Name: Home2 Suites by Hilton Pittsburgh/McCandless
+Address: 8630 Duncan Ave.
+Pittsburgh, Pennsylvania 15237
+(412) 630-8400
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites Pittsburgh Downtown
+Address: 435 Fort Pitt Blvd.
+Pittsburgh, Pennsylvania 15219
+(412) 515-2100
+--------------------------------------------------------------------------------
+Place Name: TRYP by Wyndham Pittsburgh | Lawrenceville
+Address: 177 40th St.
+Pittsburgh, Pennsylvania 15201
+(412) 567-0555
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh University Center
+Address: 100 Lytton Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 682-6200
+--------------------------------------------------------------------------------
+Place Name: Yogi Bear's Jellystone Park at Kozy Rest
+Address: 449 Campground Rd.
+Harrisville, Pennsylvania 16038
+(724) 584-0629
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Monroeville/Pittsburgh
+Address: 122 Daugherty Dr.
+Monroeville, Pennsylvania 15146
+(412) 380-9100
+--------------------------------------------------------------------------------
+Place Name: Hotel Indigo Pittsburgh East Liberty, an IHG Hotel
+Address: 123 North Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 665-0555
+--------------------------------------------------------------------------------
+Place Name: Sun and Cricket Bed and Breakfast
+Address: 1 Tara Ln.
+Gibsonia, Pennsylvania 15044
+(724) 444-6300
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Mt. Lebanon
+Address: 611 Washington Rd.
+Pittsburgh, Pennsylvania 15228
+(412) 563-6300
+--------------------------------------------------------------------------------
+Place Name: Seven Springs Mountain Resort
+Address: 777 Waterwheel Dr.
+Seven Springs, Pennsylvania 15622
+(800) 452-2223
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Downtown
+Address: 250 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-5557
+--------------------------------------------------------------------------------
+Place Name: Oak Noggin Bed & Breakfast LLC
+Address: 209 Waterman Road West
+Jefferson Hills, Pennsylvania 15025
+(412) 714-3571
+--------------------------------------------------------------------------------
+Place Name: Kimpton Hotel Monaco Pittsburgh
+Address: 620 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-1170
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh Airport
+Address: 8402 University Blvd.
+Moon Township, Pennsylvania 15108
+(412) 329-1400
+--------------------------------------------------------------------------------
+Place Name: Carnegie Mellon University Conference & Event Services
+Address: 4700 Fifth Ave., 2nd Floor
+Pittsburgh, Pennsylvania 15213
+(412) 268-1125
+--------------------------------------------------------------------------------
+Place Name: AC Hotel Pittsburgh Downtown
+Address: 1126 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-9300
+--------------------------------------------------------------------------------
+Place Name: Drury Inn & Suites Pittsburgh Ridge Road
+Address: 101 Ridge Rd.
+Pittsburgh, Pennsylvania 15205
+(800) 378-7946
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Pittsburgh North Shore
+Address: 223 Federal St.
+Pittsburgh, Pennsylvania 15212
+(412) 323-9005
+--------------------------------------------------------------------------------
+Place Name: Residence Inn Monroeville
+Address: 3455 Wiliam Penn Highway
+Pittsburgh, Pennsylvania 15235
+(412) 816-1300
+--------------------------------------------------------------------------------
+Place Name: Etage Executive Living
+Address: 424 Stanwix St.
+Pittsburgh, Pennsylvania 15222
+(412) 646-8696
+--------------------------------------------------------------------------------
+Place Name: Renaissance Pittsburgh Hotel
+Address: 107 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 562-1200
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn & Suites Pittsburgh Airport South-Settlers Ridge
+Address: 5000 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 788-4440
+--------------------------------------------------------------------------------
+Place Name: Sheraton Pittsburgh Airport Hotel
+Address: 1160 Thorn Run Rd.
+Pittsburgh, Pennsylvania 15108
+(412) 262-2400
+--------------------------------------------------------------------------------
+Place Name: Bear Run Campground & Cabins
+Address: 184 Badger Hill Rd.
+Portersville, Pennsylvania 16051
+(724) 368-3564
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn - Pittsburgh University Place
+Address: 3454 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 683-2040
+--------------------------------------------------------------------------------
+Place Name: Traveler's Rest Hotel
+Address: 27 S. 6th St.
+Pittsburgh, Pennsylvania 15203
+(412) 623-9343
+--------------------------------------------------------------------------------
+Place Name: Hyatt Regency Pittsburgh International Airport
+Address: 1111 Airport Blvd., PO Box 12420
+Pittsburgh, Pennsylvania 15231
+(724) 899-1234
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites by Marriott Pittsburgh SouthSide Works
+Address: 2950 S. Water St.
+Pittsburgh, Pennsylvania 15203
+(412) 488-8003
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh Airport Settlers Ridge
+Address: 5100 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 788-4404
+--------------------------------------------------------------------------------
+Place Name: The Mansions on Fifth
+Address: 5105 Fifth Ave.
+Pittsburgh, Pennsylvania 15232
+(412) 381-5105
+--------------------------------------------------------------------------------
+Place Name: Boggs Mansion
+Address: 604 W. North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 231-6544
+--------------------------------------------------------------------------------
+Place Name: Residence Inn Pittsburgh Oakland/University Place
+Address: 3341 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 621-5600
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh Cranberry
+Address: 910 Sheraton Dr.
+Cranberry Township, Pennsylvania 16046
+(724) 776-6900
+--------------------------------------------------------------------------------
+Place Name: Drury Plaza Hotel Pittsburgh Downtown
+Address: 745 Grant St.
+Pittsburgh, Pennsylvania 15219
+(412) 281-2900
+--------------------------------------------------------------------------------
+Place Name: Hotel Indigo Pittsburgh University-Oakland
+Address: 329 Technology Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 621-0880
+--------------------------------------------------------------------------------
+Place Name: Heather Hill Inn
+Address: 268 Rader School Rd.
+Renfrew, Pennsylvania 16053
+(724) 538-5168
+--------------------------------------------------------------------------------
+Place Name: Homewood Suites by Hilton Pittsburgh Downtown
+Address: 1410 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 232-0200
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh Downtown
+Address: 945 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 434-5551
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh/Southpointe
+Address: 1000 Corporate Dr.
+Canonsburg, Pennsylvania 15317
+(724) 743-5000
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn & Suites Pittsburgh-Downtown
+Address: 1247 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 288-4350
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh - Green Tree
+Address: 500 Mansfield Ave.
+Pittsburgh, Pennsylvania 15205
+(412) 922-8400
+--------------------------------------------------------------------------------
+Place Name: Cambria Hotel Pittsburgh - Downtown
+Address: 1320 Centre Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 381-6687
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn Pittsburgh Green Tree
+Address: 555 Trumbull Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 922-0100
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites by Marriott Pittsburgh Airport/Robinson Township
+Address: 1004 Sutherland Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 859-9070
+--------------------------------------------------------------------------------
+Place Name: Embassy Suites by Hilton Pittsburgh Downtown
+Address: 535 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-2200
+--------------------------------------------------------------------------------
+Place Name: Boggs Mansion
+Address: 604 West North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 231-6544
+--------------------------------------------------------------------------------

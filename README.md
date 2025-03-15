@@ -3,6 +3,7 @@ In this assignment, we developed a LLM-Based Retrieval-Augmented Generation (RAG
 
 Workflow:
   1. Data Collection & Scraping:
+     
      i.We scraped the entire dataset, which included General Info and History of Pittsburgh/CMU, Events in Pittsburgh and CMU, Music and Culture, and Sports.
      
      ii.To extract relevant content from different sources, we used the following techniques:
@@ -12,7 +13,7 @@ Workflow:
      
      iii.The extracted data was cleaned and stored in text files for further processing.
      
-  2. Data Processing & Embedding Generation:
+  3. Data Processing & Embedding Generation:
      i.Once the data was collected, we split it into smaller chunks to facilitate better retrieval.
      
      ii.Each chunk was converted into vector embeddings using various SentenceTransformer models, allowing efficient semantic search.
@@ -24,7 +25,7 @@ Workflow:
      
      iv.These embeddings were stored in a vector database for quick retrieval.
      
-   3. Retrieval & Inference Testing:
+   4. Retrieval & Inference Testing:
       i.We implemented a retrieval mechanism based on cosine similarity, where the query embedding was compared with stored embeddings, and the top-k most relevant chunks were retrieved.
       
       ii.Finally, we ran inference on the retrieved results using two large language models:

@@ -1,0 +1,322 @@
+[
+  {
+    "query_number": 1,
+    "ground_truth": "David Strickler invented the Banana Split."
+  },
+  {
+    "query_number": 2,
+    "ground_truth": "It was invented in 1904."
+  },
+  {
+    "query_number": 3,
+    "ground_truth": "It was invented at a drugstore in Latrobe, Pennsylvania."
+  },
+  {
+    "query_number": 4,
+    "ground_truth": "Vanilla, chocolate, and strawberry."
+  },
+  {
+    "query_number": 5,
+    "ground_truth": "Sweet syrups, marshmallow, chopped nuts, whipped cream, and a maraschino cherry."
+  },
+  {
+    "query_number": 6,
+    "ground_truth": "They were nicknamed “Dr. Dave’s.”"
+  },
+  {
+    "query_number": 7,
+    "ground_truth": "Students from St. Vincent College."
+  },
+  {
+    "query_number": 8,
+    "ground_truth": "It became widely popular as an iconic dessert and a staple in American dessert culture."
+  },
+  {
+    "query_number": 9,
+    "ground_truth": "The “From Pitt Came the Split” event commemorated its 100th anniversary."
+  },
+  {
+    "query_number": 10,
+    "ground_truth": "The University of Pittsburgh."
+  },
+  {
+    "query_number": 11,
+    "ground_truth": "It was installed in 2013."
+  },
+  {
+    "query_number": 12,
+    "ground_truth": "The Great American Banana Split Festival."
+  },
+  {
+    "query_number": 13,
+    "ground_truth": "Ice Cream Joe Gruble."
+  },
+  {
+    "query_number": 14,
+    "ground_truth": "He was a “soda jerk.”"
+  },
+  {
+    "query_number": 15,
+    "ground_truth": "He passed away at the age of 90."
+  },
+  {
+    "query_number": 16,
+    "ground_truth": "In the 20th century."
+  },
+  {
+    "query_number": 17,
+    "ground_truth": "He bought the Latrobe pharmacy where he had invented the Banana Split."
+  },
+  {
+    "query_number": 18,
+    "ground_truth": "He ran an optical business upstairs in the pharmacy."
+  },
+  {
+    "query_number": 19,
+    "ground_truth": "It is recognized as the official dessert of Pennsylvania."
+  },
+  {
+    "query_number": 20,
+    "ground_truth": "The Latrobe Historical Society."
+  },
+  {
+    "query_number": 21,
+    "ground_truth": "Carnegie Museums of Pittsburgh."
+  },
+  {
+    "query_number": 22,
+    "ground_truth": "There are four museums."
+  },
+  {
+    "query_number": 23,
+    "ground_truth": "Carnegie Museum of Art, Carnegie Museum of Natural History, Carnegie Science Center, and The Andy Warhol Museum."
+  },
+  {
+    "query_number": 24,
+    "ground_truth": "It was founded in November 1895."
+  },
+  {
+    "query_number": 25,
+    "ground_truth": "He called it his “monument.”"
+  },
+  {
+    "query_number": 26,
+    "ground_truth": "The first Carnegie International."
+  },
+  {
+    "query_number": 27,
+    "ground_truth": "It took place in 1896."
+  },
+  {
+    "query_number": 28,
+    "ground_truth": "To “bring the world” to the people of Pittsburgh through casts of architectural wonders."
+  },
+  {
+    "query_number": 29,
+    "ground_truth": "The display featuring Diplodocus carnegii."
+  },
+  {
+    "query_number": 30,
+    "ground_truth": "The 1907 expansion."
+  },
+  {
+    "query_number": 31,
+    "ground_truth": "Carnegie Science Center joined in 1991."
+  },
+  {
+    "query_number": 32,
+    "ground_truth": "The “Dinosaurs in Their Time” exhibit."
+  },
+  {
+    "query_number": 33,
+    "ground_truth": "To preserve and expand art and science resources for personal growth and social advancement."
+  },
+  {
+    "query_number": 34,
+    "ground_truth": "The Andy Warhol Museum."
+  },
+  {
+    "query_number": 35,
+    "ground_truth": "It is the world’s oldest international exhibition of contemporary art after the Venice Biennale."
+  },
+  {
+    "query_number": 36,
+    "ground_truth": "It added halls such as Hillman Hall of Minerals & Gems and Polar World."
+  },
+  {
+    "query_number": 37,
+    "ground_truth": "The Buhl Foundation."
+  },
+  {
+    "query_number": 38,
+    "ground_truth": "The Highmark SportsWorks exhibit."
+  },
+  {
+    "query_number": 39,
+    "ground_truth": "By offering inclusive on-site and online programs that engage diverse audiences."
+  },
+  {
+    "query_number": 40,
+    "ground_truth": "Promoting personal growth and social advancement in Pittsburgh and beyond."
+  },
+  {
+    "query_number": 41,
+    "ground_truth": "The 1907 expansion for the Dinosaur Hall."
+  },
+  {
+    "query_number": 42,
+    "ground_truth": "Through exhibitions, educational programs, and maintaining extensive collections."
+  },
+  {
+    "query_number": 43,
+    "ground_truth": "Jaödeogë’ in the Seneca language."
+  },
+  {
+    "query_number": 44,
+    "ground_truth": "The Allegheny and Monongahela Rivers."
+  },
+  {
+    "query_number": 45,
+    "ground_truth": "France and Great Britain."
+  },
+  {
+    "query_number": 46,
+    "ground_truth": "The British victory in the French and Indian War."
+  },
+  {
+    "query_number": 47,
+    "ground_truth": "Iron, brass, tin, and glass products."
+  },
+  {
+    "query_number": 48,
+    "ground_truth": "Steel production began in 1875."
+  },
+  {
+    "query_number": 49,
+    "ground_truth": "Violent protests over wage cuts that resulted in property damage and fatalities."
+  },
+  {
+    "query_number": 50,
+    "ground_truth": "Around 100 train engines were burned."
+  },
+  {
+    "query_number": 51,
+    "ground_truth": "By 1911."
+  },
+  {
+    "query_number": 52,
+    "ground_truth": "The Republican Party."
+  },
+  {
+    "query_number": 53,
+    "ground_truth": "The Great Depression, New Deal relief programs, and the rise of labor unions."
+  },
+  {
+    "query_number": 54,
+    "ground_truth": "It was known as the “Arsenal of Democracy.”"
+  },
+  {
+    "query_number": 55,
+    "ground_truth": "The “Renaissance” clean air and civic revitalization project."
+  },
+  {
+    "query_number": 56,
+    "ground_truth": "The collapse of the steel industry due to foreign competition."
+  },
+  {
+    "query_number": 57,
+    "ground_truth": "Many corporate headquarters moved out of the city."
+  },
+  {
+    "query_number": 58,
+    "ground_truth": "A protest by farmers against federal taxes on whiskey."
+  },
+  {
+    "query_number": 59,
+    "ground_truth": "It cut off the supply of British goods, stimulating American manufacture."
+  },
+  {
+    "query_number": 60,
+    "ground_truth": "The city lost its status as a major transportation hub."
+  },
+  {
+    "query_number": 61,
+    "ground_truth": "Approximately 2.4 million residents."
+  },
+  {
+    "query_number": 62,
+    "ground_truth": "About 35% of the population."
+  },
+  {
+    "query_number": 63,
+    "ground_truth": "Meadowcroft Rockshelter."
+  },
+  {
+    "query_number": 64,
+    "ground_truth": "The Adena and Hopewell cultures."
+  },
+  {
+    "query_number": 65,
+    "ground_truth": "The Women’s History Month Dinner in Philly."
+  },
+  {
+    "query_number": 66,
+    "ground_truth": "At Osteria Philly, 640 N Broad St, Philadelphia."
+  },
+  {
+    "query_number": 67,
+    "ground_truth": "$30.00."
+  },
+  {
+    "query_number": 68,
+    "ground_truth": "Registration is required as walk-ins are not permitted."
+  },
+  {
+    "query_number": 69,
+    "ground_truth": "CMU Night at the Penguins."
+  },
+  {
+    "query_number": 70,
+    "ground_truth": "At PPG Paints Arena in Pittsburgh."
+  },
+  {
+    "query_number": 71,
+    "ground_truth": "Tickets range from $46.00 to $203.00."
+  },
+  {
+    "query_number": 72,
+    "ground_truth": "They receive an exclusive Penguins ‘College Series’ Knit Beanie."
+  },
+  {
+    "query_number": 73,
+    "ground_truth": "The San Diego Clippers vs. Mexico City Basketball Game."
+  },
+  {
+    "query_number": 74,
+    "ground_truth": "At Frontwave Arena in Oceanside, California."
+  },
+  {
+    "query_number": 75,
+    "ground_truth": "$25.00."
+  },
+  {
+    "query_number": 76,
+    "ground_truth": "CMU Boston Pi Day."
+  },
+  {
+    "query_number": 77,
+    "ground_truth": "At Lofts at Kendall Square, 249 Third St, Cambridge, Massachusetts."
+  },
+  {
+    "query_number": 78,
+    "ground_truth": "It is a pi-packed party featuring circular or Pi-themed treats."
+  },
+  {
+    "query_number": 79,
+    "ground_truth": "The Pizza Party at Alumni House."
+  },
+  {
+    "query_number": 80,
+    "ground_truth": "It celebrates St. Patrick’s Day."
+  }
+]

@@ -1,0 +1,37 @@
+import pandas as pd
+
+# Read the CSV file into a DataFrame
+csv_file_path = '/Users/vkhare26/Documents/anlp/HW2/cmu-advanced-nlp-assignment-2/frick_events.csv'
+df = pd.read_csv(csv_file_path)
+
+paragraphs = []
+
+# Determine the first and last column names
+first_col = df.columns[0]
+last_col = df.columns[-1]
+
+# Process each row
+for index, row in df.iterrows():
+    # Start with the title from the first column
+    lines = [f"Title: {row[first_col]}"]
+    
+    # Add any intermediate columns (if they exist)
+    for col in df.columns[1:-1]:
+        lines.append(f"{col}: {row[col]}")
+    
+    # End with the description from the last column
+    lines.append(f"Description: {row[last_col]}")
+    
+    # Join all lines into one paragraph
+    paragraph = "\n".join(lines)
+    paragraphs.append(paragraph)
+
+# Combine all paragraphs separated by two newlines
+output_text = "\n\n".join(paragraphs)
+
+# Save the output to a text file
+txt_file_path = '/Users/vkhare26/Documents/anlp/HW2/cmu-advanced-nlp-assignment-2/frick_events.txt'
+with open(txt_file_path, "w", encoding="utf-8") as f:
+    f.write(output_text)
+
+print("CSV has been converted to a text file with each row as a paragraph, where the first element is the title and the last element is the description.")

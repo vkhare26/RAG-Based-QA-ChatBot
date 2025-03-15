@@ -1,4 +1,5 @@
 Overview:
+
 In this assignment, we developed a LLM-Based Retrieval-Augmented Generation (RAG) System using two AI models: Mistral AI model and Llama Model. Our goal was to enhance information retrieval and question-answering by leveraging semantic search and large language models.
 
 Workflow:

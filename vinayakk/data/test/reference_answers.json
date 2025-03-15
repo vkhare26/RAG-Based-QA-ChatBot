@@ -1,0 +1,118 @@
+[
+  {
+    "query_number": 1,
+    "ground_truth": "A brief planning meeting to discuss upcoming monthly activities."
+  },
+  {
+    "query_number": 2,
+    "ground_truth": "Trivia Night at Over the Bar Bicycle Cafe."
+  },
+  {
+    "query_number": 3,
+    "ground_truth": "It is a cozy gathering celebrating the end of winter with trivia."
+  },
+  {
+    "query_number": 4,
+    "ground_truth": "Contact alumni-house@andrew.cmu.edu."
+  },
+  {
+    "query_number": 5,
+    "ground_truth": "Over 33,000 alumni, parents, faculty, staff, students, and friends."
+  },
+  {
+    "query_number": 6,
+    "ground_truth": "Pre-registration is required due to limited capacity."
+  },
+  {
+    "query_number": 7,
+    "ground_truth": "It is titled “The Creative Economy.”"
+  },
+  {
+    "query_number": 8,
+    "ground_truth": "March 31, 2025, from 7:00 pm to 9:00 pm."
+  },
+  {
+    "query_number": 9,
+    "ground_truth": "At O'Reilly Theater, 621 Penn Ave, Pittsburgh."
+  },
+  {
+    "query_number": 10,
+    "ground_truth": "Valerie Gay, Director of Creative Philadelphia & Chief Cultural Officer, City of Philadelphia."
+  },
+  {
+    "query_number": 11,
+    "ground_truth": "It is a conversation on fueling local creative economies and supporting community growth."
+  },
+  {
+    "query_number": 12,
+    "ground_truth": "It is a theatrical reimagining of Oscar Wilde’s celebrated comedy."
+  },
+  {
+    "query_number": 13,
+    "ground_truth": "At Pittsburgh Playhouse, 350 Forbes Ave, Pittsburgh."
+  },
+  {
+    "query_number": 14,
+    "ground_truth": "It is directed by Max Webster."
+  },
+  {
+    "query_number": 15,
+    "ground_truth": "Sharon D Clarke, Ncuti Gatwa, and Hugh Skinner."
+  },
+  {
+    "query_number": 16,
+    "ground_truth": "Penguins vs. Senators."
+  },
+  {
+    "query_number": 17,
+    "ground_truth": "It is a live performance featuring stand-up comedy, improv, and sketch."
+  },
+  {
+    "query_number": 18,
+    "ground_truth": "At Arcade Comedy Theater, 943 Liberty Ave, Pittsburgh."
+  },
+  {
+    "query_number": 19,
+    "ground_truth": "It features experienced improvisers performing audience-inspired comedy."
+  },
+  {
+    "query_number": 20,
+    "ground_truth": "March 29, 2025, from 8:00 pm to 9:00 pm."
+  },
+  {
+    "query_number": 21,
+    "ground_truth": "It is a comedic Dungeons & Dragons adventure show."
+  },
+  {
+    "query_number": 22,
+    "ground_truth": "On March 29, 2025, from 9:00 pm to 10:00 pm."
+  },
+  {
+    "query_number": 23,
+    "ground_truth": "The David L. Lawrence Convention Center."
+  },
+  {
+    "query_number": 24,
+    "ground_truth": "From March 29 to March 30, 2025."
+  },
+  {
+    "query_number": 25,
+    "ground_truth": "Storm Large: Inside Voice."
+  },
+  {
+    "query_number": 26,
+    "ground_truth": "March 29, 2025, from 7:00 pm to 10:00 pm."
+  },
+  {
+    "query_number": 27,
+    "ground_truth": "Pittsburgh Riverhounds vs. Birmingham Legion."
+  },
+  {
+    "query_number": 28,
+    "ground_truth": "At Highmark Stadium, 510 West Station Square Dr, Pittsburgh."
+  },
+  {
+    "query_number": 29,
+    "ground_truth": "It includes local celebrations with a spotlight on city pride."
+  }
+]

@@ -1,0 +1,317 @@
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/shopping/?page=1
+Page Title: 
+================================================================================
+Place Name: BABCOR Packaging
+Address: 855 South Canal St.
+Pittsburgh, Pennsylvania 15212
+(412) 321-4066
+--------------------------------------------------------------------------------
+Place Name: Allentown CDC
+Address: 209 Bausman St.
+Pittsburgh, Pennsylvania 15210
+(412) 586-5807
+--------------------------------------------------------------------------------
+Place Name: Betsy Ann American Chocolates
+Address: 322 Perry Highway
+Pittsburgh, Pennsylvania 15229
+(412) 931-4288
+--------------------------------------------------------------------------------
+Place Name: Community Flower Shop
+Address: 2739 Library Rd.
+Pittsburgh, Pennsylvania 15234
+(412) 461-2503
+--------------------------------------------------------------------------------
+Place Name: Kinship Gift
+Address: 6901 Lynn Way, Unit 315 (BY APPOINTMENT ONLY)
+Pittsburgh, Pennsylvania 15208
+(878) 285-0221
+--------------------------------------------------------------------------------
+Place Name: La Feria
+Address: 5527 Walnut St.
+(above Pamela's)
+Pittsburgh, Pennsylvania 15232
+(412) 682-4501
+--------------------------------------------------------------------------------
+Place Name: Arsenal Cider House & Wine Cellar, Inc.
+Address: 300 39th St.
+Pittsburgh, Pennsylvania 15201
+(412) 682-7699
+--------------------------------------------------------------------------------
+Place Name: Grove City Premium Outlets
+Address: 1911 Leesburg-Grove City Rd.
+Grove City, Pennsylvania 16127
+(724) 748-4470
+--------------------------------------------------------------------------------
+Place Name: Amped Airsoft
+Address: 2250 Noblestown Rd.
+Pittsburgh, Pennsylvania 15205
+(724) 366-6590
+--------------------------------------------------------------------------------
+Place Name: Fine Wine & Good Spirits Premium Collection
+Address: 2001 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-1380
+--------------------------------------------------------------------------------
+Place Name: Contemporary Craft
+Address: 5645 Butler St.
+Pittsburgh, Pennsylvania 15201
+(412) 261-7003
+--------------------------------------------------------------------------------
+Place Name: Fifth Avenue Place
+Address: 120 Fifth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-7800
+--------------------------------------------------------------------------------
+Place Name: love, Pittsburgh
+Address: 805 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-1359
+--------------------------------------------------------------------------------
+Place Name: BURN by Rocky Patel
+Address: 346 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 586-5854
+--------------------------------------------------------------------------------
+Place Name: Closet Rehab
+Address: (412) 720-4234
+--------------------------------------------------------------------------------
+Place Name: Hieber's Pharmacy
+Address: 1759 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 681-6400
+--------------------------------------------------------------------------------
+Place Name: Lawrenceville Corporation
+Address: The Ice House, 100 43rd St., Ste. 208
+Pittsburgh, Pennsylvania 15201
+(412) 621-1616
+--------------------------------------------------------------------------------
+Place Name: esSpa Organic Hungarian Skincare + Salon
+Address: 17 Brilliant Ave.
+Pittsburgh, Pennsylvania 15215
+(412) 782-3888
+--------------------------------------------------------------------------------
+Place Name: Maggie's Farm Distilling
+Address: 3212A Smallman St.
+Pittsburgh, Pennsylvania 15201
+(412) 709-6480
+--------------------------------------------------------------------------------
+Place Name: Fireborn Studios
+Address: 2338 Sarah St.
+Pittsburgh, Pennsylvania 15203
+(412) 488-6835
+--------------------------------------------------------------------------------
+Place Name: City Grows
+Address: 1659 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 235-7721
+--------------------------------------------------------------------------------
+Place Name: Joden World Resources
+Address: PO Box 589, 144 S. Broad St.
+Grove City, Pennsylvania 16127
+(724) 458-1111
+--------------------------------------------------------------------------------
+Place Name: Grandpa Joe's Candy Shop
+Address: 2124 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 904-3623
+--------------------------------------------------------------------------------
+Place Name: Basket of Pittsburgh
+Address: 210 Bilmar Dr., Ste. B
+Pittsburgh, Pennsylvania 15205
+(412) 221-4406
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/shopping/?page=2
+Place Name: Positively Pittsburgh
+Address: 1420 Termon Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 761-4789
+--------------------------------------------------------------------------------
+Place Name: My Favorite Sweet Shoppe
+Address: 237 E. Main St.
+Carnegie, Pennsylvania 15106
+(412) 564-5416
+--------------------------------------------------------------------------------
+Place Name: Nicholas Coffee & Tea Co.
+Address: 23 Market Square
+Pittsburgh, Pennsylvania 15222
+(412) 261-4225
+--------------------------------------------------------------------------------
+Place Name: Salt of the Earth Himalayan Salt Cave
+Address: 504 Valley Brook Rd.
+McMurray, Pennsylvania 15317
+(724) 260-0472
+--------------------------------------------------------------------------------
+Place Name: MJ Eclectic
+Address: 4112 Butler St.
+Pittsburgh, Pennsylvania 15201
+--------------------------------------------------------------------------------
+Place Name: The Original Pittsburgh Winery
+Address: 2809 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 566-1000
+--------------------------------------------------------------------------------
+Place Name: Oakland Business Improvement District
+Address: 218 Oakland Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 683-6243
+--------------------------------------------------------------------------------
+Place Name: MrTakeOutBags.com
+Address: 855 South Canal St.
+Pittsburgh, Pennsylvania 15212
+(888) 321-2248
+--------------------------------------------------------------------------------
+Place Name: Refucilo Winery
+Address: 907 Western Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 251-0231
+--------------------------------------------------------------------------------
+Place Name: Nemacolin
+Address: 1001 Lafayette Dr.
+Farmington, Pennsylvania 15437
+(724) 329-8555
+--------------------------------------------------------------------------------
+Place Name: Puttery Pittsburgh
+Address: 1415 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(878) 222-8130
+--------------------------------------------------------------------------------
+Place Name: Mix Candle Co.
+Address: 4409 Butler St.
+Pittsburgh, Pennsylvania 15201
+(412) 439-4578
+--------------------------------------------------------------------------------
+Place Name: The Mall at Robinson
+Address: 100 Robinson Centre Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 788-0816
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Glass Center
+Address: 5472 Penn Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 365-2145
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Downtown Partnership
+Address: 307 Fourth Ave., Floor 2, The Bank Tower
+Pittsburgh, Pennsylvania 15222
+(412) 566-4190
+--------------------------------------------------------------------------------
+Place Name: Mon Aimee Chocolat
+Address: 2101 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 395-0022
+--------------------------------------------------------------------------------
+Place Name: Ross Park Mall
+Address: 1000 Ross Park Mall Dr.
+Pittsburgh, Pennsylvania 15237
+(412) 369-4401
+--------------------------------------------------------------------------------
+Place Name: Mix Candle Co. SouthSide Works
+Address: 2746 Sidney St.
+Pittsburgh, Pennsylvania 15203
+(412) 525-1594
+--------------------------------------------------------------------------------
+Place Name: Posman Books
+Address: 1637 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-2732
+--------------------------------------------------------------------------------
+Place Name: Salem's Market and Grill
+Address: 2923 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 667-9289
+--------------------------------------------------------------------------------
+Place Name: Salem's Market Centre Avenue
+Address: 1850 Centre Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 235-7927
+--------------------------------------------------------------------------------
+Place Name: Quilters Depot
+Address: 3370 Library Rd.
+Pittsburgh, Pennsylvania 15234
+(412) 308-6236
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Paintball Park
+Address: 1403 Idlewood Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 419-5770
+--------------------------------------------------------------------------------
+Place Name: The PA Market
+Address: 108 19th St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-1332
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/shopping/?page=3
+Place Name: Wildcard
+Address: 4209 Butler St
+Pittsburgh, Pennsylvania 15201
+(412) 224-2651
+--------------------------------------------------------------------------------
+Place Name: Steel City Salt Co.
+Address: 206 Grant Ave.
+Pittsburgh, Pennsylvania 15209
+(412) 407-9271
+--------------------------------------------------------------------------------
+Place Name: The Waterfront Town Center
+Address: 149 West Bridge St.
+Homestead, Pennsylvania 15120
+(412) 476-9157
+--------------------------------------------------------------------------------
+Place Name: Steel City
+Address: 625 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-2333
+--------------------------------------------------------------------------------
+Place Name: Station Square
+Address: 100 W. Station Square Dr., Ste. 1900
+Pittsburgh, Pennsylvania 15219
+(412) 261-2811
+--------------------------------------------------------------------------------
+Place Name: Strip District Neighbors
+Address: 
+--------------------------------------------------------------------------------
+Place Name: Wendell August Forge
+Address: 2074 Leesburg-Grove City Rd.
+Grove City, Pennsylvania 16137
+(800) 923-4438
+--------------------------------------------------------------------------------
+Place Name: Stamoolis Brothers Co.
+Address: 2020 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 471-7676
+--------------------------------------------------------------------------------
+Place Name: Visit Monroeville
+Address: 2790 Mosside Blvd., Ste. 150
+Monroeville, Pennsylvania 15146
+(412) 856-7422
+--------------------------------------------------------------------------------
+Place Name: South Side Chamber of Commerce
+Address: PO Box 42345
+Pittsburgh, Pennsylvania 15203
+(412) 431-3360
+--------------------------------------------------------------------------------
+Place Name: The Terminal
+Address: 2101 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 763-1744
+--------------------------------------------------------------------------------
+Place Name: Yinzers in The Burgh
+Address: 2127 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 434-0113
+--------------------------------------------------------------------------------
+Place Name: Wigle Whiskey
+Address: 2401 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 224-2827
+--------------------------------------------------------------------------------
+Place Name: Sarris Candies
+Address: 511 Adams Ave.
+Canonsburg, Pennsylvania 15317
+(800) 255-7771
+--------------------------------------------------------------------------------
+Place Name: SouthSide Works
+Address: (412) 481-8800
+--------------------------------------------------------------------------------

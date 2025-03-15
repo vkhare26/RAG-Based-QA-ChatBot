@@ -1,0 +1,32 @@
+
+    "title": "Presidential Tours",
+    "description": "President Farnam Jahanian visits different cities throughout the year to meet Tartans across the country and share Carnegie Mellon\u2019s inspiring vision for the future. Faculty members share cutting-edge research and alumni have a chance to network with each other and university leadership."
+
+    "title": "Spring Carnival Weekend",
+    "date": "April 3-5, 2025",
+    "description": "Registration is now open! For more than 100 years, Carnival has been one the most anticipated weekends of the year with Tartans around the world coming together to celebrate this oh-so-CMU tradition.\n\nSpring Carnival celebrates CMU's traditional mainstays like Booth, Buggy, the Kiltie Band concert and Scotch'n'Soda performances in addition to Midway activities, an all-campus community lunch and more.",
+    "event_url": "https://www.cmu.edu/engage/alumni/events/campus/spring-carnival/index.html"
+
+    "title": "Homecoming Weekend",
+    "date": "",
+    "description": "Thank you to the thousands of Tartans who gathered on campus to reconnect with the university and each other on Nov. 1-2 during this annual weekend event.\n\nCheck out the highlights from Homecoming Weekend 2024\n\nWe\u2019re already hard at work planning Homecoming Weekend 2025, Nov. 6-8, 2025! There will be something for everyone \u2014 even CMU\u2019s tiniest Tartans \u2014 next year including:",
+    "event_url": "https://www.cmu.edu/engage/alumni/events/campus/homecoming/index.html"
+
+    "title": "Reunion Weekend at Spring Carnival",
+    "date": "April 3-5, 2025",
+    "description": "Register today for CMU's most-anticipated weekend, which offers an array of special experiences for Tartans celebrating a reunion year. Connect with friends old and new at reunion-exclusive events and opportunities, while also enjoying treasured Carnival traditions like Buggy, Mobot, Midway and Booth.\n\nWe are excited to welcome back undergraduate classes ending in 0s and 5s, as well as the Class of 2024, this year. Additionally, we invite all Half Century Tartans (Classes of 1974 and prior) to attend reunion events.",
+    "event_url": "https://www.cmu.edu/engage/alumni/events/campus/reunions/index.html"
+
+    "title": "CMU Alumni Awards",
+    "date": "Celebrating Our Brightest Stars",
+    "description": "The CMU Alumni Association proudly honors these members of the CMU community, all of whom have made an impact on their industries, their communities, their alma mater and others' lives around the world.\n\nThe annual Alumni Awards event brings alumni, students, faculty, staff and friends together to celebrate those receiving the Founders Medal for Outstanding Service and Exceptional Achievement, Alumni Achievement Awards, Alumni Service Awards and Recent Alumni Awards.",
+    "event_url": "https://www.cmu.edu/engage/alumni/events/campus/alumni-awards/index.html"
+
+    "title": "Tartans on the Rise",
+    "date": "",
+    "description": "",
+    "event_url": "https://www.cmu.edu/engage/alumni/get-involved/tartansontherise/index.html"
+     title": "Buggy",
+    "date": "Thursday Apr 3, Noon-2pm",
+    "description": "Buggy (also called "Sweepstakes") is a unique race that has been held on and behind the Carnegie Mellon University campus during the spring carnival since 1920. It is part uphill relay race (in which the baton is a vehicle and driver pushed by runners), and part downhill gravity racing with exciting sharp turns and speeds up to 40mph. It was founded in 2008 to unite and connect alumni across teams and eras, and to support the coolest sport we know. ",
+

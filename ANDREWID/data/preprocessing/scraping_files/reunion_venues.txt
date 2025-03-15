@@ -1,0 +1,871 @@
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=1
+Place Name: Chatham University
+Address: 107 Woodland Road
+Pittsburgh, Pennsylvania 15232
+(412) 365-1100
+--------------------------------------------------------------------------------
+Place Name: Bradford House Museum
+Address: 175 S. Main St.
+Washington, Pennsylvania 15301
+(724) 222-3604
+--------------------------------------------------------------------------------
+Place Name: City Theatre Company
+Address: 1300 Bingham St.
+Pittsburgh, Pennsylvania 15203
+(412) 431-2489
+--------------------------------------------------------------------------------
+Place Name: The Church Brew Works
+Address: 3525 Liberty Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 688-8200
+--------------------------------------------------------------------------------
+Place Name: cfsbank Event Center
+Address: 111 Gallitin Rd.
+Belle Vernon, Pennsylvania 15012
+(724) 379-7100
+--------------------------------------------------------------------------------
+Place Name: Atithi Studios
+Address: 1020 N. Canal St.
+Sharpsburg, Pennsylvania 15215
+(412) 301-5374
+--------------------------------------------------------------------------------
+Place Name: The Andy Warhol Museum
+Address: 117 Sandusky St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-8300
+--------------------------------------------------------------------------------
+Place Name: City Winery
+Address: 1627 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 246-1000
+--------------------------------------------------------------------------------
+Place Name: August Wilson African American Cultural Center
+Address: 980 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-1011
+--------------------------------------------------------------------------------
+Place Name: Byham Theater
+Address: 101 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: BURN by Rocky Patel
+Address: 346 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 586-5854
+--------------------------------------------------------------------------------
+Place Name: Carnegie Science Center
+Address: One Allegheny Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 237-3400
+--------------------------------------------------------------------------------
+Place Name: Carnegie Mellon University Conference & Event Services
+Address: 4700 Fifth Ave., 2nd Floor
+Pittsburgh, Pennsylvania 15213
+(412) 268-1125
+--------------------------------------------------------------------------------
+Place Name: Casbah Mediterranean Restaurant and Wine Bar
+Address: 229 S. Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 661-5656
+--------------------------------------------------------------------------------
+Place Name: Cinderlands Warehouse
+Address: 2601 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 209-1575
+--------------------------------------------------------------------------------
+Place Name: Cadence+ At The Strip
+Address: 2400 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 912-9134
+--------------------------------------------------------------------------------
+Place Name: Cambria Hotel Pittsburgh - Downtown
+Address: 1320 Centre Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 381-6687
+--------------------------------------------------------------------------------
+Place Name: AC Hotel Pittsburgh Downtown
+Address: 1126 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-9300
+--------------------------------------------------------------------------------
+Place Name: Arcade Comedy Theater
+Address: 943 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-0608
+--------------------------------------------------------------------------------
+Place Name: Benedum Center for the Performing Arts
+Address: 237 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Carnegie Museum of Art and Natural History
+Address: 4400 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 622-3131
+--------------------------------------------------------------------------------
+Place Name: The Capital Grille
+Address: 301 Fifth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 338-9100
+--------------------------------------------------------------------------------
+Place Name: Children's Museum of Pittsburgh and MuseumLab
+Address: 10 Children's Way
+Pittsburgh, Pennsylvania 15212
+(412) 322-5058
+--------------------------------------------------------------------------------
+Place Name: City of Asylum
+Address: 40 W. North Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 435-1110
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=2
+Place Name: Deep Freeze Ice Arena
+Address: 360 McClurg Rd.
+Youngstown, Ohio 44512
+(234) 719-5000
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh Cranberry
+Address: 910 Sheraton Dr.
+Cranberry Township, Pennsylvania 16046
+(724) 776-6900
+--------------------------------------------------------------------------------
+Place Name: Enclave
+Address: 1602 E. Carson St.
+Pittsburgh, Pennsylvania 15203
+(412) 808-1233
+--------------------------------------------------------------------------------
+Place Name: Eddie V's Prime Seafood
+Address: 501 Grant St., Ste. 100
+Pittsburgh, Pennsylvania 15219
+(412) 391-1714
+--------------------------------------------------------------------------------
+Place Name: Drury Plaza Hotel Pittsburgh Downtown
+Address: 745 Grant St.
+Pittsburgh, Pennsylvania 15219
+(412) 281-2900
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown
+Address: One Bigelow Square
+Pittsburgh, Pennsylvania 15219
+(412) 281-5800
+--------------------------------------------------------------------------------
+Place Name: ELEVEN Contemporary Kitchen
+Address: 1150 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 201-5656
+--------------------------------------------------------------------------------
+Place Name: Courtyard by Marriott Pittsburgh Downtown
+Address: 945 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 434-5551
+--------------------------------------------------------------------------------
+Place Name: The Clemente Museum
+Address: 3339 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 621-1268
+--------------------------------------------------------------------------------
+Place Name: Dave & Buster's Pittsburgh - North Hills
+Address: 6260 Northway Dr.
+Pittsburgh, Pennsylvania 15237
+(412) 702-9550
+--------------------------------------------------------------------------------
+Place Name: Dave & Buster's
+Address: 180 E. Waterfront St.
+Homestead, Pennsylvania 15120
+(412) 462-1500
+--------------------------------------------------------------------------------
+Place Name: Embassy Suites by Hilton Pittsburgh Downtown
+Address: 535 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-2200
+--------------------------------------------------------------------------------
+Place Name: Edgewood Country Club
+Address: 100 Churchill Rd
+Pittsburgh, Pennsylvania 15235
+(412) 823-7300
+--------------------------------------------------------------------------------
+Place Name: Courtyard Pittsburgh/Monroeville
+Address: 3962 William Penn Highway
+Monroeville, Pennsylvania 15146
+(412) 856-8680
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh - Green Tree
+Address: 500 Mansfield Ave.
+Pittsburgh, Pennsylvania 15205
+(412) 922-8400
+--------------------------------------------------------------------------------
+Place Name: DoubleTree by Hilton Pittsburgh Airport
+Address: 8402 University Blvd.
+Moon Township, Pennsylvania 15108
+(412) 329-1400
+--------------------------------------------------------------------------------
+Place Name: City Works Eatery & Pour House
+Address: 2 PPG Place
+Pittsburgh, Pennsylvania 15222
+(412) 448-2900
+--------------------------------------------------------------------------------
+Place Name: Con Alma
+Address: 613 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 932-2387
+--------------------------------------------------------------------------------
+Place Name: Del Frisco's Double Eagle Steakhouse
+Address: 455 Fifth Ave., Union Trust Bldg.
+Pittsburgh, Pennsylvania 15219
+(412) 240-6140
+--------------------------------------------------------------------------------
+Place Name: EVEN® Hotel Pittsburgh Downtown
+Address: 425 Forbes Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 301-2277
+--------------------------------------------------------------------------------
+Place Name: Crowne Plaza Hotel and Suites Pittsburgh South
+Address: 164 Fort Couch Rd.
+Pittsburgh, Pennsylvania 15241
+(412) 833-5300
+--------------------------------------------------------------------------------
+Place Name: David L. Lawrence Convention Center
+Address: 1000 Fort Duquesne Blvd.
+Pittsburgh, Pennsylvania 15222
+(412) 565-6000
+--------------------------------------------------------------------------------
+Place Name: Eddie Merlot's Prime Aged Beef and Seafood
+Address: 444 Liberty Ave., Ste. 100, 4 Gateway Center
+Pittsburgh, Pennsylvania 15222
+(412) 235-7676
+--------------------------------------------------------------------------------
+Place Name: Edgewood Country Club
+Address: 100 Churchill Rd
+Pittsburgh, Pennsylvania 15235
+(412) 823-7300
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=3
+Place Name: Heinz Hall
+Address: 600 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 392-4900
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn & Suites Pittsburgh-Downtown
+Address: 1247 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 288-4350
+--------------------------------------------------------------------------------
+Place Name: Gateway Clipper Fleet
+Address: 350 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 355-7980
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Airport South/Robinson Township
+Address: 303 Park Manor Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 788-9500
+--------------------------------------------------------------------------------
+Place Name: Full Throttle Adrenaline Park
+Address: 360 Mall Circle Dr.
+Monroeville, Pennsylvania 15146
+(412) 380-1314
+--------------------------------------------------------------------------------
+Place Name: Fogo de Chao Brazilian Steakhouse
+Address: 525 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 312-5001
+--------------------------------------------------------------------------------
+Place Name: Fairfield Inn & Suites by Marriott Pittsburgh Airport/Robinson Township
+Address: 1004 Sutherland Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 859-9070
+--------------------------------------------------------------------------------
+Place Name: Hampton Inn & Suites Pittsburgh Airport South-Settlers Ridge
+Address: 5000 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 788-4440
+--------------------------------------------------------------------------------
+Place Name: FA Climbing & Fitness
+Address: 195 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 904-2630
+--------------------------------------------------------------------------------
+Place Name: Foundry Table & Tap
+Address: 381 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 930-0744
+--------------------------------------------------------------------------------
+Place Name: Fort Pitt Museum
+Address: 601 Commonwealth Place, Building B
+Point State Park
+Pittsburgh, Pennsylvania 15222
+(412) 281-9284
+--------------------------------------------------------------------------------
+Place Name: Fairmont Pittsburgh
+Address: 510 Market St.
+Pittsburgh, Pennsylvania 15222
+(412) 773-8800
+--------------------------------------------------------------------------------
+Place Name: Hartwood Acres Mansion
+Address: 200 Hartwood Acres
+Pittsburgh, Pennsylvania 15238
+(412) 767-9200
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's Fallingwater
+Address: Route 381 South, 1491 Mill Run Rd.
+Mill Run, Pennsylvania 15464
+(724) 329-8501
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh/Southpointe
+Address: 1000 Corporate Dr.
+Canonsburg, Pennsylvania 15317
+(724) 743-5000
+--------------------------------------------------------------------------------
+Place Name: Five Iron Golf
+Address: 2 PPG Place, Ste. 90
+Pittsburgh, Pennsylvania 15222
+(412) 332-8500
+--------------------------------------------------------------------------------
+Place Name: The Frick Pittsburgh
+Address: 7227 Reynolds St.
+Pittsburgh, Pennsylvania 15208
+(412) 371-0600
+--------------------------------------------------------------------------------
+Place Name: Holiday Inn Express & Suites Pittsburgh West - Green Tree
+Address: 875 Greentree Rd.
+Pittsburgh, Pennsylvania 15220
+(412) 922-7070
+--------------------------------------------------------------------------------
+Place Name: Grand Concourse/Gandy Dancer Saloon
+Address: 100 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 261-1717
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn - Pittsburgh University Place
+Address: 3454 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 683-2040
+--------------------------------------------------------------------------------
+Place Name: Homewood Suites by Hilton Pittsburgh Downtown
+Address: 1410 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 232-0200
+--------------------------------------------------------------------------------
+Place Name: Hofbräuhaus Pittsburgh
+Address: 2705 S. Water St.
+Pittsburgh, Pennsylvania 15203
+(412) 224-2328
+--------------------------------------------------------------------------------
+Place Name: Hilton Garden Inn Pittsburgh Downtown
+Address: 250 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-5557
+--------------------------------------------------------------------------------
+Place Name: Gi-Jin
+Address: 208 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 332-6939
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=4
+Place Name: National Aviary
+Address: 700 Arch St.
+Pittsburgh, Pennsylvania 15212
+(412) 323-7235
+--------------------------------------------------------------------------------
+Place Name: Kennywood
+Address: 4800 Kennywood Blvd.
+West Mifflin, Pennsylvania 15122
+(412) 461-0500
+--------------------------------------------------------------------------------
+Place Name: McCormick & Schmick's Seafood Restaurant
+Address: 301 Fifth Ave., Ste. 101, Piatt Place
+Pittsburgh, Pennsylvania 15222
+(412) 201-6992
+--------------------------------------------------------------------------------
+Place Name: Kaya
+Address: 2000 Smallman St.
+Pittsburgh, Pennsylvania 15219
+(412) 261-6565
+--------------------------------------------------------------------------------
+Place Name: Lawrenceville Distilling Co.
+Address: 742 Allegheny River Blvd.
+Verona, Pennsylvania 15147
+(412) 945-0845
+--------------------------------------------------------------------------------
+Place Name: Lawrence Hall
+Address: 4609 Butler St.
+Pittsburgh, Pennsylvania 15201
+--------------------------------------------------------------------------------
+Place Name: Latin American Cultural Center (LACC)
+Address: 4338 Bigelow Blvd.
+Pittsburgh, Pennsylvania 15213
+(412) 648-7929
+--------------------------------------------------------------------------------
+Place Name: Mike's Beer Bar
+Address: 110 Federal St.
+Pittsburgh, Pennsylvania 15212
+(412) 322-2337
+--------------------------------------------------------------------------------
+Place Name: Live Nation Premium at The Pavilion at Star Lake
+Address: 665 Route 18
+Burgettstown, Pennsylvania 15021
+(412) 480-6355
+--------------------------------------------------------------------------------
+Place Name: Morton's The Steakhouse
+Address: 625 Liberty Ave., Suite 180
+Pittsburgh, Pennsylvania 15222
+(412) 261-7141
+--------------------------------------------------------------------------------
+Place Name: The Landing Hotel & Rivers Casino Pittsburgh
+Address: 757 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+Place Name: Kingfly Spirits
+Address: 2613 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 392-8928
+--------------------------------------------------------------------------------
+Place Name: Mattress Factory Museum of Contemporary Art
+Address: 509 Jacksonia St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-3169
+--------------------------------------------------------------------------------
+Place Name: Hyatt Place Pittsburgh Airport
+Address: 6011 Campbells Run Rd.
+Pittsburgh, Pennsylvania 15205
+(412) 494-0202
+--------------------------------------------------------------------------------
+Place Name: Hyde Park Prime Steakhouse
+Address: 247 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 222-4014
+--------------------------------------------------------------------------------
+Place Name: HYATT House Pittsburgh/Bloomfield/Shadyside
+Address: 5335 Baum Blvd.
+Pittsburgh, Pennsylvania 15224
+(412) 621-9900
+--------------------------------------------------------------------------------
+Place Name: Museum of Illusions Pittsburgh
+Address: 267 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 239-8990
+--------------------------------------------------------------------------------
+Place Name: Kelly Strayhorn Theater
+Address: 5941 Penn Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 363-3000
+--------------------------------------------------------------------------------
+Place Name: Howl at the Moon
+Address: 125 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 866-4695
+--------------------------------------------------------------------------------
+Place Name: Kimpton Hotel Monaco Pittsburgh
+Address: 620 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-1170
+--------------------------------------------------------------------------------
+Place Name: LeMont Restaurant
+Address: 1114 Grandview Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 431-3100
+--------------------------------------------------------------------------------
+Place Name: Monroeville Convention Center
+Address: 209 Mall Blvd.
+Monroeville, Pennsylvania 15146
+(412) 516-9233
+--------------------------------------------------------------------------------
+Place Name: Hyatt Regency Pittsburgh International Airport
+Address: 1111 Airport Blvd., PO Box 12420
+Pittsburgh, Pennsylvania 15231
+(724) 899-1234
+--------------------------------------------------------------------------------
+Place Name: Hotel Indigo Pittsburgh East Liberty, an IHG Hotel
+Address: 123 North Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 665-0555
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=5
+Place Name: The Oaklander Hotel
+Address: 5130 Bigelow Blvd.
+Pittsburgh, Pennsylvania 15213
+(412) 578-8500
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Pirates at PNC Park
+Address: 115 Federal St., PNC Park at the North Shore
+Pittsburgh, Pennsylvania 15212
+(412) 323-5000
+--------------------------------------------------------------------------------
+Place Name: Petersen Events Center
+Address: 3719 Terrace St.
+Pittsburgh, Pennsylvania 15261
+(412) 648-3054
+--------------------------------------------------------------------------------
+Place Name: Penn Society
+Address: 960 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 904-2213
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Opera
+Address: 2425 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-0912
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Marriott City Center
+Address: 112 Washington Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-4000
+--------------------------------------------------------------------------------
+Place Name: Paradise Island Bowl & Beach
+Address: 7601 Grand Ave.
+Pittsburgh, Pennsylvania 15225
+(412) 264-7560
+--------------------------------------------------------------------------------
+Place Name: Omni William Penn Hotel
+Address: 530 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 281-7100
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Airport Marriott
+Address: 777 Aten Rd.
+Coraopolis, Pennsylvania 15108
+(412) 788-8800
+--------------------------------------------------------------------------------
+Place Name: Pennsylvania Trolley Museum
+Address: 1 Electric Way
+Washington, Pennsylvania 15301
+(724) 228-9256
+--------------------------------------------------------------------------------
+Place Name: The PA Market
+Address: 108 19th St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-1332
+--------------------------------------------------------------------------------
+Place Name: Penn Brewery
+Address: 800 Vinial St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-9400
+--------------------------------------------------------------------------------
+Place Name: Phipps Conservatory and Botanical Gardens
+Address: One Schenley Dr.
+Pittsburgh, Pennsylvania 15213
+(412) 622-6914
+--------------------------------------------------------------------------------
+Place Name: PaPa J's Twin Plaza
+Address: 2016 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 429-7272
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Cultural Trust/Trust Presents
+Address: 803 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 471-6070
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Ice Arena
+Address: 700 Craigdell Rd.
+New Kensington, Pennsylvania 15068
+(878) 847-5454
+--------------------------------------------------------------------------------
+Place Name: Pins Mechanical Company and 16-Bit Arcade + Bar
+Address: 407 Cinema Dr.
+Pittsburgh, Pennsylvania 15203
+(412) 365-5575
+--------------------------------------------------------------------------------
+Place Name: Nova Place
+Address: 100 S. Commons
+Pittsburgh, Pennsylvania 15212
+(412) 224-5250
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Botanic Garden
+Address: 799 Pinkerton Run Rd.
+Oakdale, Pennsylvania 15071
+412-444-4464 x 223
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh International Race Complex
+Address: 201 Penndale Rd.
+Wampum, Pennsylvania 16157
+(724) 535-1000
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh CLO
+Address: 719 Liberty Ave., 6th Floor, The Benedum Center
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Glass Center
+Address: 5472 Penn Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 365-2145
+--------------------------------------------------------------------------------
+Place Name: Nemacolin
+Address: 1001 Lafayette Dr.
+Farmington, Pennsylvania 15437
+(724) 329-8555
+--------------------------------------------------------------------------------
+Place Name: Palmer Imaging Arena
+Address: 100 Center Ice Dr.
+Delmont, Pennsylvania 15626
+(724) 468-1100
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=6
+Place Name: Pittsburgh Public Theater
+Address: 621 Penn Ave., O'Reilly Theater
+Pittsburgh, Pennsylvania 15222
+(412) 316-1600
+--------------------------------------------------------------------------------
+Place Name: Roxian Theatre
+Address: 425 Chartiers Ave.
+McKees Rocks, Pennsylvania 15136
+(412) 690-0996
+--------------------------------------------------------------------------------
+Place Name: Puttshack
+Address: 1729 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 900-7888
+--------------------------------------------------------------------------------
+Place Name: Rivers Club
+Address: One Oxford Centre, 301 Grant St., Ste. 411
+Pittsburgh, Pennsylvania 15219
+(412) 391-5227
+--------------------------------------------------------------------------------
+Place Name: Puttery Pittsburgh
+Address: 1415 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(878) 222-8130
+--------------------------------------------------------------------------------
+Place Name: Ritual House
+Address: 524 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 904-2002
+--------------------------------------------------------------------------------
+Place Name: Renaissance Pittsburgh Hotel
+Address: 107 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 562-1200
+--------------------------------------------------------------------------------
+Place Name: Sheraton Pittsburgh Airport Hotel
+Address: 1160 Thorn Run Rd.
+Pittsburgh, Pennsylvania 15108
+(412) 262-2400
+--------------------------------------------------------------------------------
+Place Name: Rezzanine Esports
+Address: 1025 Washington Pike, Second Floor
+Bridgeville, Pennsylvania 15017
+(412) 914-0998
+--------------------------------------------------------------------------------
+Place Name: Sheraton Pittsburgh Hotel at Station Square
+Address: 300 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 261-2000
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Steelers
+Address: 100 Art Rooney Ave., Acrisure Stadium
+Pittsburgh, Pennsylvania 15212
+(412) 323-1200
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Zoo & Aquarium
+Address: 7370 Baker St.
+Pittsburgh, Pennsylvania 15206
+(412) 665-3640
+--------------------------------------------------------------------------------
+Place Name: PPG Place - Attractions
+Address: One PPG Place
+Pittsburgh, Pennsylvania 15222
+(412) 434-1900
+--------------------------------------------------------------------------------
+Place Name: PPG Paints Arena
+Address: 1001 Fifth Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 642-1800
+--------------------------------------------------------------------------------
+Place Name: Point Park University's Pittsburgh Playhouse
+Address: 350 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 392-8000
+--------------------------------------------------------------------------------
+Place Name: Printscape Arena
+Address: 114 Southpointe Blvd.
+Canonsburg, Pennsylvania 15317
+724-745-6666 X 200
+--------------------------------------------------------------------------------
+Place Name: Shorty's Pins x Pints
+Address: 353 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 904-4450
+--------------------------------------------------------------------------------
+Place Name: The Priory Hotel
+Address: 614 Pressley St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-3338
+--------------------------------------------------------------------------------
+Place Name: Senator John Heinz History Center
+Address: 1212 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 454-6000
+--------------------------------------------------------------------------------
+Place Name: Seven Springs Mountain Resort
+Address: 777 Waterwheel Dr.
+Seven Springs, Pennsylvania 15622
+(800) 452-2223
+--------------------------------------------------------------------------------
+Place Name: Point Park University
+Address: 201 Wood St.
+Pittsburgh, Pennsylvania 15222
+(412) 391-4100
+--------------------------------------------------------------------------------
+Place Name: Rivers of Steel
+Address: 623 East 8th Ave., The Bost Building
+Homestead, Pennsylvania 15120
+(412) 464-4020
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Riverhounds SC
+Address: 510 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+412-865-GOAL
+--------------------------------------------------------------------------------
+Place Name: Shorty's Tap x Taco
+Address: 244 West Bridge St.
+West Homestead, Pennsylvania 15120
+(412) 235-9758
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=7
+Place Name: Threadbare Cider and Mead
+Address: 1291 Spring Garden Ave.
+Pittsburgh, Pennsylvania 15212
+(412) 322-5100
+--------------------------------------------------------------------------------
+Place Name: Vallozzi's Pittsburgh
+Address: 220 Fifth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 394-3400
+--------------------------------------------------------------------------------
+Place Name: The Westmoreland Museum of American Art
+Address: 221 N. Main St.
+Greensburg, Pennsylvania 15601
+(724) 837-1500
+--------------------------------------------------------------------------------
+Place Name: Steel Mill Saloon
+Address: 1225 Grandview Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 586-4926
+--------------------------------------------------------------------------------
+Place Name: Steelers Hall of Honor Museum
+Address: 100 Art Rooney Ave., Gate B
+Pittsburgh, Pennsylvania 15212
+(412) 697-7150
+--------------------------------------------------------------------------------
+Place Name: TRYP by Wyndham Pittsburgh | Lawrenceville
+Address: 177 40th St.
+Pittsburgh, Pennsylvania 15201
+(412) 567-0555
+--------------------------------------------------------------------------------
+Place Name: Stage AE
+Address: 400 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 229-5483
+--------------------------------------------------------------------------------
+Place Name: Velum Fermentation
+Address: 2120 Jane St.
+Pittsburgh, Pennsylvania 15203
+(360) 460-0267
+--------------------------------------------------------------------------------
+Place Name: Sullivan's Steakhouse Pittsburgh
+Address: 600 Grant St.
+Pittsburgh, Pennsylvania 15219
+(412) 775-4000
+--------------------------------------------------------------------------------
+Place Name: Tom's Watch Bar
+Address: 261 North Shore Dr., Ste. 3
+Pittsbugh, Pennsylvania 15212
+(412) 254-8338
+--------------------------------------------------------------------------------
+Place Name: Tequila Cowboy
+Address: 380 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 930-0895
+--------------------------------------------------------------------------------
+Place Name: Umi Japanese Restaurant
+Address: 5849 Ellsworth Ave.
+Pittsburgh, Pennsylvania 15232
+(412) 362-6198
+--------------------------------------------------------------------------------
+Place Name: Soldiers & Sailors Memorial Hall & Museum
+Address: 4141 Fifth Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 621-4253
+--------------------------------------------------------------------------------
+Place Name: Westin Pittsburgh
+Address: 1000 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-3700
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites by Marriott Pittsburgh Bakery Square
+Address: 134 Bakery Square Blvd.
+Pittsburgh, Pennsylvania 15206
+(412) 362-8600
+--------------------------------------------------------------------------------
+Place Name: UPMC Events Center at Robert Morris University
+Address: 6001 University Blvd.
+Moon Township, Pennsylvania 15108
+(412) 397-2019
+--------------------------------------------------------------------------------
+Place Name: Space Bar
+Address: 22 Market Square
+Pittsburgh, Pennsylvania 15222
+(412) 862-5881
+--------------------------------------------------------------------------------
+Place Name: Topgolf
+Address: 400 Presto-Sygan Rd.
+Bridgeville, Pennsylvania 15017
+(412) 564-9188
+--------------------------------------------------------------------------------
+Place Name: täkō torta
+Address: 122 Bakery Square Blvd.
+Pittsburgh, Pennsylvania 15206
+(412) 866-8256
+--------------------------------------------------------------------------------
+Place Name: Sienna Mercato
+Address: 942 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-2810
+--------------------------------------------------------------------------------
+Place Name: SPACE
+Address: 812 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 325-7723
+--------------------------------------------------------------------------------
+Place Name: West Overton Village and Museum
+Address: 109 W. Overton Rd., PO Box 3
+Scottdale, Pennsylvania 15683
+(724) 887-7910
+--------------------------------------------------------------------------------
+Place Name: SpringHill Suites Monroeville/Pittsburgh
+Address: 122 Daugherty Dr.
+Monroeville, Pennsylvania 15146
+(412) 380-9100
+--------------------------------------------------------------------------------
+Place Name: Southern Tier Brewery
+Address: 316 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 301-2337
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/weddings-reunions/venues/?page=8
+Place Name: Wyndham Grand Pittsburgh Downtown
+Address: 600 Commonwealth Place
+Pittsburgh, Pennsylvania 15222
+(412) 391-4600
+--------------------------------------------------------------------------------
+Place Name: Wintergarden at PPG Place
+Address: 1 PPG Place
+Pittsburgh, Pennsylvania 15222
+(412) 684-3800
+--------------------------------------------------------------------------------
+Place Name: Wigle Whiskey
+Address: 2401 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 224-2827
+--------------------------------------------------------------------------------

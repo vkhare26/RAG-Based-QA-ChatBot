@@ -1,0 +1,236 @@
+Page Title: Tours & Sightseeing
+================================================================================
+Page Title: Tours & Sightseeing
+================================================================================
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/tours-sightseeing/?page=1
+Page Title: 
+================================================================================
+Place Name: Duquesne Incline
+Address: 1197 W. Carson St.
+Pittsburgh, Pennsylvania 15219
+(412) 381-1665
+--------------------------------------------------------------------------------
+Place Name: Libation Tours
+Address: 2519 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 427-2880
+--------------------------------------------------------------------------------
+Place Name: Greene County Historical Society
+Address: 918 Rolling Meadows Rd.
+Waynesburg, Pennsylvania 15370
+(724) 627-3204
+--------------------------------------------------------------------------------
+Place Name: City Hall Tours
+Address: 414 Grant St.
+Pittsburgh, Pennsylvania 15219
+--------------------------------------------------------------------------------
+Place Name: DOORS OPEN Pittsburgh
+Address: 
+--------------------------------------------------------------------------------
+Place Name: 'Burgh Bits and Bites Food Tour
+Address: (412) 901-7150
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's Fallingwater
+Address: Route 381 South, 1491 Mill Run Rd.
+Mill Run, Pennsylvania 15464
+(724) 329-8501
+--------------------------------------------------------------------------------
+Place Name: Golden Triangle Bike
+Address: 600 1st Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 600-0675
+--------------------------------------------------------------------------------
+Place Name: Anderson Coach & Travel
+Address: One Anderson Plaza
+Greenville, Pennsylvania 16125
+(724) 588-8310
+--------------------------------------------------------------------------------
+Place Name: Free Pittsburgh Walking Tours
+Address: (412) 253-7515
+--------------------------------------------------------------------------------
+Place Name: Antique Skyscrapers: Talks & Tours
+Address: (412) 310-1098
+--------------------------------------------------------------------------------
+Place Name: Hartwood Acres Mansion
+Address: 200 Hartwood Acres
+Pittsburgh, Pennsylvania 15238
+(412) 767-9200
+--------------------------------------------------------------------------------
+Place Name: First Presbyterian Church of Pittsburgh
+Address: 320 Sixth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 471-3436
+--------------------------------------------------------------------------------
+Place Name: City Brew Tours Pittsburgh
+Address: 1247 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 419-2337
+--------------------------------------------------------------------------------
+Place Name: Gateway Clipper Fleet
+Address: 350 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 355-7980
+--------------------------------------------------------------------------------
+Place Name: Bike the Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: The Burgh Bus
+Address: (412) 324-4134
+--------------------------------------------------------------------------------
+Place Name: Iron City Distilling
+Address: 150 Ferry St.
+Creighton, Pennsylvania 15030
+(412) 682-7400
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's House on Kentuck Knob
+Address: 723 Kentuck Rd.
+Chalk Hill, Pennsylvania 15421
+(724) 329-1901
+--------------------------------------------------------------------------------
+Place Name: Cruisin' Tikis Pittsburgh
+Address: North Shore and Station Square
+Pittsburgh, Pennsylvania
+(833) 744-8454
+--------------------------------------------------------------------------------
+Place Name: Bradford House Museum
+Address: 175 S. Main St.
+Washington, Pennsylvania 15301
+(724) 222-3604
+--------------------------------------------------------------------------------
+Place Name: Haunted Pittsburgh LLC
+Address: (412) 385-2015
+--------------------------------------------------------------------------------
+Place Name: An Essential Pittsburgh Tour
+Address: 318 E. Eighth Ave.
+Homestead, Pennsylvania 15120
+(412) 461-9125
+--------------------------------------------------------------------------------
+Place Name: Compass Inn Museum/Ligonier Valley Historical Society
+Address: 1382 Route 30 East
+Laughlington, Pennsylvania 15655
+(724) 238-4983
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/tours-sightseeing/?page=2
+Place Name: Rivers of Steel
+Address: 623 East 8th Ave., The Bost Building
+Homestead, Pennsylvania 15120
+(412) 464-4020
+--------------------------------------------------------------------------------
+Place Name: SurfSUP Adventures
+Address: (724) 989-7259
+--------------------------------------------------------------------------------
+Place Name: The Society to Preserve the Millvale Murals of Maxo Vanka
+Address: 24 Maryland Ave.
+Millvale, Pennsylvania 15209
+(412) 408-3180
+--------------------------------------------------------------------------------
+Place Name: Pennsylvania Trolley Museum
+Address: 1 Electric Way
+Washington, Pennsylvania 15301
+(724) 228-9256
+--------------------------------------------------------------------------------
+Place Name: Rivers of Steel Tours
+Address: 623 East Eighth Ave.
+Homestead, Pennsylvania 15120
+(412) 464-4020
+--------------------------------------------------------------------------------
+Place Name: Woodville Experience
+Address: 1375 Washington Pike
+Bridgeville, Pennsylvania 15017
+(412) 221-0348
+--------------------------------------------------------------------------------
+Place Name: Molly's Trolleys Pittsburgh
+Address: 2524 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-2085
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Party Pedaler
+Address: 2524 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 228-7476
+--------------------------------------------------------------------------------
+Place Name: Simple Life Amish Tours
+Address: 108 North Market St.
+New Wilmington, Pennsylvania 16142
+(724) 923-9730
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh's Party Pontoons
+Address: Station Square Marina
+225 W Station Square Dr
+Pittsburgh, Pennsylvania 15219
+(412) 606-8111
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh History & Landmarks Foundation
+Address: 100 W. Station Square Dr., Ste. 450
+Pittsburgh, Pennsylvania 15219
+412-471-5808 x 527
+--------------------------------------------------------------------------------
+Place Name: Wendell August Forge
+Address: 2074 Leesburg-Grove City Rd.
+Grove City, Pennsylvania 16137
+(800) 923-4438
+--------------------------------------------------------------------------------
+Place Name: Passport to Pittsburgh, LLC
+Address: (charter and step on guide service)
+Pittsburgh, Pennsylvania
+(412) 298-0409
+--------------------------------------------------------------------------------
+Place Name: Steelers Hall of Honor Museum
+Address: 100 Art Rooney Ave., Gate B
+Pittsburgh, Pennsylvania 15212
+(412) 697-7150
+--------------------------------------------------------------------------------
+Place Name: West Overton Village and Museum
+Address: 109 W. Overton Rd., PO Box 3
+Scottdale, Pennsylvania 15683
+(724) 887-7910
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Steelers
+Address: 100 Art Rooney Ave., Acrisure Stadium
+Pittsburgh, Pennsylvania 15212
+(412) 323-1200
+--------------------------------------------------------------------------------
+Place Name: Walk The Burgh Tours
+Address: 1049 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 246-9494
+--------------------------------------------------------------------------------
+Place Name: Wigle Whiskey
+Address: 2401 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 224-2827
+--------------------------------------------------------------------------------
+Place Name: Penn Brewery
+Address: 800 Vinial St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-9400
+--------------------------------------------------------------------------------
+Place Name: Segway Pittsburgh
+Address: 228 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 515-3333
+--------------------------------------------------------------------------------
+Place Name: Nationality Rooms
+Address: Cathedral of Learning, 4200 Fifth Ave.
+Pittsburgh, Pennsylvania 15260
+(412) 624-6000
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Brewing Company - Creighton
+Address: 150 Ferry St.
+Creighton, Pennsylvania 15030
+(412) 682-7400
+--------------------------------------------------------------------------------
+Place Name: Myers Coach Lines
+Address: 2001 Ball Park Court
+Export, Pennsylvania 15632
+(724) 733-1045
+--------------------------------------------------------------------------------
+Place Name: Rush Hour Boat Charters
+Address: 238 West Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 855-7874
+--------------------------------------------------------------------------------

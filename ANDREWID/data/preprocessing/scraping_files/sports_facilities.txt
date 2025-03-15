@@ -1,0 +1,346 @@
+
+Scraping: https://www.sportspittsburgh.com/sports-planner/sports-facilities/?page=1
+Place Name: David L. Lawrence Convention Center
+Address: 1000 Fort Duquesne Blvd.
+Pittsburgh, Pennsylvania 15222
+(412) 565-6000
+--------------------------------------------------------------------------------
+Place Name: The Club Sport and Health
+Address: 1 Racquetville Lane
+Monroeville, Pennsylvania 15146
+(412) 856-3930
+--------------------------------------------------------------------------------
+Place Name: Blueberry Hill Park
+Address: Blaine's Way
+Sewickley, Pennsylvania 15143
+--------------------------------------------------------------------------------
+Place Name: Carnegie Mellon Tennis Courts
+Address: Tech St. & Frew St.
+Pittsburgh, Pennsylvania 15213
+--------------------------------------------------------------------------------
+Place Name: All-American Park
+Address: 28 Stewart Station
+Trafford, Pennsylvania PA
+--------------------------------------------------------------------------------
+Place Name: Dick’s Sporting Goods Sportsplex at Graham Park
+Address: 260 Graham Park Dr.
+Cranberry Twp., Pennsylvania 16066
+--------------------------------------------------------------------------------
+Place Name: Cameron Stadium
+Address: 60 Park Avenue
+Washington, Pennsylvania 15301
+--------------------------------------------------------------------------------
+Place Name: Alpha Ice Complex
+Address: 66 Alpha Drive West
+Pittsburgh, Pennsylvania 15238
+--------------------------------------------------------------------------------
+Place Name: Community College of Allegheny County - Boyce Campus
+Address: 595 Beatty Road
+Monroeville, Pennsylvania 15146
+--------------------------------------------------------------------------------
+Place Name: Boyce Park
+Address: 675 Old Frankstown Rd
+Pittsburgh, Pennsylvania 16239
+(724) 327-0338
+--------------------------------------------------------------------------------
+Place Name: DUQUESNE UNIVERSITY
+Address: Room A-11, Administration Building, 600 Forbes Avenue
+Pittsburgh, Pennsylvania 15282
+(412) 396-5731
+--------------------------------------------------------------------------------
+Place Name: Boyce Mayview Park
+Address: 1543 Mayview Rd
+Upper St Clair, Pennsylvania 15241
+--------------------------------------------------------------------------------
+Place Name: Deer Lakes Park Disc Golf Course
+Address: 1090 Bailey Run Road
+Tarentum, Pennsylvania 15084
+--------------------------------------------------------------------------------
+Place Name: Baierl Ice Complex
+Address: 103 Marshall Dr.
+Warrendale, Pennsylvania 15086
+--------------------------------------------------------------------------------
+Place Name: Arthur J. Rooney Field
+Address: 600 Forbes Ave.
+Pittsburgh, Pennsylvania 15282
+--------------------------------------------------------------------------------
+Place Name: Duquesne University Department of Athletics
+Address: 1304 Forbes Ave.
+Pittsburgh, Pennsylvania 15282
+--------------------------------------------------------------------------------
+Place Name: Clover Hill Golf Course of Franklin Park
+Address: 2200 Reis Run Road
+Pittsburgh, Pennsylvania 15237
+--------------------------------------------------------------------------------
+Place Name: CNX Resources Sports Complex at Turner Valley
+Address: 3700 Turner Valley Rd
+North Huntingdon, Pennsylvania 15642
+(724) 861-5612
+--------------------------------------------------------------------------------
+Place Name: Diamond Run Golf Club
+Address: 132 Laurel Oak Dr.
+Sewickley, Pennsylvania 15143
+(412) 741-2020
+--------------------------------------------------------------------------------
+Place Name: Alpha Tennis and Fitness of Pittsburgh
+Address: One Alpha Drive E
+Harmar, Pennsylvania 15238
+--------------------------------------------------------------------------------
+Place Name: Bill Mazeroski Miracle Field
+Address: 4056 Wiestertown Road
+Export, Pennsylvania 15623
+--------------------------------------------------------------------------------
+Place Name: Acrisure Stadium
+Address: 100 Art Rooney Ave
+Pittsburgh, Pennsylvania 15212
+--------------------------------------------------------------------------------
+Place Name: BLADERUNNERS
+Address: 
+--------------------------------------------------------------------------------
+Place Name: Brooks Park
+Address: 200 North Forest Avenue
+Washington, Pennsylvania 15301
+--------------------------------------------------------------------------------
+
+Scraping: https://www.sportspittsburgh.com/sports-planner/sports-facilities/?page=2
+Place Name: Gesling Stadium
+Address: 5000 Forbes Ave
+Pittsburgh, Pennsylvania 15213
+--------------------------------------------------------------------------------
+Place Name: Island Sports Center
+Address: 7600 Grand Ave.
+Pittsburgh, Pennsylvania 15225
+(412) 397-4445
+--------------------------------------------------------------------------------
+Place Name: Moraine State Park Disc Golf Course
+Address: Lakeview Beach Road
+Portersville, Pennsylvania 16051
+--------------------------------------------------------------------------------
+Place Name: Miracle League Field of South Hills
+Address: 1551 Mayview Rd.
+Upper St. Clair, Pennsylvania 15241
+--------------------------------------------------------------------------------
+Place Name: Janet L Swanson Tennis Courts
+Address: 60 South Lincoln Street
+Washington, Pennsylvania 15301
+--------------------------------------------------------------------------------
+Place Name: Franklin Regional High School
+Address: 3200 School Road
+Murrysville,, Pennsylvania 15668
+(724) 327-5456
+--------------------------------------------------------------------------------
+Place Name: Mazeroski Field
+Address: 9 Schenley Park
+Pittsburgh, Pennsylvania 15203
+--------------------------------------------------------------------------------
+Place Name: Knob Hill Disc Golf Course
+Address: 415 Knob Road
+Wexford, Pennsylvania 15090
+--------------------------------------------------------------------------------
+Place Name: Mellon Park Tennis Center
+Address: 6601 Fifth Ave
+Pittsburgh, Pennsylvania 15206
+--------------------------------------------------------------------------------
+Place Name: Founders Field
+Address: 101 Eisele Rd
+Cheswick, Pennsylvania 15024
+--------------------------------------------------------------------------------
+Place Name: Highmark Stadium
+Address: 510 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 224-4900
+--------------------------------------------------------------------------------
+Place Name: Monroeville Disc Golf Course
+Address: 2336 Tilbrook Rd.
+Monroeville, Pennsylvania 15146
+--------------------------------------------------------------------------------
+Place Name: Fox Chapel Racquet Club
+Address: 355 Hunt Road
+Pittsburgh, Pennsylvania 15238
+(412) 963-8331
+--------------------------------------------------------------------------------
+Place Name: Joe Walton Stadium
+Address: 6001 University Blvd.
+Pittsburgh, Pennsylvania 15108
+--------------------------------------------------------------------------------
+Place Name: Henry Memorial Center
+Address: 60 South Lincoln Street
+Washington, Pennsylvania 15301
+--------------------------------------------------------------------------------
+Place Name: Mt. Lebanon Ice Center
+Address: 900 Cedar Blvd.
+Pittsburgh, Pennsylvania 15228
+--------------------------------------------------------------------------------
+Place Name: Ellis Field
+Address: Bakery Square Blvd
+Pittsburgh, Pennsylvania 15206
+--------------------------------------------------------------------------------
+Place Name: Mt. Lebanon Tennis Center
+Address: 900 Cedar Blvd.
+Pittsburgh, Pennsylvania 15228
+--------------------------------------------------------------------------------
+Place Name: Nemacolin Country Club
+Address: Route 40 West P.O. Box 134
+Beallsville, PA, Pennsylvania 15313
+(724) 632-3300
+--------------------------------------------------------------------------------
+Place Name: North Allegheny Senior High School
+Address: 10375 Perry Hwy
+Wexford, Pennsylvania 15090
+--------------------------------------------------------------------------------
+Place Name: Frozen Pond Arena
+Address: 118 Sylvan Spring Ln
+Valencia, Pennsylvania 16059
+--------------------------------------------------------------------------------
+Place Name: Franklin Park Borough
+Address: 1604 Blaine's Way
+Sewickley, Pennsylvania 15143
+412-364-4115 ex 318
+--------------------------------------------------------------------------------
+Place Name: Henry Memorial Natatorium
+Address: 60 South Lincoln Street
+Washington, Pennsylvania 15301
+--------------------------------------------------------------------------------
+Place Name: Evans Park
+Address: Milly Monturo Way
+South Park Township, Pennsylvania 15219
+--------------------------------------------------------------------------------
+
+Scraping: https://www.sportspittsburgh.com/sports-planner/sports-facilities/?page=3
+Place Name: Towers Pool
+Address: 1304 Forbes Ave.
+Pittsburgh, Pennsylvania 15282
+--------------------------------------------------------------------------------
+Place Name: Skibo Gymnasium
+Address: Tech Street and Frew St.
+Pittsburgh, Pennsylvania 15213
+--------------------------------------------------------------------------------
+Place Name: Petersen Events Center
+Address: 3719 Terrace St.
+Pittsburgh, Pennsylvania 15261
+(412) 648-3054
+--------------------------------------------------------------------------------
+Place Name: Swagger Sports Enterprises
+Address: 2 Rutgers Rd, Bld. B - 2nd Fl.
+Crafton, Pennsylvania 15205
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Elite Volleyball Center
+Address: 1 Heron Avenue
+Pittsburgh, Pennsylvania 15202
+--------------------------------------------------------------------------------
+Place Name: Seton Hill University
+Address: 1 Seton Hill Drive, Institutional Advancement
+Greensburg, Pennsylvania 15601
+--------------------------------------------------------------------------------
+Place Name: Quicksilver Golf Club
+Address: PO Box 595, 2000 Quicksilver Rd.
+Midway, Pennsylvania 15060
+(724) 796-1594
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh International Race Complex
+Address: 201 Penndale Rd.
+Wampum, Pennsylvania 16157
+(724) 535-1000
+--------------------------------------------------------------------------------
+Place Name: St Vincent College
+Address: 300 Fraser Purchase Road
+Latrobe, Pennsylvania 15650-2690
+(724) 532-6600
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh's Indoor Sports Arena
+Address: 22 Rich Hill Rd
+Cheswick, Pennsylvania 15024
+(412) 820-0657
+--------------------------------------------------------------------------------
+Place Name: Slippery Rock Disc Golf Course
+Address: North Road
+Slippery Rock, Pennsylvania 16057
+--------------------------------------------------------------------------------
+Place Name: Printscape Arena
+Address: 114 Southpointe Blvd.
+Canonsburg, Pennsylvania 15317
+724-745-6666 X 200
+--------------------------------------------------------------------------------
+Place Name: Oakmont Country Club
+Address: 1233 Hulton Road
+Oakmont, Pennsylvania 15139
+(412) 828-8000
+--------------------------------------------------------------------------------
+Place Name: Phillips Park Disc Golf Course
+Address: 201 Parkfield St.
+Pittsburgh, Pennsylvania 15210
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Ice Arena
+Address: 700 Craigdell Road
+New Kensington, Pennsylvania 15068
+(724) 334-4423
+--------------------------------------------------------------------------------
+Place Name: PNC Park
+Address: 115 Federal St.
+Pittsburgh, Pennsylvania 15212
+--------------------------------------------------------------------------------
+Place Name: Schenley Oval Sportsplex
+Address: 1 Overlook Dr
+Pittsburgh, Pennsylvania 15207
+--------------------------------------------------------------------------------
+Place Name: Pine-Richland High School
+Address: 700 Warrendale Road
+Gibsonia, Pennsylvania 15044
+724-625-7773 ex 6801
+--------------------------------------------------------------------------------
+Place Name: PPG Paints Arena
+Address: 1001 Fifth Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 642-1800
+--------------------------------------------------------------------------------
+Place Name: Peterswood Park
+Address: 750 Bebout Road
+Venetia, Pennsylvania 15367
+--------------------------------------------------------------------------------
+Place Name: North Athletic Complex
+Address: 6001 University Boulevard
+Moon Twp., Pennsylvania 15108
+--------------------------------------------------------------------------------
+Place Name: Schenley Park Disc Golf Course
+Address: 1 Overlook Drive
+Pittsburgh, Pennsylvania 15207
+--------------------------------------------------------------------------------
+Place Name: Settlers Cabin Park
+Address: 1225 Greer Road
+Pittsburgh, Pennsylvania 15205
+--------------------------------------------------------------------------------
+Place Name: North Park
+Address: Pearce Mill Road
+Allison Park, Pennsylvania 15101
+--------------------------------------------------------------------------------
+
+Scraping: https://www.sportspittsburgh.com/sports-planner/sports-facilities/?page=4
+Place Name: UNIVERSITY OF PITTSBURGH-SPORTS
+Address: 3719 Terrace Street
+Pittsburgh, 15261
+(412) 648-9888
+--------------------------------------------------------------------------------
+Place Name: YMCA of Greater Pittsburgh Bladerunners
+Address: 305 Church Rd.
+Bethel Park, Pennsylvania 15102
+--------------------------------------------------------------------------------
+Place Name: UPMC Cooper Fieldhouse
+Address: 1304 Forbes Ave.
+Pittsburgh, Pennsylvania 15282
+--------------------------------------------------------------------------------
+Place Name: Two Mile Run Extension Disc Golf Course
+Address: 1250 Brighton Road
+Beaver, Pennsylvania 15009
+--------------------------------------------------------------------------------
+Place Name: Upper St. Clair High School
+Address: 1825 McLaughlin Run Road
+Pittsburgh, Pennsylvania 15241
+--------------------------------------------------------------------------------
+Place Name: UPMC Lemieux Sports Complex
+Address: 8000 Cranberry Springs Dr
+Cranberry Twp, Pennsylvania 16066
+--------------------------------------------------------------------------------
+Place Name: West Field
+Address: 1846 West St
+Munhall, 15120
+--------------------------------------------------------------------------------

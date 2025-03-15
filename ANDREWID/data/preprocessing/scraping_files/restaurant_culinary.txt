@@ -1,0 +1,916 @@
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=1
+Page Title: 
+================================================================================
+Place Name: Aruba Island Bowls Cafe
+Address: 1601 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 440-1601
+--------------------------------------------------------------------------------
+Place Name: bellfarm Kitchen | Bar
+Address: 1111 Airport Blvd., PO Box 12420
+Hyatt Regency Pittsburgh International Airport
+Pittsburgh, Pennsylvania 15231
+(724) 899-6050
+--------------------------------------------------------------------------------
+Place Name: Bakersfield - Tacos.Tequila.Whiskey.
+Address: 940 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 586-5024
+--------------------------------------------------------------------------------
+Place Name: The Bigelow Grille
+Address: One Bigelow Square
+Pittsburgh, Pennsylvania 15219
+(412) 281-5013
+--------------------------------------------------------------------------------
+Place Name: Aqueous
+Address: 1001 Lafayette St., Nemacolin
+Farmington, Pennsylvania 15437
+(866) 406-6957
+--------------------------------------------------------------------------------
+Place Name: Alihan's Coffee & Breakfast
+Address: 129 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 742-4053
+--------------------------------------------------------------------------------
+Place Name: The Capital Grille
+Address: 301 Fifth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 338-9100
+--------------------------------------------------------------------------------
+Place Name: Barcolena Wine Bar
+Address: 922 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 525-7722
+--------------------------------------------------------------------------------
+Place Name: Carmella's Plates & Pints
+Address: 1908 E. Carson St.
+Pittsburgh, Pennsylvania 15203
+(412) 918-1215
+--------------------------------------------------------------------------------
+Place Name: August Henry's City Saloon
+Address: 946 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 765-3270
+--------------------------------------------------------------------------------
+Place Name: Bar Louie North Shore
+Address: 330 North Shore Dr., Bldg. 1B
+Pittsburgh, Pennsylvania 15212
+(412) 643-4500
+--------------------------------------------------------------------------------
+Place Name: Butcher and the Rye
+Address: 212 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 391-2752
+--------------------------------------------------------------------------------
+Place Name: The Cafe Carnegie
+Address: 4400 Forbes Ave., The Carnegie
+Pittsburgh, Pennsylvania 15213
+(412) 622-3225
+--------------------------------------------------------------------------------
+Place Name: Braddock's Rebellion
+Address: 107 Sixth St., Renaissance Pittsburgh Hotel
+Pittsburgh, Pennsylvania 15222
+(412) 992-2005
+--------------------------------------------------------------------------------
+Place Name: Bigham Tavern
+Address: 321 Bigham St.
+Pittsburgh, Pennsylvania 15211
+(412) 431-9313
+--------------------------------------------------------------------------------
+Place Name: BURN by Rocky Patel
+Address: 346 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 586-5854
+--------------------------------------------------------------------------------
+Place Name: Burgatory North Shore
+Address: 342 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 586-5846
+--------------------------------------------------------------------------------
+Place Name: Bistro To Go Café & Catering
+Address: 415 E. Ohio St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-0218
+--------------------------------------------------------------------------------
+Place Name: Bill's Bar & Burger
+Address: 1001 Liberty Ave., Westin Pittsburgh
+Pittsburgh, Pennsylvania 15222
+(412) 567-2300
+--------------------------------------------------------------------------------
+Place Name: BALVANERA
+Address: 1660 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 586-5617
+--------------------------------------------------------------------------------
+Place Name: All India Authentic Cuisine
+Address: 315 N. Craig St.
+Pittsburgh, Pennsylvania 15213
+(412) 681-6600
+--------------------------------------------------------------------------------
+Place Name: 3 Rivers Restaurant
+Address: 600 Commonwealth Place, Wyndham Grand Pittsburgh Downtown
+Pittsburgh, Pennsylvania 15222
+(412) 391-4600
+--------------------------------------------------------------------------------
+Place Name: Alihan's Mediterranean Cuisine
+Address: 124 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 888-0630
+--------------------------------------------------------------------------------
+Place Name: Burghers Brewing Co.
+Address: 3601 Butler St.
+Pittsburgh, Pennsylvania 15201
+(412) 904-2622
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=2
+Place Name: Doce Taqueria
+Address: 1302 E. Carson St.
+Pittsburgh, Pennsylvania 15203
+(412) 238-8518
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - 7671 McKnight
+Address: 7671 McKnight Rd.
+Pittsburgh, Pennsylvania 15237
+(412) 364-1211
+--------------------------------------------------------------------------------
+Place Name: Christos Mediterranean Grille
+Address: 130 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 261-6442
+--------------------------------------------------------------------------------
+Place Name: City Works Eatery & Pour House
+Address: 2 PPG Place
+Pittsburgh, Pennsylvania 15222
+(412) 448-2900
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Avalon
+Address: 1002 Ohio River Blvd.
+Pittsburgh, Pennsylvania 15202
+(412) 766-6764
+--------------------------------------------------------------------------------
+Place Name: DiBella's Subs
+Address: 16 Market St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-8634
+--------------------------------------------------------------------------------
+Place Name: Coughlin's Law Kitchen and Ale House
+Address: 10 Virginia Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 586-5673
+--------------------------------------------------------------------------------
+Place Name: The Eagle Food & Beer Hall
+Address: 737 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 688-6350
+--------------------------------------------------------------------------------
+Place Name: Con Alma
+Address: 613 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 932-2387
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Waterworks
+Address: 449 Freeport Rd.
+Pittsburgh, Pennsylvania 15238
+(412) 782-5550
+--------------------------------------------------------------------------------
+Place Name: Condado Tacos
+Address: 971 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-9111
+--------------------------------------------------------------------------------
+Place Name: The Commoner
+Address: 620 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 230-4800
+--------------------------------------------------------------------------------
+Place Name: Caroline's Restaurant and Bar
+Address: 8402 University Blvd., Doubletree by Hilton Pittsburgh Airport
+Moon Township, Pennsylvania 15108
+(412) 329-1405
+--------------------------------------------------------------------------------
+Place Name: Ditka's of Pittsburgh
+Address: 1 Robinson Plaza Bldg., 1st Floor
+Pittsburgh, Pennsylvania 15205
+(412) 722-1555
+--------------------------------------------------------------------------------
+Place Name: City Kitchen
+Address: 145 Bakery Square Blvd.
+Pittsburgh, Pennsylvania 15206
+(412) 258-0935
+--------------------------------------------------------------------------------
+Place Name: The Church Brew Works
+Address: 3525 Liberty Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 688-8200
+--------------------------------------------------------------------------------
+Place Name: Courtyard Bistro
+Address: 100 Lytton Ave., Courtyard by Marriott Pittsburgh University Center
+Pittsburgh, Pennsylvania 15213
+(412) 682-6200
+--------------------------------------------------------------------------------
+Place Name: DiAnoia's Eatery
+Address: 2549 Penn Ave
+Pittsburgh, Pennsylvania 15222
+(412) 918-1875
+--------------------------------------------------------------------------------
+Place Name: Del Frisco's Double Eagle Steakhouse
+Address: 455 Fifth Ave., Union Trust Bldg.
+Pittsburgh, Pennsylvania 15219
+(412) 240-6140
+--------------------------------------------------------------------------------
+Place Name: Crafted North
+Address: Pittsburgh Marriott City Center, 112 Washington Place
+Pittsburgh, Pennsylvania 15219
+(412) 471-4000
+--------------------------------------------------------------------------------
+Place Name: Casbah Mediterranean Restaurant and Wine Bar
+Address: 229 S. Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 661-5656
+--------------------------------------------------------------------------------
+Place Name: Chipotle Mexican Grill
+Address: 1685 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 746-0602
+--------------------------------------------------------------------------------
+Place Name: Dee Jay's BBQ Ribs & Grille
+Address: 2602 Brandt School Rd.
+Wexford, Pennsylvania 15090
+724-488-RIBS
+--------------------------------------------------------------------------------
+Place Name: Dave & Buster's
+Address: 180 E. Waterfront St.
+Homestead, Pennsylvania 15120
+(412) 462-1500
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=3
+Place Name: Eat'n Park - North Versailles
+Address: 516 Lincoln Hwy
+North Versailles, Pennsylvania 15137
+(412) 816-2006
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Etna
+Address: 830 Butler Street
+Pittsburgh, Pennsylvania 15223
+(412) 487-4870
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Dormont
+Address: 2874 West Liberty Ave
+Pittsburgh, Pennsylvania 16216
+(412) 561-4944
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Monroeville
+Address: 2987 Monroeville Blvd.
+Monroeville, Pennsylvania 15146
+(412) 373-8760
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Robinson
+Address: 100 Park Manor Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 787-8556
+--------------------------------------------------------------------------------
+Place Name: Eliza Hot Metal Bistro
+Address: 331 Technology Dr
+Pittsburgh, Pennsylvania 15219
+(412) 621-1551
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Penn Hils
+Address: 11746 Frankstown Rd.
+, Pennsylvania 15235
+(412) 242-3700
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park Whitehall
+Address: 5100 Clairton Blvd.
+Pittsburgh, Pennsylvania 15236
+(412) 882-0258
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park Hospitality Group
+Address: 285 E. Waterfront Dr.
+Pittsburgh, Pennsylvania 15120
+(412) 461-2000
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Moon Twp
+Address: 9516 University Blvd.
+Moon Township, PA 15108, Pennsylvania 15108
+(412) 264-7201
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Sewickley
+Address: 201 Ohio River Blvd.
+Sewickley, Pennsylvania 15143
+(412) 741-4650
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Library Rd.
+Address: 5220 Library Rd.
+Bethel Park, Pennsylvania 15102
+(412) 835-4011
+--------------------------------------------------------------------------------
+Place Name: Eddie Merlot's Prime Aged Beef and Seafood
+Address: 444 Liberty Ave., Ste. 100, 4 Gateway Center
+Pittsburgh, Pennsylvania 15222
+(412) 235-7676
+--------------------------------------------------------------------------------
+Place Name: ELEVEN Contemporary Kitchen
+Address: 1150 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 201-5656
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - McKnight
+Address: 7370 McKnight Rd.
+Pittsburgh, Pennsylvania 15237
+(412) 366-6220
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Edgewood
+Address: 1605 S. Braddock Ave
+Pittsburgh, Pennsylvania 15218
+(412) 243-5530
+--------------------------------------------------------------------------------
+Place Name: Eddie V's Prime Seafood
+Address: 501 Grant St., Ste. 100
+Pittsburgh, Pennsylvania 15219
+(412) 391-1714
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - McKeesport
+Address: 805 Lysle Blvd
+McKeesport, Pennsylvania 15132
+(412) 644-9148
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - South Hills
+Address: 301 South Hills Village
+, Pennsylvania 15241
+(412) 854-4855
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Waterfont
+Address: 245 E. Waterfront Dr.
+Homestead, Pennsylvania 15120
+(412) 464-7275
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Bridgeville
+Address: 1197 Washington Pk.
+Bridgeville, Pennsylvania 15017
+(412) 221-8800
+--------------------------------------------------------------------------------
+Place Name: Elevation
+Address: Embassy Suites by Hilton Pittsburgh-Downtown, 535 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-2200
+--------------------------------------------------------------------------------
+Place Name: EGE Mediterranean
+Address: 190 North Craig St.
+Pittsburgh, Pennsylvania 15213
+(412) 904-1433
+--------------------------------------------------------------------------------
+Place Name: Eat'n Park - Banksville
+Address: 1300 Banksville Rd.
+Pittsburgh, Pennsylvania 15216
+(412) 561-7894
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=4
+Place Name: Fish Nor Fowl
+Address: 5523 Penn Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 460-4644
+--------------------------------------------------------------------------------
+Place Name: Ephesus Mediterranean Restaurant
+Address: 219 Fourth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 552-9020
+--------------------------------------------------------------------------------
+Place Name: Garden Grille & Bar
+Address: 3454 Forbes Ave., Hilton Garden Inn - Pittsburgh University Place
+Pittsburgh, Pennsylvania 15213
+(412) 683-2040
+--------------------------------------------------------------------------------
+Place Name: Girasole Restaurant
+Address: 733 Copeland St.
+Pittsburgh, Pennsylvania 15232
+(412) 682-2130
+--------------------------------------------------------------------------------
+Place Name: Grand Concourse/Gandy Dancer Saloon
+Address: 100 W. Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 261-1717
+--------------------------------------------------------------------------------
+Place Name: Gi-Jin
+Address: 208 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 332-6939
+--------------------------------------------------------------------------------
+Place Name: Gather Restaurant & Bar
+Address: 164 Fort Couch Rd., Crowne Plaza Pittsburgh South
+Pittsburgh, Pennsylvania 15241
+(412) 833-5300
+--------------------------------------------------------------------------------
+Place Name: Ember & Vine Woodfire Oven and Social Bar
+Address: DoubleTree by Hilton Pittsburgh Cranberry, 910 Sheraton Dr.
+Cranberry Township, Pennsylvania 16046
+(724) 778-4177
+--------------------------------------------------------------------------------
+Place Name: Helen's Restaurant @ Seven Springs
+Address: 777 Waterwheel Dr., Seven Springs Mountain Resort
+Seven Springs, Pennsylvania 15622
+(814) 352-7777
+--------------------------------------------------------------------------------
+Place Name: Enrico Biscotti
+Address: 2022 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-2602
+--------------------------------------------------------------------------------
+Place Name: Hello Bistro
+Address: 3605 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 687-8787
+--------------------------------------------------------------------------------
+Place Name: FLIPT @ Rivers Casino Pittsburgh
+Address: 777 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+Place Name: Hello Bistro Downtown
+Address: 292 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 434-0100
+--------------------------------------------------------------------------------
+Place Name: fl.2
+Address: 510 Market St., Fairmont Pittsburgh
+Pittsburgh, Pennsylvania 15222
+(412) 773-8848
+--------------------------------------------------------------------------------
+Place Name: Foundry Table & Tap
+Address: 381 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 930-0744
+--------------------------------------------------------------------------------
+Place Name: The Factory South Shore
+Address: Sheraton Pittsburgh Hotel at Station Square, 300 West Station Square Dr.
+Pittsburgh, Pennsylvania 15219
+(412) 803-3838
+--------------------------------------------------------------------------------
+Place Name: Greer Cabaret Theater Lounge
+Address: 655 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 325-6769
+--------------------------------------------------------------------------------
+Place Name: Hyde Park Prime Steakhouse
+Address: 247 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 222-4014
+--------------------------------------------------------------------------------
+Place Name: Fogo de Chao Brazilian Steakhouse
+Address: 525 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+(412) 312-5001
+--------------------------------------------------------------------------------
+Place Name: Kaya
+Address: 2000 Smallman St.
+Pittsburgh, Pennsylvania 15219
+(412) 261-6565
+--------------------------------------------------------------------------------
+Place Name: Jimmy John's
+Address: 502 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 697-0999
+--------------------------------------------------------------------------------
+Place Name: Hofbräuhaus Pittsburgh
+Address: 2705 S. Water St.
+Pittsburgh, Pennsylvania 15203
+(412) 224-2328
+--------------------------------------------------------------------------------
+Place Name: Jacksons Restaurant + Bar
+Address: 1000 Corporate Dr., Hilton Garden Inn Pittsburgh/Southpointe
+Canonsburg, Pennsylvania 15317
+(724) 743-5005
+--------------------------------------------------------------------------------
+Place Name: Giovanni's Pizza and Pasta
+Address: 123 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-7060
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=5
+Place Name: North Shore Tavern
+Address: 120 Federal St.
+Pittsburgh, Pennsylvania 15212
+(412) 465-9865
+--------------------------------------------------------------------------------
+Place Name: Nightcap
+Address: 1001 Lafayette Dr., Nemacolin
+Farmington, Pennsylvania 15437
+(866) 406-6957
+--------------------------------------------------------------------------------
+Place Name: Morton's The Steakhouse
+Address: 625 Liberty Ave., Suite 180
+Pittsburgh, Pennsylvania 15222
+(412) 261-7141
+--------------------------------------------------------------------------------
+Place Name: Millie's Homemade Ice Cream
+Address: 246 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 709-6579
+--------------------------------------------------------------------------------
+Place Name: Nicholas Coffee & Tea Co.
+Address: 23 Market Square
+Pittsburgh, Pennsylvania 15222
+(412) 261-4225
+--------------------------------------------------------------------------------
+Place Name: Martorano's Prime @ Rivers Casino Pittsburgh
+Address: 777 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+Place Name: Lawrence Hall
+Address: 4609 Butler St.
+Pittsburgh, Pennsylvania 15201
+--------------------------------------------------------------------------------
+Place Name: La Feria - Pamela's Peruvian Cousin
+Address: 5527 Walnut St., (above Pamela's)
+Pittsburgh, Pennsylvania 15232
+(412) 682-4501
+--------------------------------------------------------------------------------
+Place Name: Mad Mex Robinson
+Address: Route 60, Robinson Plaza II, Park Manor Dr.
+Pittsburgh, Pennsylvania 15205
+(412) 494-5656
+--------------------------------------------------------------------------------
+Place Name: Monterey Bay Fish Grotto
+Address: 1411 Grandview Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 481-4414
+--------------------------------------------------------------------------------
+Place Name: LeMont Restaurant
+Address: 1114 Grandview Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 431-3100
+--------------------------------------------------------------------------------
+Place Name: OddFellows Ice Cream Co.
+Address: 1637 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-2732
+--------------------------------------------------------------------------------
+Place Name: Moe's Southwest Grill
+Address: 210 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 224-4422
+--------------------------------------------------------------------------------
+Place Name: La Gourmandine, LLC
+Address: 308 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 456-2727
+--------------------------------------------------------------------------------
+Place Name: Live Fresh Juicery
+Address: 845 Western Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 742-4064
+--------------------------------------------------------------------------------
+Place Name: Lautrec
+Address: 1001 Lafayette Dr., Nemacolin
+Farmington, Pennsylvania 15437
+(866) 406-6957
+--------------------------------------------------------------------------------
+Place Name: McCormick & Schmick's Seafood Restaurant
+Address: 301 Fifth Ave., Ste. 101, Piatt Place
+Pittsburgh, Pennsylvania 15222
+(412) 201-6992
+--------------------------------------------------------------------------------
+Place Name: Mad Mex South Hills
+Address: 2101 Greentree Rd., Scott Town Centre
+Pittsburgh, Pennsylvania 15220
+(412) 279-0200
+--------------------------------------------------------------------------------
+Place Name: Mad Mex North Hills
+Address: 7905 McKnight Rd.
+Pittsburgh, Pennsylvania 15237
+(412) 366-5656
+--------------------------------------------------------------------------------
+Place Name: Meat & Potatoes
+Address: 649 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 325-7007
+--------------------------------------------------------------------------------
+Place Name: The Original Oyster House
+Address: 20 Market Square
+Pittsburgh, Pennsylvania 15222
+(412) 566-7925
+--------------------------------------------------------------------------------
+Place Name: Ollie's Gastropub
+Address: Embassy Suites by Hilton Pittsburgh-Downtown, 535 Smithfield St.
+Pittsburgh, Pennsylvania 15222
+412-338-2200 x 2833
+--------------------------------------------------------------------------------
+Place Name: Novo Asian Food Hall
+Address: 1931 Smallman St.
+Pittsburgh, Pennsylvania 15222
+--------------------------------------------------------------------------------
+Place Name: Mian @ Rivers Casino Pittsburgh
+Address: 777 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=6
+Place Name: Primanti Bros. Market Square
+Address: 2 South Market Square
+Pittsburgh, Pennsylvania 15222
+(412) 261-1599
+--------------------------------------------------------------------------------
+Place Name: PrimoHoagies
+Address: 1901 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-1382
+--------------------------------------------------------------------------------
+Place Name: OTARU
+Address: 1200 Grandview Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 586-5485
+--------------------------------------------------------------------------------
+Place Name: The Porch at Schenley
+Address: 221 Schenley Dr.
+Pittsburgh, Pennsylvania 15213
+(412) 687-6724
+--------------------------------------------------------------------------------
+Place Name: Primanti Bros. South Side
+Address: 1832 E. Carson St.
+Pittsburgh, Pennsylvania 15203
+(412) 381-2583
+--------------------------------------------------------------------------------
+Place Name: PrimoHoagies
+Address: 526 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 587-0950
+--------------------------------------------------------------------------------
+Place Name: Press House Coffee
+Address: 505 Broad St.
+Sewickley, Pennsylvania 15143
+(412) 848-1436
+--------------------------------------------------------------------------------
+Place Name: Ritual House
+Address: 524 William Penn Place
+Pittsburgh, Pennsylvania 15219
+(412) 904-2002
+--------------------------------------------------------------------------------
+Place Name: Primanti Bros. Strip District
+Address: 46 18th St.
+Pittsburgh, Pennsylvania 15222
+(412) 263-2142
+--------------------------------------------------------------------------------
+Place Name: Rivers Club
+Address: One Oxford Centre, 301 Grant St., Ste. 411
+Pittsburgh, Pennsylvania 15219
+(412) 391-5227
+--------------------------------------------------------------------------------
+Place Name: Reva Modern Indian Cuisine
+Address: 220 N. Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 952-9558
+--------------------------------------------------------------------------------
+Place Name: The PA Market
+Address: 108 19th St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-1332
+--------------------------------------------------------------------------------
+Place Name: Pamela's P&G Diners
+Address: 60 21st St.
+Pittsburgh, Pennsylvania 15222
+(412) 281-6366
+--------------------------------------------------------------------------------
+Place Name: Palm Court
+Address: 530 William Penn Place, Omni William Penn
+Pittsburgh, Pennsylvania 15219
+(412) 281-7100
+--------------------------------------------------------------------------------
+Place Name: Penn Brewery - Pittsburgh International Airport
+Address: 1000 Airport Blvd., Pittsburgh International Airport, Concourse A, Airside Terminal, Between Gates 6 and 8
+Pittsburgh, Pennsylvania 15231
+(412) 472-5419
+--------------------------------------------------------------------------------
+Place Name: PaPa J's Twin Plaza
+Address: 2016 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 429-7272
+--------------------------------------------------------------------------------
+Place Name: Redbeard's on Sixth Sports Bar & Grill
+Address: 144 Sixth St.
+Pittsburgh, Pennsylvania 15222
+(412) 261-2324
+--------------------------------------------------------------------------------
+Place Name: Penn Brewery
+Address: 800 Vinial St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-9400
+--------------------------------------------------------------------------------
+Place Name: Revel
+Address: 242 Forbes Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-1134
+--------------------------------------------------------------------------------
+Place Name: Peace, Love and Little Donuts
+Address: 50 21st St.
+Pittsburgh, Pennsylvania 15222
+(412) 904-4649
+--------------------------------------------------------------------------------
+Place Name: The Runner Stone Mill House Restaurant & Bar
+Address: Pittsburgh Airport Marriott, 777 Aten Rd.
+Coraopolis, Pennsylvania 15108
+(412) 788-8800
+--------------------------------------------------------------------------------
+Place Name: Primanti Bros.
+Address: 2100 Wharton St., Ste 720
+Pittsburgh, Pennsylvania 15203
+(412) 325-2455
+--------------------------------------------------------------------------------
+Place Name: Quicksilver Restaurant, Lounge & Banquet Center
+Address: PO Box 595, 2000 Quicksilver Rd.
+Midway, Pennsylvania 15060
+(724) 796-1594
+--------------------------------------------------------------------------------
+Place Name: Playa Bowls™
+Address: 1707 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(814) 737-2571
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=7
+Place Name: Shake Shack
+Address: 1767 Smallman St.
+Pittsburgh, Pennsylvania 15222
+(412) 286-0117
+--------------------------------------------------------------------------------
+Place Name: Siempre Algo
+Address: 414 E. Ohio St.
+Pittsburgh, Pennsylvania 15212
+(412) 652-9968
+--------------------------------------------------------------------------------
+Place Name: Steel Mill Saloon
+Address: 1225 Grandview Ave.
+Pittsburgh, Pennsylvania 15211
+(412) 586-4926
+--------------------------------------------------------------------------------
+Place Name: Sullivan's Steakhouse Pittsburgh
+Address: 600 Grant St.
+Pittsburgh, Pennsylvania 15219
+(412) 775-4000
+--------------------------------------------------------------------------------
+Place Name: Social House 7
+Address: 123 7th St.
+Pittsburgh, Pennsylvania 15222
+(412) 586-4130
+--------------------------------------------------------------------------------
+Place Name: Seasons/Asado Urban Grill
+Address: 500 Mansfield Ave., DoubleTree by Hilton Pittsburgh - Green Tree
+Pittsburgh, Pennsylvania 15205
+(412) 920-8011
+--------------------------------------------------------------------------------
+Place Name: Ruth's Chris Steak House
+Address: Six PPG Place
+Pittsburgh, Pennsylvania 15222
+(412) 391-4800
+--------------------------------------------------------------------------------
+Place Name: The Standard Market & Pint House
+Address: 947 Penn Ave.
+Pittsbugh, Pennsylvania 15222
+(412) 224-2462
+--------------------------------------------------------------------------------
+Place Name: Sultan Döner Kebab & Baklava
+Address: 133 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 235-7299
+--------------------------------------------------------------------------------
+Place Name: Scratch & Co.
+Address: 1720 Lowrie St.
+Pittsburgh, Pennsylvania 15212
+(412) 251-0822
+--------------------------------------------------------------------------------
+Place Name: Sankalp The Taste of India
+Address: 1187 Freedom Rd. C-105
+Cranberry Township, Pennsylvania 16066
+(724) 591-8888
+--------------------------------------------------------------------------------
+Place Name: The Simple Greek
+Address: 431 Market St.
+Pittsburgh, Pennsylvania 15222
+(412) 261-4976
+--------------------------------------------------------------------------------
+Place Name: Starbucks
+Address: 1701 Smallman St.
+Pittsburgh, Pennsylvania 15222
+--------------------------------------------------------------------------------
+Place Name: Sienna Mercato
+Address: 942 Penn Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 281-2810
+--------------------------------------------------------------------------------
+Place Name: Shorty's Pins x Pints
+Address: 353 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 904-4450
+--------------------------------------------------------------------------------
+Place Name: The Speckled Egg South Side
+Address: 428 S. 27th St.
+Pittsburgh, Pennsylvania 15203
+(412) 206-7793
+--------------------------------------------------------------------------------
+Place Name: Slopeside Restaurant @ Seven Springs
+Address: 777 Waterwheel Dr., Seven Springs Mountain Resort
+Seven Springs, Pennsylvania 15622
+(814) 352-7777
+--------------------------------------------------------------------------------
+Place Name: Spirits & Tales
+Address: 5130 Bigelow Blvd., The Oaklander Hotel
+Pittsburgh, Pennsylvania 15213
+(412) 297-4080
+--------------------------------------------------------------------------------
+Place Name: Sally Ann's
+Address: 136 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 338-1876
+--------------------------------------------------------------------------------
+Place Name: The Speckled Egg
+Address: 501 Grant St., The Union Trust Building
+Pittsburgh, Pennsylvania 15219
+(412) 251-5248
+--------------------------------------------------------------------------------
+Place Name: Spork
+Address: 5430 Penn Ave
+Pittsburgh, Pennsylvania 15206
+(412) 441-1700
+--------------------------------------------------------------------------------
+Place Name: SOBA
+Address: 5847 Ellsworth Ave.
+Pittsburgh, Pennsylvania 15232
+(412) 362-5656
+--------------------------------------------------------------------------------
+Place Name: Salem's Market and Grill
+Address: 2923 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 667-9289
+--------------------------------------------------------------------------------
+Place Name: Space Bar
+Address: 22 Market Square
+Pittsburgh, Pennsylvania 15222
+(412) 862-5881
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/restaurants-culinary/?page=8
+Place Name: Umi Japanese Restaurant
+Address: 5849 Ellsworth Ave.
+Pittsburgh, Pennsylvania 15232
+(412) 362-6198
+--------------------------------------------------------------------------------
+Place Name: The Terrace Room
+Address: 530 William Penn Place, Omni William Penn Hotel
+Pittsburgh, Pennsylvania 15219
+(412) 553-5235
+--------------------------------------------------------------------------------
+Place Name: Vallozzi's Pittsburgh
+Address: 220 Fifth Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 394-3400
+--------------------------------------------------------------------------------
+Place Name: Wheelhouse Sports Bar and Grill @ Rivers Casino Pittsburgh
+Address: 777 Casino Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 231-7777
+--------------------------------------------------------------------------------
+Place Name: Waffles, INCaffeinated Downtown
+Address: 456 Fifth Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 290-7801
+--------------------------------------------------------------------------------
+Place Name: The Tap Room
+Address: 530 William Penn Place, Omni William Penn Hotel
+Pittsburgh, Pennsylvania 15219
+(412) 281-7100
+--------------------------------------------------------------------------------
+Place Name: Tom's Watch Bar
+Address: 261 North Shore Dr., Ste. 3
+Pittsbugh, Pennsylvania 15212
+(412) 254-8338
+--------------------------------------------------------------------------------
+Place Name: Twelve Whiskey Barbecue
+Address: 1222 E. Carson St.
+Pittsburgh, Pennsylvania 15203
+(412) 742-4024
+--------------------------------------------------------------------------------
+Place Name: täkō
+Address: 214 6th St.
+Pittsburgh, Pennsylvania 15222
+(412) 471-8256
+--------------------------------------------------------------------------------
+Place Name: Talia Cucina & Rosticerria
+Address: 425 Sixth Ave.
+Pittsburgh, Pennsylvania 15219
+(412) 456-8214
+--------------------------------------------------------------------------------
+Place Name: täkō torta
+Address: 122 Bakery Square Blvd.
+Pittsburgh, Pennsylvania 15206
+(412) 866-8256
+--------------------------------------------------------------------------------
+Place Name: Tequila Cowboy
+Address: 380 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 930-0895
+--------------------------------------------------------------------------------

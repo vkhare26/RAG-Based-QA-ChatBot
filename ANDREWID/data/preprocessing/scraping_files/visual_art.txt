@@ -1,0 +1,207 @@
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/visual-arts/?page=1
+Page Title: 
+================================================================================
+Place Name: The Jimmy Stewart Museum
+Address: 835 Philadelphia St.
+Indiana, Pennsylvania 15701
+(724) 349-6112
+--------------------------------------------------------------------------------
+Place Name: Brew House Arts
+Address: 711 S. 21st St.
+Pittsburgh, Pennsylvania 15203
+(412) 212-6650
+--------------------------------------------------------------------------------
+Place Name: Fort Pitt Museum
+Address: 601 Commonwealth Place, Building B
+Point State Park
+Pittsburgh, Pennsylvania 15222
+(412) 281-9284
+--------------------------------------------------------------------------------
+Place Name: Gallery Crawl in the Cultural District
+Address: Downtown Pittsburgh's Cultural District
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Carnegie Museum of Art and Natural History
+Address: 4400 Forbes Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 622-3131
+--------------------------------------------------------------------------------
+Place Name: Johnny Angel's Ginchy Stuff and Music Museum
+Address: 1800 Preble Ave., R.J. Casey Industrial Park
+Pittsburgh, Pennsylvania 15233
+(412) 322-1830
+--------------------------------------------------------------------------------
+Place Name: August Wilson African American Cultural Center
+Address: 980 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 339-1011
+--------------------------------------------------------------------------------
+Place Name: The Frick Pittsburgh
+Address: 7227 Reynolds St.
+Pittsburgh, Pennsylvania 15208
+(412) 371-0600
+--------------------------------------------------------------------------------
+Place Name: Bicycle Heaven Museum
+Address: 1800 Preble Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 734-4034
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's Fallingwater
+Address: Route 381 South, 1491 Mill Run Rd.
+Mill Run, Pennsylvania 15464
+(724) 329-8501
+--------------------------------------------------------------------------------
+Place Name: Meadowcroft Rockshelter and Historic Village
+Address: 401 Meadowcroft Rd.
+Avella, Pennsylvania 15312
+(724) 587-3412
+--------------------------------------------------------------------------------
+Place Name: Contemporary Craft
+Address: 5645 Butler St.
+Pittsburgh, Pennsylvania 15201
+(412) 261-7003
+--------------------------------------------------------------------------------
+Place Name: 707 Penn Gallery
+Address: 707 Penn Ave. (near Seventh St.)
+Pittsburgh, Pennsylvania 15222
+(412) 456-6666
+--------------------------------------------------------------------------------
+Place Name: Latrobe Art Center
+Address: 819 Ligonier St.
+Latrobe, Pennsylvania 15650
+(724) 537-7011
+--------------------------------------------------------------------------------
+Place Name: Frank Lloyd Wright's House on Kentuck Knob
+Address: 723 Kentuck Rd.
+Chalk Hill, Pennsylvania 15421
+(724) 329-1901
+--------------------------------------------------------------------------------
+Place Name: Children's Museum of Pittsburgh and MuseumLab
+Address: 10 Children's Way
+Pittsburgh, Pennsylvania 15212
+(412) 322-5058
+--------------------------------------------------------------------------------
+Place Name: Kelso Museum of Near Eastern Archaeology at Pittsburgh Theological Seminary
+Address: 616 N. Highland Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 924-1394
+--------------------------------------------------------------------------------
+Place Name: Fort Ligonier
+Address: 200 South Market St.
+Ligonier, Pennsylvania 15658
+(724) 238-9701
+--------------------------------------------------------------------------------
+Place Name: The Clemente Museum
+Address: 3339 Penn Ave.
+Pittsburgh, Pennsylvania 15201
+(412) 621-1268
+--------------------------------------------------------------------------------
+Place Name: Mattress Factory Museum of Contemporary Art
+Address: 509 Jacksonia St.
+Pittsburgh, Pennsylvania 15212
+(412) 231-3169
+--------------------------------------------------------------------------------
+Place Name: Latin American Cultural Center (LACC)
+Address: 4338 Bigelow Blvd.
+Pittsburgh, Pennsylvania 15213
+(412) 648-7929
+--------------------------------------------------------------------------------
+Place Name: Fireborn Studios
+Address: 2338 Sarah St.
+Pittsburgh, Pennsylvania 15203
+(412) 488-6835
+--------------------------------------------------------------------------------
+Place Name: Atithi Studios
+Address: 1020 N. Canal St.
+Sharpsburg, Pennsylvania 15215
+(412) 301-5374
+--------------------------------------------------------------------------------
+Place Name: The Andy Warhol Museum
+Address: 117 Sandusky St.
+Pittsburgh, Pennsylvania 15212
+(412) 237-8300
+--------------------------------------------------------------------------------
+
+Scraping: https://www.visitpittsburgh.com/things-to-do/arts-culture/visual-arts/?page=2
+Place Name: The Society to Preserve the Millvale Murals of Maxo Vanka
+Address: 24 Maryland Ave.
+Millvale, Pennsylvania 15209
+(412) 408-3180
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Glass Center
+Address: 5472 Penn Ave.
+Pittsburgh, Pennsylvania 15206
+(412) 365-2145
+--------------------------------------------------------------------------------
+Place Name: Soldiers & Sailors Memorial Hall & Museum
+Address: 4141 Fifth Ave.
+Pittsburgh, Pennsylvania 15213
+(412) 621-4253
+--------------------------------------------------------------------------------
+Place Name: The Westmoreland Museum of American Art
+Address: 221 N. Main St.
+Greensburg, Pennsylvania 15601
+(724) 837-1500
+--------------------------------------------------------------------------------
+Place Name: SPACE
+Address: 812 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 325-7723
+--------------------------------------------------------------------------------
+Place Name: Office of Public Art
+Address: 810 Penn Ave., Sixth Floor
+Pittsburgh, Pennsylvania 15222
+(412) 336-8182
+--------------------------------------------------------------------------------
+Place Name: Moonshot Museum
+Address: 1016 N. Lincoln Ave.
+Pittsburgh, Pennsylvania 15233
+(412) 314-4111
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Botanic Garden
+Address: 799 Pinkerton Run Rd.
+Oakdale, Pennsylvania 15071
+412-444-4464 x 223
+--------------------------------------------------------------------------------
+Place Name: Wood Street Galleries
+Address: 601 Wood St.
+Pittsburgh, Pennsylvania 15222
+(412) 471-5605
+--------------------------------------------------------------------------------
+Place Name: Nationality Rooms
+Address: Cathedral of Learning, 4200 Fifth Ave.
+Pittsburgh, Pennsylvania 15260
+(412) 624-6000
+--------------------------------------------------------------------------------
+Place Name: Pennsylvania Trolley Museum
+Address: 1 Electric Way
+Washington, Pennsylvania 15301
+(724) 228-9256
+--------------------------------------------------------------------------------
+Place Name: Museum of Illusions Pittsburgh
+Address: 267 North Shore Dr.
+Pittsburgh, Pennsylvania 15212
+(412) 239-8990
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Cultural Trust/Trust Presents
+Address: 803 Liberty Ave.
+Pittsburgh, Pennsylvania 15222
+(412) 471-6070
+--------------------------------------------------------------------------------
+Place Name: Pittsburgh Garden Trail
+Address: 799 Pinkerton Run Rd.
+Oakdale, Pennsylvania 15071
+412-444-4464 x 225
+--------------------------------------------------------------------------------
+Place Name: Phipps Conservatory and Botanical Gardens
+Address: One Schenley Dr.
+Pittsburgh, Pennsylvania 15213
+(412) 622-6914
+--------------------------------------------------------------------------------
+Place Name: Steelers Hall of Honor Museum
+Address: 100 Art Rooney Ave., Gate B
+Pittsburgh, Pennsylvania 15212
+(412) 697-7150
+--------------------------------------------------------------------------------
